@@ -9,12 +9,12 @@ Ever want to just turn off that logger for a while in Python? Maybe while runnin
 Notice that the logging level contants (`logging.DEBUG` etc) actually represent [numeric values](https://docs.python.org/2/howto/logging.html#logging-levels):
 
     Level       Numeric value
-    CRITICAL	50
-    ERROR	    40
-    WARNING	    30
-    INFO	    20
-    DEBUG	    10
-    NOTSET 	    0
+    CRITICAL    50
+    ERROR       40
+    WARNING     30
+    INFO        20
+    DEBUG       10
+    NOTSET      0
 
 On a whim I tried:
 
