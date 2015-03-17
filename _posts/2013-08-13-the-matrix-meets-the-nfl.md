@@ -1,7 +1,9 @@
+---
 Slug: the-matrix-meets-the-nfl
 Date: 2001-01-24
 Title: '&quot;The Matrix&quot; meets the NFL'
 layout: post
+---
 
 
 [via &quot;Slashdot&quot;] What do you get when CBS engineers, Carnegie-Mellon professors, and a bunch of Mitsubishi robotics geeks get together?

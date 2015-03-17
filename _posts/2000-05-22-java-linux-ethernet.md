@@ -1,7 +1,9 @@
+---
 Slug: java-linux-ethernet
 Date: 2000-05-22
 Title: Java, Linux, Ethernet
 layout: post
+---
 
 Man. It&#39;s been toooooooo long. I&#39;m finally wrapping up the interminable freelance job, and I realized (actually my wife reminded me) that I haven&#39;t blogged here in ages. This had to be fixed!
 

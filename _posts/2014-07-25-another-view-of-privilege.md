@@ -1,5 +1,7 @@
+---
 Title: 'Another View of Privilege'
 Date: 2014-07-24 23:30
+---
 
 (See the [disclaimer](http://www.monkinetic.com/2014/07/22/a-genderprivilege-topic-disclaimer))
 

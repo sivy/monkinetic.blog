@@ -21,7 +21,7 @@ theme:
 
   # Header and footer text
   header_text: >
-   <p>Steve Ivy's Weblog - Since 1999 - XIV Ed.</p>
+   <p>Steve Ivy's Weblog &mdash; Since 1999 - XIV Ed.</p>
   footer_text: >
    Copyright Steve Ivy, 1999-2015
 
