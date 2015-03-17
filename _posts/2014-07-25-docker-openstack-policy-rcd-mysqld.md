@@ -1,5 +1,7 @@
+---
 Title: 'Docker, Openstack, policy-rc.d, mysqld'
 Date: 2014-07-25 18:46
+---
 
 I'm working on building a [Docker](http://docker.io) image that I can use with [Jenkins](http://jenkins-ci.org) to run tests on some code. That code interacts with an Openstack install in the container to run the tests.
 

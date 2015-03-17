@@ -1,8 +1,9 @@
+---
 Slug: we-broke-it-with-our-love
 Date: 2006-09-14
 Title: '&quot;we broke it with our love&quot;'
 layout: post
-
+---
 
 &quot;have all your geek buddies messed up iTunes or something?&quot;
 

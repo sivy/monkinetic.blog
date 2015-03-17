@@ -1,5 +1,7 @@
+---
 Title: Unintentional Sexism
 Date: 2014-10-14 20:35
+---
 
 [Ways Men in Tech are Unintentionally Sexist](http://notapattern.net/2014/10/14/ways-men-in-tech-are-unintentionally-sexist/). I'm in the process of re-educating myself on these issues. If it isn't your thing, it should be. If you've been on the receiving end of this and want to talk about it, <a href="mail:steveivy@gmail.com">feel free to get in touch</a>. If you've been on the receiving end of this kind of this and I was the oaf dishing it out, <a href="mail:steveivy@gmail.com">even more so</a>.
 

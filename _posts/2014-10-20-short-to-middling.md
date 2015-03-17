@@ -1,5 +1,8 @@
+---
 Title: Short To Middling
 Date: 2014-10-20 20:45
+layout: post
+---
 
 Gina Tripani, [Short-form blogging](http://scribbling.net/2014/10/16/short-form-blogging/):
 
