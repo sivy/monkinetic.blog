@@ -1,6 +1,7 @@
 ---
 title: Spring Migration
 layout: post
+feature-img: "images/spring_river.png"
 ---
 
 Well, here in Arizona it's been Spring for a month or so, even while the East Coast is still buried under record snow. Spring, usually means a renewed interest in my oft-neglected blog, and this time I realized that monkinetic had been down for some time and I didn't even know it.
