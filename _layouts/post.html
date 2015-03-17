@@ -16,6 +16,7 @@ layout: default
     {{ content }}
   </section>
   
+  {% if {{ site.theme.github }} %}<a href="https://github.com/{{ site.theme.github }}/edit/master/_posts/{{ page.url | split:"/" | last }}.md">Edit on Github</a>{% endif %}
 </article>
 
 <!-- Disqus -->
