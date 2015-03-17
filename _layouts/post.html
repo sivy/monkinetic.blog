@@ -14,11 +14,13 @@ layout: default
 
   <section class="post-content">
     {{ content }}
+
+    {% if site.theme.github %}
+    <a href="https://github.com/{{ site.theme.github }}/edit/master/_posts/{{ page.id | replace_first:'/','' | replace:'/','-' }}.md">Edit on Github</a>
+    {% endif %}
+
   </section>
 
-  {% if site.theme.github %}
-  <a href="https://github.com/{{ site.theme.github }}/edit/master/_posts/{{ page.url | split:'/' | last | replace:'.html','.md' }}">Edit on Github</a>
-  {% endif %}
 </article>
 
 <!-- Disqus -->
