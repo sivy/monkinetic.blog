@@ -4,7 +4,7 @@ Date: 2014-10-20 20:45
 layout: post
 ---
 
-Gina Tripani, [Short-form blogging](http://scribbling.net/2014/10/16/short-form-blogging/):
+Gina Tripani posted her thoughts on what she calls [short-form blogging](http://scribbling.net/2014/10/16/short-form-blogging/).
 
 > "With the obvious caveat that rules are made to be broken (with reason), my new rules for blogging are:"
 
