@@ -26,7 +26,7 @@ theme:
    Copyright Steve Ivy, 1999-2015
 
   # Icons
-  rss: false
+  rss: true
   email_address: steveivy@gmail.com  # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
