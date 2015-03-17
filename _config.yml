@@ -15,7 +15,7 @@ subscribe_rss: /atom.xml
 theme:
   # Meta
   title: Monkinetic Weblog
-  avatar: "img/avatar.jpeg"
+  avatar: avatar.jpeg
   # gravatar: 4fe0ff89158486e907c3a19ded9ac0df
   description: "A website with blog posts and pages" # used by search engines
 
