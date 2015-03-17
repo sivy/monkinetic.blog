@@ -1,6 +1,7 @@
 ---
 Title: 'A gender/privilege topic disclaimer'
 Date: 2014-07-22 18:50
+layout: post
 ---
 
 For future reference:

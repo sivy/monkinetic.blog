@@ -1,6 +1,7 @@
 ---
 Title: 'Docker, Openstack, testing followup'
 Date: 2014-08-01 18:06
+layout: post
 ---
 
 Last week I wrote about an issue I was having with Docker and running mysql (among other things):
