@@ -1,6 +1,6 @@
 ---
 Title: Fair to Middling
-Date: 2014-10-20 21:30
+layout: post
 ---
 
 Another post on mid-length (I call them old-school) blog entries:
