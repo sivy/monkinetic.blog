@@ -1,8 +1,10 @@
+---
 Slug: we-dont-need-no-video-card
 Date: 2002-03-21
 Title: '&quot;We don&squo;t need no video card!&quot;'
 layout: post
-
+feature-img: "img/quake.png"
+---
 
 As seen on <a href="http://blogspace.com/swhack/chatlogs/">#swhack</a>:
 <pre>
