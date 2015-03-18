@@ -1,5 +1,7 @@
+---
 Title: "When in doubt..."
-Date: 2013-08-09 20:34
+layout: post
+---
 
 *...put it in a transaction.*
 

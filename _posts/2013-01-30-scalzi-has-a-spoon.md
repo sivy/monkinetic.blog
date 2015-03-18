@@ -1,6 +1,7 @@
+---
 Title: "I Don't Even Know Why This Exists, But It Does And It's In My House And I Have a Spoon"
-Date: 2013-01-30 19:10
-
+layout: post
+---
 
 
 > Finally, I suspect that if I made a sandwich out of this stuff and Nutella, I might very well translate bodily into heaven.

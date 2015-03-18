@@ -1,5 +1,7 @@
+--
 Title: "SqlAlchemy Relationship Error: 'property of that name exists on mapper'"
-Date: 2013-08-07 06:43
+layout: post
+---
 
 ### The Setup
 
@@ -13,7 +15,7 @@ Starting with the following (slightly snipped for brevity) python/SqlAlchemy cod
 
     class UserBlog(ModelBase):
 	    __tablename__ = 'user_blog'
-	
+
 	    id = sa.Column(sa.Integer, primary_key=True)
 	    uid = sa.Column(strcol)
 	    # blog title
@@ -23,42 +25,42 @@ Starting with the following (slightly snipped for brevity) python/SqlAlchemy cod
 	    sync_stats = relationship(
 	    	'models.SyncStats', backref='blog',
 	        lazy='dynamic')
-	
+
 
 	class SyncStats(ModelBase):
 	    """
 	    Store various statistics about sync operations
 	    """
 	    __tablename__ = 'system_syncstats'
-	
+
 	    id = sa.Column(sa.Integer, primary_key=True)
 	    uid = sa.Column(strcol, sa.ForeignKey('user_blogsettings.uid'))
-	
+
 And this code in `<project>/markbox/tools/test.py`:
 
     import sys
     import os
-    
+
     sys.path.append(os.path.abspath('.'))
     sys.path.append(os.path.abspath('markbox'))
     print sys.path
-    
+
     from markbox.models import UserBlog, SyncStats
-    
+
     from sqlalchemy import create_engine
     from sqlalchemy.ext.declarative import declarative_base
     from sqlalchemy import Column, Integer, String, DateTime
     from sqlalchemy.orm import sessionmaker
-    
+
     SQLALCHEMY_DATABASE_URI = "mysql://markbox_user:markbox@localhost/markbox"
-    
+
     engine = create_engine(SQLALCHEMY_DATABASE_URI, echo='debug')
     Session = sessionmaker(bind=engine)
     session = Session()
-        
+
     if __name__ == '__main__':
         blog = UserBlog.query.limit(1)
-    
+
 ### The Error
 
 When run from the command line in &lt;project>:

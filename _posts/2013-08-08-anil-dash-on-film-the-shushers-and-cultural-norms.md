@@ -1,5 +1,7 @@
+---
 Title: "Anil Dash on Film, the Shushers and Cultural Norms"
-Date: 2013-08-08 20:38
+layout: post
+---
 
 Oh, my, [Anil](http://dashes.com/anil/). I do love your writing so much.
 

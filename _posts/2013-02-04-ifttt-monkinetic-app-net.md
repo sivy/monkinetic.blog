@@ -1,5 +1,7 @@
+---
 Title: "If monkinetic Then app.net"
-Date: 2013-02-04 12:41
+layout: post
+---
 
 I'm testing out a basic [IFTTT](http:/ifttt.com) recipe that reposts monkinetic posts to [my app.net account](https://alpha.app.net/sivy).
 

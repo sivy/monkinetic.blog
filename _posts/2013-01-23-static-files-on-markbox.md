@@ -1,5 +1,7 @@
+---
 Title: "Static Files on Markbox"
-Date: 2013-01-23 21:55
+layout: post
+---
 
 [Markbox](http://markbox.io) now supports static files (images, CSS, javascript, etc) stored in your Dropbox folder:
 

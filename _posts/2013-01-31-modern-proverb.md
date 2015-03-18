@@ -1,5 +1,7 @@
+---
 Title: A Modern Proverb
-Date: 2013-01-31 9:15
+layout: post
+---
 
 > Three things you should be wary of,<br />A new kid in his prime,<br />A man with all the answers, <br />And code that runs first time.
 

@@ -1,5 +1,7 @@
+---
 Title: "Flexible Foundations"
-Date: 2013-01-10 13:48
+layout: post
+---
 
 <img src="http://static.monkinetic.com/files//ff-20130110-065206.png" style="float:right; margin: 0 0 5px 10px; border: none" />
 

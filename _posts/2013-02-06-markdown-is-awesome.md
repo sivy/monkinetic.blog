@@ -1,6 +1,7 @@
+---
 Title: "Markdown is Awesome"
-Date: 2013-02-06 16:24
-slug: markdown-is-awesome
+layout: post
+---
 
 I've been using [Markdown][md] for years now as my blogging format of choice. I've used it in [Wordpress][wp], [Movable Type][mt], [Typepad][tp], [Jekyll][jek] &amp; [Octopress][octo], and now [Markbox][mb].
 

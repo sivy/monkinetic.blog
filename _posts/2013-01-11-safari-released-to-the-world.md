@@ -1,6 +1,7 @@
+---
 Title: "There's nothing that can..."
-Date: 2013-01-11 15:49
-slug: safari-released-to-the-world
+layout: post
+---
 
 > There's nothing that can fill your underwear faster than seeing your product fail during a Steve Jobs demo.
 

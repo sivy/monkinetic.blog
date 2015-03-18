@@ -1,4 +1,6 @@
+---
 Title: "Minimalism"
-Date: 2013-01-16 16:22
+layout: post
+---
 
 [Minimalism is Simple](http://www.incidentalcomics.com/2013/01/minimalism-is-simple.html).

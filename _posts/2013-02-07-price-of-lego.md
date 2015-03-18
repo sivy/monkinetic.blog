@@ -1,9 +1,11 @@
+---
 Title: "More information than you require... about the price of LEGO."
-Date: 2013-02-07 06:45
+layout: post
+---
 
 Many of us AFOL's (Adult Fans of LEGO) wonder, what's up with the crazy prices of LEGO?
 
-[Reality Prose][what-happened] has our answer: 
+[Reality Prose][what-happened] has our answer:
 
 [![LEGO prices since  1960](http://static.monkinetic.com/files//lego_prices-20130207-064627.png)][what-happened]
 
