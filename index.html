@@ -19,11 +19,17 @@ layout: default
         <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
       </header>
 
+      {% if forloop.index < 4 %}
+      <div class="post-content">
+        {{ post.content }}
+      </div>
+      {% else %}
       <div class="excerpt">
         {{ post.excerpt }}
 
         <a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.theme.str_continue_reading }}</a>
       </div>
+      {% endif %}
     </div>
     {% endfor %}
   </div>
