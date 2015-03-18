@@ -20,13 +20,14 @@ layout: default
       </header>
 
       {% if forloop.index < 4 %}
+      {% capture minutes %}{{ page.content | size | divided_by:200 }}{% endcapture %}
       <div class="post-content">
         {{ post.content }}
       </div>
       {% else %}
       <div class="excerpt">
         <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-
+        <p><em>About {{ minutes }} minute{% if minutes > 1 %}s{% endif %}</em></p>
         <a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.theme.str_continue_reading }}</a>
       </div>
       {% endif %}
