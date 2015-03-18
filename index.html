@@ -25,7 +25,7 @@ layout: default
       </div>
       {% else %}
       <div class="excerpt">
-        {{ post.excerpt }}
+        <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
 
         <a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.theme.str_continue_reading }}</a>
       </div>
