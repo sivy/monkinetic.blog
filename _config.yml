@@ -76,3 +76,7 @@ highlighter: pygments
 sass:
   sass_dir: _sass
   style: :compressed
+
+# Read Time is a calculator to provide post Estimated Reading Time (ERT) based on word count. Usage is recommended.
+readtime:   true
+wpm: 200
