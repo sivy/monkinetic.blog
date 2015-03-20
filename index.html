@@ -9,16 +9,7 @@ layout: default
   {% endif %}
 
   <div class="posts">
-    {%comment %}
     {% for post in paginator.posts %}
-      {% if site.readtime %}
-          {% if site.wpm %}
-            {% assign readtime = post.content | strip_html | number_of_words | append: '.0' | divided_by:site.wpm | ceil %}
-          {% else %}
-            {% assign readtime = post.content | strip_html | number_of_words | append: '.0' | divided_by:180 | ceil %}
-          {% endif %}
-      {% endif %}
-    {% endcomment %}
     <div class="post-teaser">
       <header>
         <h1>
@@ -36,7 +27,6 @@ layout: default
       {% else %}
       <div class="excerpt">
         <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-        {% comment %}{% if readtime > 1 %}<p><em>About {{ readtime }} minute</em></p>{% endif %}{% comment %}
         <a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.theme.str_continue_reading }}</a>
       </div>
       {% endif %}
