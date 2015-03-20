@@ -9,6 +9,7 @@ layout: default
   {% endif %}
 
   <div class="posts">
+    {%comment %}
     {% for post in paginator.posts %}
       {% if site.readtime %}
           {% if site.wpm %}
@@ -17,6 +18,7 @@ layout: default
             {% assign readtime = post.content | strip_html | number_of_words | append: '.0' | divided_by:180 | ceil %}
           {% endif %}
       {% endif %}
+    {% endcomment %}
     <div class="post-teaser">
       <header>
         <h1>
@@ -26,7 +28,7 @@ layout: default
         <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
       </header>
 
-      <!-- {{ readtime }} -->
+      <!-- {#{ readtime }#} -->
       {% if forloop.index < 4 %}
       <div class="post-content">
         {{ post.content }}
@@ -34,7 +36,7 @@ layout: default
       {% else %}
       <div class="excerpt">
         <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-        {% if readtime > 1 %}<p><em>About {{ readtime }} minute</em></p>{% endif %}
+        {% comment %}{% if readtime > 1 %}<p><em>About {{ readtime }} minute</em></p>{% endif %}{% comment %}
         <a class="button" href="{{ post.url | prepend: site.baseurl }}">{{ site.theme.str_continue_reading }}</a>
       </div>
       {% endif %}
