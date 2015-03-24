@@ -16,7 +16,7 @@ layout: default
     {{ content }}
 
     {% if site.theme.github %}
-    <a target="_new" href="https://github.com/{{ site.theme.github }}/edit/master/_posts/{{ page.id | replace_first:'/','' | replace:'/','-' }}.md">Edit on Github</a>
+    <a target="_new" href="https://github.com/{{ site.theme.github }}/edit/master/{{ page.path }}">Edit on Github</a>
     {% endif %}
 
   </section>
