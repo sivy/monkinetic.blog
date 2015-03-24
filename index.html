@@ -20,7 +20,7 @@ layout: default
       </header>
 
       <!-- {#{ readtime }#} -->
-      {% if forloop.index < 4 %}
+      {% if forloop.index < 4 and paginator.page == 1%}
       <div class="post-content">
         {{ post.content }}
       </div>
