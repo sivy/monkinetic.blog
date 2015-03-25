@@ -23,7 +23,12 @@ theme:
   header_text: >
    <p>Steve Ivy &mdash; Since 1999 &mdash; XIV Ed.</p>
   footer_text: >
-   Copyright Steve Ivy, 1999-2015
+   <h3>Comments</h3>
+   <p>
+   No, I don't have a comment box. If you'd like to get in touch, I would like to hear 
+   your thoughts - send them to steveivy @ gmail.com.
+   </p>
+   <p>Copyright Steve Ivy, 1999-2015</p>
 
   # Icons
   rss: true
