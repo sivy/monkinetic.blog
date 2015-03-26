@@ -56,8 +56,10 @@
         console.log('setting up mondrian')
         /*** init variables ***/
         var colors = ['#bb2233','#0CC2F1','#eedd33'],
-                     minRowCols = 3,
-                     maxRowCols = 16,
+                     minRows = 3,
+                     maxRows = 4,
+                     minCols = 12,
+                     maxCols = 16,
                      recursionChance = 0.2,
                      recursionDepreciationRate = 0.05,
                      styleChance = 0.3;
@@ -92,7 +94,7 @@
                 var feelingLucky = (Math.random() < chance) ? true : false;
 
                 if ( feelingLucky ) {
-                    var newerTable = generateMondrianTable(3, 4, 12, 16, chance * recursionDepreciationRate);
+                    var newerTable = generateMondrianTable(2, 3, 2, 4, chance * recursionDepreciationRate);
                     $(this)
                         .append(newerTable)
                         .css({
@@ -146,7 +148,7 @@
             var $thisFrame = $(this)
 
             // generate initial table
-            var newTable = generateMondrianTable(minRowCols, maxRowCols, recursionChance);
+            var newTable = generateMondrianTable(minRowCols, maxRowCols, minCols, maxCols, recursionChance);
             $thisFrame.append(newTable);
 
             // randomize cell styling
