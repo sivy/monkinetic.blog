@@ -146,9 +146,11 @@
         $frame.each(function(){
             console.log('in frame each')
             var $thisFrame = $(this)
-
+	    console.log($thisFrame)
+	    
             // generate initial table
             var newTable = generateMondrianTable(minRowCols, maxRowCols, minCols, maxCols, recursionChance);
+            console.log(newTable)
             $thisFrame.append(newTable);
 
             // randomize cell styling
