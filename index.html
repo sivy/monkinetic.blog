@@ -14,7 +14,7 @@ layout: default
     <div class="post-teaser">
       <header>
         <h1>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a {% if page.header_text_color %}style="color: {{ page.header_text_color }}"{% endif %}class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h1>
         {% if forloop.index == 1 %}
         <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
