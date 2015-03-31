@@ -1,6 +1,7 @@
 ---
 Title: Our English Cozies
 layout: post
+feature-img: 'images/cozy_feature.png'
 ---
 
 [AMC](http://www.amctv.com/shows/the-walking-dead)'s and [HBO](http://www.hbo.com/game-of-thrones#/)'s hits are all the rage for the hipsters on the Twitters, but Jodi and I prefer to curl up with a nice [English cozy](http://en.wikipedia.org/wiki/Cozy_mystery).
