@@ -14,16 +14,21 @@ subscribe_rss: /atom.xml
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: Monkinetic Weblog
+  title: Monkinetic
   avatar: avatar.jpeg
   # gravatar: 4fe0ff89158486e907c3a19ded9ac0df
   description: "Steve Ivy's weblog since 1999: XIV Ed." # used by search engines
 
   # Header and footer text
   header_text: >
-   <p>Steve Ivy's Weblog &mdash; Since 1999 &mdash; XIV Ed.</p>
+   <p>Steve Ivy &mdash; Since 1999 &mdash; XIV Ed.</p>
   footer_text: >
-   Copyright Steve Ivy, 1999-2015
+   <h3>Comments</h3>
+   <p>
+   No, I don't have a comment box. If you'd like to get in touch, I would like to hear 
+   your thoughts - send them to steveivy @ gmail.com.
+   </p>
+   <p>&copy; Copyright Steve Ivy, 1999-2015</p>
 
   # Icons
   rss: true
@@ -64,7 +69,7 @@ theme:
   # Open the "_sass > base" folder, and open "_variables.scss"
 
 # PERMALINK
-permalink: /:year/:month/:day/:title
+permalink: /:title
 
 # PAGINATION
 paginate: 10

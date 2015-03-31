@@ -2,6 +2,9 @@
 Title: 'A gender/privilege topic disclaimer'
 Date: 2014-07-22 18:50
 layout: post
+excerpt: >
+  I didn't go through much of a rebellious stage (barring a couple of years of slightly-over-drinking, 
+  hair-coloring and ear-piercings that didn't offend, literally, anyone).
 ---
 
 For future reference:
