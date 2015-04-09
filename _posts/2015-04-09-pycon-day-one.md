@@ -2,6 +2,7 @@
 Title: "PyCon 2015 Day 1: The Lag of Jet"
 layout: post
 feature-img: "images/pycon-header.PNG"
+header-text-color: #222222
 ---
 
 Today was my first day of [PyCon, in Montr&eacute;al, Quebec](http://us.pycon.org/2015/) (my first). I'm headquartered with two other Wells Fargo teammates in the Fairmont Queen Elizabeth (Fairmont de la Reine Elizabeth), about a 10-minute walk from the [Palais des Congr&eacute;s](http://congresmtl.com/en/), where this year's PyCon is being held. It's an impressive building, though in the end, one tutorial room and conference hallway look pretty much like another.
