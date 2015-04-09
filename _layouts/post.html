@@ -5,7 +5,7 @@ layout: default
 
   <header style="background-image: url('{{ site.baseurl }}/{{ page.feature-img }}')">
     <h1 {% if page.header-text-color %}style="color: {{ page.header-text-color }}" {% endif %}class="title">{{ page.title }}</h1>
-
+    <!-- {{ page.header-text-color }} -->
     <p {% if page.header-text-color %}style="color: {{ page.header-text-color }}" {% endif %}class="meta">
     Published {{ page.date | date: "%B %-d, %Y" }}
     {% if page.author %} - {{ page.author }}{% endif %}
