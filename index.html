@@ -3,8 +3,9 @@ layout: default
 ---
 
 <div class="home">
-  
-  {% if site.theme.header_text %}
+  {% if paginator.posts[0] and paginator.posts[0].feature-img %}
+  <div style="background-image: url('{{ site.baseurl }}/{{ paginator.posts[0].feature-img }}')" class="feature-img"></div>
+  {% elsif site.theme.header_text %}
   <div class="call-out">{{ site.theme.header_text }}</div>
   {% endif %}
     
