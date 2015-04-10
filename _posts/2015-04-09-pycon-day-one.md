@@ -1,5 +1,5 @@
 ---
-Title: "PyCon 2015 Day 1: The Lag of Jet"
+title: "PyCon 2015 Day 1: The Lag of Jet"
 layout: post
 feature-img: "images/pycon-header.PNG"
 header-text-color: "#222222"
