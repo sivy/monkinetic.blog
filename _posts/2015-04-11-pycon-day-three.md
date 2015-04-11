@@ -25,17 +25,17 @@ Bugs that cross library or system boundaries. API docs and interface changes, is
 
 **The worst:** *many indepent "safe" failures that conspire to make a super bug.*
 
-## Principles of Debugging a Hard Problem
+### Principles of Debugging a Hard Problem
 
-### Everything is in scope.
+#### Everything is in scope.
 
 *Normally* you can assume that the OS, stdlib, etc are not at fault. But a tiny bug in a system could conspire with a small bug in your code to really fail.
 
-### Read the source. Read *all the source*
+#### Read the source. Read *all the source*
 
 Read your own source, read the source for libraries you are using.
 
-### Trust Nothing
+#### Trust Nothing
 
 Don't trust `repr()` - Django querysets look identical to lists in `repr()`.
 
@@ -43,7 +43,7 @@ Beware the monkeypatch. *weeps*
 
 Get a lab notebook and document debugging steps. Use vcs branches as a lab notebook, using a branch for each test investigation.
 
-## Tools
+### Tools
 
 - debugger for your language (pdb)
 - OS tracing (dtrace) - tells your what *syscalls* your code makes (can be hidden in your code)
@@ -53,7 +53,7 @@ Get a lab notebook and document debugging steps. Use vcs branches as a lab noteb
 
 Also, application-specific tools. App metrics, logging, etc.
 
-## Techniques
+### Techniques
 
 **Pair Debugging:** Talk about what your trying to debug, show the process, talk about what you see in the output. Compare perceptions or assumptions about what is happening.
 
@@ -65,6 +65,6 @@ Also, application-specific tools. App metrics, logging, etc.
 
 **Get out of production ASAP:** If the bug is in production, find a way to reproduce it outside of production right away.
 
-## Story Time!
+### Story Time!
 
 *Alex tells a story of a bug that took 3 people more than a day to debug, about 15 hours of debugging.*
