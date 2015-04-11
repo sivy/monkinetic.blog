@@ -7,7 +7,7 @@ Started my day with a massive ongoing migraine that had me hiding in my hotel ro
 
 ## Pythons are Deaf and so are some Pythonistas
 
-(add notes here)
+*Will write up my notes on this amazing session later once I can digest it. As a parent of deaf kids and someone interested in culturally appropriate user interfaces this session has been the conf highlight so far.*
 
 ## Debugging "Hard" Technical Problems, Alex Gaynor
 
@@ -55,25 +55,15 @@ Also, application-specific tools. App metrics, logging, etc.
 
 ## Techniques
 
-### Pair Debugging
+**Pair Debugging:** Talk about what your trying to debug, show the process, talk about what you see in the output. Compare perceptions or assumptions about what is happening.
 
-Talk about what your trying to debug, show the process, talk about what you see in the output. Compare perceptions or assumptions about what is happening.
+**Minimization:** Find a smaller program that fails in the similar way as a larger problem. if your program uses consurrency or randomness, try removing those aspects to simplify. Reduce the number of interactions you have so to reduce the complexity quadrilaterally.
 
-### Minimization
+**Proximate Cause:** Did you just cut a release? Did you just make a change? Use a tool like `git bisect` to find the change that introduced the bug.
 
-Find a smaller program that fails in the similar way as a larger problem. if your program uses consurrency or randomness, try removing those aspects to simplify. Reduce the number of interactions you have so to reduce the complexity quadrilaterally.
+**Keep your eyes on the prize:** If you find a random broken thing, don't fix that right away, document it and come back to it.
 
-### proximate cause
-
-Did you just cut a release? Did you just make a change? Use a tool like `git bisect` to find the change that introduced the bug.
-
-### Keep your eyes on the prize
-
-If you find a random broken thing, don't fix that right away, document it and come back to it.
-
-### Get out of production ASAP
-
-If the bug is in production, find a way to reproduce it outside of production right away.
+**Get out of production ASAP:** If the bug is in production, find a way to reproduce it outside of production right away.
 
 ## Story Time!
 
