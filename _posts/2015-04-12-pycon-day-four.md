@@ -27,7 +27,7 @@ Agenda:
 
 Sentry (*can* you deploy it internally? Hynek says you can but I am not sure...). You get useful notifications with context, stack trace, and a "view on sentry" button, take you to see graph, number of occurences, etc. Get lots of metadata.
 
-Facepalm: it's right here <https://github.com/getsentry/sentry>
+*Facepalm: it's right here <https://github.com/getsentry/sentry>*
 
 Pushing data in: raven-python.
 
