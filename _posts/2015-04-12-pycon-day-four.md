@@ -49,7 +49,7 @@ Correlations:
 
 Math:
 
-- # req/second
+- No. reqs/second
 - worst 0.01% request time
 - don't try this alone! - use tools by those who know how to do this.
 
