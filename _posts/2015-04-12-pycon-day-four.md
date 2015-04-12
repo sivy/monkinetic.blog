@@ -38,7 +38,7 @@ Numbers you save in a database! Numbers over time actually mean something. It he
 Difference between server metrics (things you observe on a server), and application metrics (things you measure in your app).
 
 - counters (how many times things happen)
-- timers (how long thigns take)
+- timers (how long things take)
 - guages (number of active things)
 
 Aggregation for trends, etc.
