@@ -1,5 +1,5 @@
 ---
-Title: Star Wars - The Force Awakens Trailer Thoughts
+title: Star Wars - The Force Awakens Trailer Thoughts
 ---
 
 Yeah, I've watched it about 55 times now. See for yourself:
