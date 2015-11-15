@@ -16,14 +16,13 @@ I connected Codeship to my Bitbucket account, and crated a new project for the r
 
 My main build pipeline uses a "Custom Script" build with the following script:
 
-    ```shell
     # get hugo
     go get -v github.com/spf13/hugo
     # build
     hugo --verbose
     # deploy via ftp
     lftp -c "open -u $FTP_USERNAME,$FTP_PASSWORD $SERVER; set ssl:verify-certificate no; mirror -R ${HOME}/clone/_site ."
-    ```
+
 
 So, yeah.... FTP. The site is hosted on a cheap GoDaddy account that I don't run, so there you go.
 
