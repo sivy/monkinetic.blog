@@ -6,4 +6,4 @@ I'm speaking as an Ex-Conservative, Ex-Republican who cannot abide what the part
 
 I'm voting for Hillary Clinton for President of the United States, and likely Democrat on most of the down-line races in AZ.
 
-![I'm With Her](https://pbs.twimg.com/media/CR9qQ3kUsAEz4iw.png)
+![I'm With Her](https://i.imgur.com/DQcRwwc.gif)
