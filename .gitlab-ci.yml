@@ -19,6 +19,7 @@ pages:
   - gem install jekyll
   - gem install jekyll-paginate
   - jekyll build -d public
+  - ls -lah public
   artifacts:
     paths:
     - public
