@@ -73,7 +73,7 @@ theme_data:
   # Open the "_sass > base" folder, and open "_variables.scss"
 
 # PERMALINK
-permalink: /:title
+permalink: /:title.html
 
 # PAGINATION
 paginate: 10
