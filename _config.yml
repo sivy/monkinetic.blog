@@ -15,7 +15,7 @@ subscribe_rss: /atom.xml
 theme_data:
   # Meta
   title: Monkinetic
-  avatar: avatar.jpeg
+  avatar: sivy_avatar_256.png
   # gravatar: 4fe0ff89158486e907c3a19ded9ac0df
   description: "Steve Ivy's weblog since 1999: XIV Ed." # used by search engines
 
