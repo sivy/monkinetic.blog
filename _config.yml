@@ -1,3 +1,7 @@
+# JEKYLL
+gems:
+- jekyll-paginate
+
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://sivy.github.io/" # the base hostname & protocol for your site
