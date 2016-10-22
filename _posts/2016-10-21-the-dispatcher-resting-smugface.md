@@ -1,6 +1,6 @@
 ---
 title: The Dispatcher
-featured-img: images/dispatch.png
+feature-img: images/dispatch.png
 ---
 
 ![The Dispatcher has the best phrase ever: "Resting Smugface"](https://images-na.ssl-images-amazon.com/images/I/51AgV-BKM8L._AA300_.jpg)
