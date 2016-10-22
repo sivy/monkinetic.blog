@@ -3,11 +3,7 @@ layout: default
 ---
 
 <div class="home">
-  {% if paginator.posts[0] and paginator.posts[0].feature-img %}
-  <div style="height: 200px; background-repeat: no-repeat; background-color: white; background-image: url('{{ site.baseurl }}/{{ paginator.posts[0].feature-img }}')" class="call-out"></div>
-  {% elsif site.theme_data.header_text %}
   <div class="call-out">{{ site.theme_data.header_text }}</div>
-  {% endif %}
     
   <div class="posts">
 
