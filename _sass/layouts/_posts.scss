@@ -22,7 +22,7 @@ header {
     margin: 0;
   }
   .meta {
-    color: rgba($header-desc-background-color);
+    color: $header-desc-background-color;
     font-size: 0.9em;
     letter-spacing: 0.1em;
     margin: 0;
