@@ -20,9 +20,10 @@ article {
 header {
   h1 {
     margin: 0;
+    color: $header-desc-background-color;
   }
   .meta {
-    color: $header-desc-background-color;
+    color: rgb($text-color, 0.5);
     font-size: 0.9em;
     letter-spacing: 0.1em;
     margin: 0;
