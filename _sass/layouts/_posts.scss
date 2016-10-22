@@ -20,7 +20,7 @@ article {
 header {
   h1 {
     margin: 0;
-    color: $header-desc-background-color;
+    color: darken($header-desc-background-color, 20%);
   }
   .meta {
     color: rgb($text-color, 0.5);
