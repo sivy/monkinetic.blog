@@ -34,7 +34,7 @@ $colors-list: (
 );
 
 // Header description box
-$colors = nth($colors-list, $color-index);
+$colors: nth($colors-list, $color-index);
 $header-desc-background-color: nth($colors, 1);
 $link-color: nth($colors, 2);
 
