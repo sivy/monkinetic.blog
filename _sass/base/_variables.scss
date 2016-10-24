@@ -24,14 +24,16 @@ $header-link-color: #383838;
 $feature-image-text-color: #fff;
 $feature-image-size: cover; // options include "cover", "contain", "auto"
 
-$color-index: random(4);
 $colors-list: (
   // (background, link)
   #DAE076 #AD5C55,
   #A9C9C5 #718A8A,
   #AD5C55 #5E7D68,
   #374768 #718A8A,
+  #AD5C55 #E6A570,
+  #39E9778 #453E22,
 );
+$color-index: random(length($colors-list));
 
 // Header description box
 $colors: nth($colors-list, $color-index);
