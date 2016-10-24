@@ -24,17 +24,19 @@ $header-link-color: #383838;
 $feature-image-text-color: #fff;
 $feature-image-size: cover; // options include "cover", "contain", "auto"
 
-$color-index: random(5);
+$color-index: random(4);
 $colors-list: (
   // (background, link)
-  (#DAE076, #AD5C55),
-  (#A9C9C5, #718A8A),
-  (#AD5C55, #5E7D68),
-  (#374768, #718A8A),
+  #DAE076 #AD5C55,
+  #A9C9C5 #718A8A,
+  #AD5C55 #5E7D68,
+  #374768 #718A8A,
 );
 
 // Header description box
-$header-desc-background-color, $link-color: nth($colors-list, $color-index);
+$colors = nth($colors-list, $color-index);
+$header-desc-background-color: nth($colors, 1);
+$link-color: nth($colors, 2);
 
 // $header-desc-background-color: #0cc2f1;
 $header-desc-text-color: #FFF;
