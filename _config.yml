@@ -20,6 +20,7 @@ theme_data:
   # Meta
   title: monkinetic .blog
   avatar: sivy_avatar_256.png
+  gitlab_repo: steveivy/steveivy.gitlab.io
   # gravatar: 4fe0ff89158486e907c3a19ded9ac0df
   description: "Steve Ivy's weblog - Since 1999 - XV Ed." # used by search engines
 
