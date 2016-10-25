@@ -15,8 +15,8 @@ layout: default
   <section class="post-content">
     {{ content }}
 
-    {% if site.theme_data.github %}
-    <a target="_new" href="https://github.com/{{ site.theme_data.github }}/edit/master/{{ page.path }}">Edit on Github</a>
+    {% if site.theme_data.gitlab_repo %}
+    <a target="_new" href="https://github.com/{{ site.theme_data.gitlab_repo }}/edit/master/{{ page.path }}">Edit on Github</a>
     {% endif %}
 
   </section>
