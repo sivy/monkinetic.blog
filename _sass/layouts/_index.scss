@@ -9,8 +9,20 @@
   color: $header-desc-text-color;
   border-bottom: 8px solid darken($header-desc-background-color, 15%);
 }
+
+.call-out-background {
+  content: ' ';
+  position: relative;
+  width: 100%;
+  display: block;
+  background-image: url(http://i.imgur.com/UMNwIAzg.png);
+  opacity: 0.5;
+}
+
 .call-out p:last-child {
-  margin-bottom: 0;
+  position: fixed;
+  margin: 4% auto;
+  width: 100%;
 }
 // Post listing
 .posts {
