@@ -1,13 +1,14 @@
 // Header text feature
 .call-out {
-  @extend %padding-regular;
   display: inline-block;
+  position: relative;
   width: 100%;
   background: none repeat scroll 0% 0% $header-desc-background-color;
   font-size: 1.2em;
   text-align: center;
   color: $header-desc-text-color;
   border-bottom: 8px solid darken($header-desc-background-color, 15%);
+  padding: 0;
 }
 
 .call-out-background {
@@ -16,11 +17,16 @@
   width: 100%;
   display: block;
   background-image: url(http://i.imgur.com/UMNwIAzg.png);
+  background-repeat: no-repeat;
+  background-position: -20px -80px;
   opacity: 0.5;
+  float: left;
 }
 
 .call-out p:last-child {
-  position: fixed;
+  position: absolute;
+  top: 0;
+  left: 0;
   margin: 4% auto;
   width: 100%;
 }
