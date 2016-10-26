@@ -31,9 +31,9 @@ theme_data:
    <h3>Comments</h3>
    <p>
    Sorry, no comments here. I'd much rather you wrote your own blog post or 
-   sent me an email instead - steveivy @ gmail.com.
+   sent me an email instead - steveivy @ gmail.com. You can also <a target="_new" href="https://twitter.com/intent/tweet?screen_name=steveivy">Tweet me</a>.
    </p>
-   <p>&copy; Copyright Steve Ivy, 1999-2015</p>
+   <p>&copy; Copyright Steve Ivy, 1999-2016</p>
 
   # Icons
   rss: true
