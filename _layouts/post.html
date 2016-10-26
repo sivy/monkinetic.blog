@@ -15,8 +15,10 @@ layout: default
   <section class="post-content">
     {{ content }}
 
-    <a href="https://twitter.com/share" class="twitter-share-button" data-via="steveivy" data-hashtags="#monkinetic" data-dnt="true" data-show-count="true">Tweet This</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
+    <a href="https://twitter.com/share" class="twitter-share-button" data-via="steveivy" data-hashtags="monkinetic" data-dnt="true" data-show-count="true">Tweet</a>
+    <a href="https://twitter.com/intent/tweet?screen_name=steveivy" class="twitter-mention-button" data-hashtags="monkinetic" data-text="Re: {{ page.title }}" data-show-count="false">Reply/Comment</a>
+    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+    
     {% if site.theme_data.gitlab_repo %}
     <a target="_new" href="https://gitlab.com/{{ site.theme_data.gitlab_repo }}/edit/master/{{ page.path }}">Edit</a>
     {% endif %}
