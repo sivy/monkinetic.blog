@@ -11,7 +11,7 @@ layout: default
   <div class="posts">
     {% for post in paginator.posts %}
     {% assign word_count = post.content | number_of_words %}
-    <div class="post-teaser {% if forloop.index == 1 %}first-post{% endif %} {% if word_count > 250 %}article{% endif %}">
+    <div class="post-teaser {% if forloop.index == 1 %}first-post{% endif %} {% if word_count > 200 %}article{% endif %}">
       <header>
         {% if forloop.index == 1 %}<h1>{% else %}<h2>{% endif %}
           <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
