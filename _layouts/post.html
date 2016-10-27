@@ -16,7 +16,7 @@ layout: default
     {{ content }}
 
     <a href="https://twitter.com/share" class="twitter-share-button" data-via="steveivy" data-hashtags="monkinetic" data-dnt="true" data-show-count="true">Tweet</a>
-    <a href="https://twitter.com/intent/tweet?screen_name=steveivy" class="twitter-mention-button" data-hashtags="monkinetic" data-text="Re: {{ page.url || prepend: site.url }}" data-show-count="false">Reply/Comment</a>
+    <a href="https://twitter.com/intent/tweet?screen_name=steveivy" class="twitter-mention-button" data-hashtags="monkinetic" data-text="Re: {{ page.url | prepend: site.url }}" data-show-count="false">Reply/Comment</a>
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
     
     {% if site.theme_data.gitlab_repo %}
