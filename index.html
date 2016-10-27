@@ -13,9 +13,9 @@ layout: default
     {% for post in paginator.posts %}
     <div class="post-teaser">
       <header>
-        <h1>
+        {% if forloop.index == 1 %}<h1>{% else %}<h2>{% end %}
           <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
-        </h1>
+        {% if forloop.index == 1 %}</h1>{% else %}</h2>{% end %}
         {% if forloop.index == 1 %}
         <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
         {% endif %}
