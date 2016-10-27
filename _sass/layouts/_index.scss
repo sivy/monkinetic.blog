@@ -44,6 +44,14 @@
       @extend %link-hover;
     }
   }
+  .article {
+    border: 1px solid #ccc;
+    border-bottom: 1px solid #999;
+    background-color: #fefefe;
+    margin: 1% 10%;
+    width: auto;
+    padding: 5% 10%;
+  }
   .excerpt {
     margin-top: 1em;
   }
