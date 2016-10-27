@@ -11,7 +11,7 @@ layout: default
   <div class="posts">
     {% capture content_length %}{{ post.content | size }}{% endcapture %}
     {% for post in paginator.posts %}
-    <div class="post-teaser {% if forloop.index == 1 %first-post{% else %}<h2>{% endif %} {% if content_length > 250 %}article{% endif %}">
+    <div class="post-teaser {% if forloop.index == 1 %}first-post{% endif %} {% if content_length > 250 %}article{% endif %}">
       <header>
         {% if forloop.index == 1 %}<h1>{% else %}<h2>{% endif %}
           <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
