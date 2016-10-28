@@ -1,5 +1,6 @@
 ---
 title: The Displatcher (Again)
+date: 2016-10-28 11:00:00
 ---
 
 I've been raving a bit on Twitter and here on the blog about [John Scalzi](http://whatever.scalzi.com)'s new  audio novella, [The Dispatcher](http://www.audible.com/pd/Sci-Fi-Fantasy/FREE-The-Dispatcher-Audiobook/B01KKPH1VA). It's a very engaging listen - and part of that is because it was envisioned and written as an audio book first and only.
