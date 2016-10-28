@@ -12,6 +12,15 @@ layout: default
     {% for post in site.posts %}
         {% assign currentdate = post.date | date: "%B %Y" %}
         {% if currentdate != date %}
+            <a href="#y{{post.date | date: "%B-%Y" | lower}}">{{ currentdate }}</a>{% if not forloop.last %} &bull; {% endif %}
+            {% assign date = currentdate %}
+        {% endif %}
+
+    {% endfor %}
+
+    {% for post in site.posts %}
+        {% assign currentdate = post.date | date: "%B %Y" %}
+        {% if currentdate != date %}
             {% unless forloop.first %}</ul>{% endunless %}
             <h2 id="y{{post.date | date: "%B-%Y" | lower}}">{{ currentdate }}</h2>
             <ul>
