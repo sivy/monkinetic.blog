@@ -37,7 +37,7 @@ theme_data:
    <p>
    <a href="https://twitter.com/intent/tweet?screen_name=steveivy" 
       class="twitter-mention-button" data-text="Hey @steveivy " data-show-count="false">Tweet to @steveivy</a>
-   <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>.
+   <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
    </p>   
    <p>&copy; Copyright Steve Ivy, 1999-2016</p>
 
