@@ -1,5 +1,5 @@
 ---
-title: The Displatcher (Again)
+title: The Dispatcher (Again)
 date: 2016-10-28 11:00:00
 ---
 
