@@ -1,9 +1,8 @@
-Slug: someone-get-that-man-an-honorarium-anil-on-the-twitter-api
-Date: 2009-12-18
-Title: Someone Get That Man An Honorarium (Anil on the Twitter API)
-layout: post
+---
+title: Someone Get That Man An Honorarium (Anil on the Twitter API)
+---
 
-The fact that Anil posts his words for free sometimes astonishes me. He should be receiving honorariums for every blog post he writes. [This whole post on the future of the now de-facto-standard Twitter API](http://dashes.com/anil/2009/12/the-twitter-api-is-finished.html) is quotable, so go read it, but here are a few excerpts:
+The fact that Anil publishes his thoughts for free sometimes astonishes me. He should be receiving honoraria for every blog post he writes. [This whole post on the future of the now de-facto-standard Twitter API](http://dashes.com/anil/2009/12/the-twitter-api-is-finished.html) is quotable, so go read it, but here are a few excerpts:
 
 >Now, the first meaningful efforts to support Twitter's API on other services mark the maturation of the API as a de facto industry standard and herald the end of its period of rapid fundamental iteration.
 
