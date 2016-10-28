@@ -1,6 +1,5 @@
-Slug: frontier-linux
-Date: 2000-06-13
-Title: Frontier / Linux
-layout: post
+---
+title: Frontier / Linux
+---
 
-It&#39;s coming... <a href="http://www.biermania.com/">Frontier for Linux</a>. Rock On, Userland.
+It's coming... [Frontier for Linux](http://www.biermania.com/). Rock On, Userland.
