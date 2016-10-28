@@ -1,7 +1,6 @@
-Slug: structured-editing-outlining-net
-Date: 2000-06-24
-Title: Structured Editing, Outlining, .NET
-layout: post
+---
+title: Structured Editing, Outlining, .NET
+---
 
 **Pike**
 
