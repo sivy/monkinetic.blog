@@ -1,5 +1,5 @@
 ---
-title: Monkinetic Archives
+title: The Archives
 layout: archive
 ---
 
