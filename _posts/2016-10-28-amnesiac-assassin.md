@@ -4,7 +4,7 @@ date: 2016-10-28 14:00
 excerpt_separator: <!--more-->
 ---
 
-<p>You know, the one where they slowly get their memories back, and drag some poor nearly helpless sidekick around while killing peole and making things right?</p>
+<p>You know, the one where they slowly get their memories back, and drag some poor nearly helpless sidekick around while killing bad guys and making things right?</p>
 
 <p>Yeah, it was the best!</p>
 
