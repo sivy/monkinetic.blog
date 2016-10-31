@@ -9,7 +9,13 @@ article {
   header {
     margin-bottom: 6%;
     text-align: center;
+    h1.title {
+      font-family: "Roboto Slab";
+      font-weight: 300;
+      font-size: 1.2em;
+    }
   }
+  
   a:hover {
     @extend %link-hover;
   }
