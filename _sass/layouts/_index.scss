@@ -40,12 +40,12 @@ h1 a.post-link, h2 a.post-link {
   font-family: "Roboto Slab";
   font-weight: 300;
   font-size: 1.2em;
-
-  h1 a.post-link {
-    font-size: 1em;
-  }
 }
 
+h2 a.post-link {
+  font-size: 1em;
+}
+  
 // Post listing
 .posts {
   .post-teaser {
