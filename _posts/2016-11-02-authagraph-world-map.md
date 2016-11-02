@@ -8,3 +8,7 @@ The [AuthaGraph](http://www.authagraph.com/top/?lang=en) World Map projection is
 [![Authagraph projection sample image](http://i.imgur.com/TnXurC7.png)](http://www.authagraph.com/top/?lang=en)
 
 [via MeFi](http://www.metafilter.com/163209/Dang-Antarctica-Is-Tiny)
+
+Also:
+
+The very cool [TrueSize map](http://thetruesize.com/)
