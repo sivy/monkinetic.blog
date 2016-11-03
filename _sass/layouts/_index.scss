@@ -48,9 +48,11 @@ h2 a.post-link {
   
 // Post listing
 .posts {
+  text-align: center;
   .post-teaser {
     @extend %padding-regular;
     width: 100%;
+    text-align: left;
     margin-bottom: 0;
     display: inline-block;
     background-size: $feature-image-size;
@@ -59,12 +61,12 @@ h2 a.post-link {
     }
   }
   .featured {
-    border: 1px solid #ddd;
-    border-bottom: 2px solid #bbb;
+    border: 1px solid #ccc;
+    border-bottom: 3px solid #999;
     background-color: #fefefe;
     margin: 4% 15% 4%;
     width: auto;
-    padding: 5% 15%;
+    padding: 5% 10%;
   }
   .excerpt {
     margin-top: 1em;
