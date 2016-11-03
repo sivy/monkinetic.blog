@@ -58,7 +58,13 @@ h2 a.post-link {
       @extend %link-hover;
     }
   }
-  .article {
+  .featured {
+    border: 1px solid #ddd;
+    border-bottom: 2px solid #bbb;
+    background-color: #fefefe;
+    margin: 4% 15% 4%;
+    width: auto;
+    padding: 5% 15%;
   }
   .excerpt {
     margin-top: 1em;
