@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+{% assign featured_posts = (site.posts|where:"featured","true") %}
 
 <div class="home">
   <div class="call-out">
@@ -8,9 +9,30 @@ layout: default
   </div>
     
   <div class="posts">
+    
+    {% for post in featured_posts limit:1 %}
+    <div class="post-teaser featured">
+      <header>
+        <p class="meta">FEATURED POST &emdash; {{ post.date | date: "%B %-d, %Y" }}</p>
+        <h1>
+          <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
+        </h1>
+      </header>
+
+      <div class="post-content">
+        {{ post.content }}
+      </div>
+      <div>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-via="steveivy" data-hashtags="monkinetic" data-dnt="true" data-show-count="true">Share</a>
+        <a href="https://twitter.com/intent/tweet?screen_name=steveivy" class="twitter-mention-button" data-hashtags="monkinetic" data-text="{{ post.url | prepend: site.url }}" data-show-count="false">Reply/Comment</a>
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
+    </div>
+    {% endfor %}
+
     {% for post in paginator.posts %}
     {% assign word_count = post.content | number_of_words %}
-    <div class="post-teaser {% if forloop.index == 1 %}first-post{% endif %} {% if word_count > 200 %}article{% endif %}">
+    <div class="post-teaser {% if forloop.index == 1 %}first-post{% endif %}">
       <header>
         {% if forloop.index == 1 %}<h1>{% else %}<h2>{% endif %}
           <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
@@ -20,7 +42,6 @@ layout: default
         {% endif %}
       </header>
 
-      <!-- {#{ readtime }#} -->
       {% if forloop.index < 2 and paginator.page == 1%}
       <div class="post-content">
         {{ post.content }}
