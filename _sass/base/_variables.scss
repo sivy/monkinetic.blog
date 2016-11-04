@@ -1,6 +1,7 @@
 // Typography
 $font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
 $font-size: 1.25em;
+$header-font-family: 'Roboto Slab';
 
 // Padding
 $padding-large: 20%;
@@ -42,5 +43,4 @@ $colors: nth($colors-list, $color-index);
 $header-desc-background-color: nth($colors, 1);
 $link-color: nth($colors, 2);
 
-// $header-desc-background-color: #0cc2f1;
 $header-desc-text-color: #FFF;
