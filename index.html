@@ -13,7 +13,7 @@ layout: default
     {% for post in featured_posts limit:1 %}
     <div class="post-teaser featured">
       <header>
-        <p class="meta">FEATURED POST &mdash; {{ post.date | date: "%B %-d, %Y" }}</p>
+        <p class="meta"><strong>FEATURED</strong> &mdash; {{ post.date | date: "%B %-d, %Y" }}</p>
         <h1>
           <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
         </h1>
