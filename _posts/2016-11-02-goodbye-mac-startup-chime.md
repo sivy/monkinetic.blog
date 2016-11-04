@@ -1,5 +1,6 @@
 ---
 title: Goodbye Mac Startup Chime
+excerpt: "The startup chime is ingrained into the experience of having a Mac"
 ---
 
 [512 Pixels](https://512pixels.net/2016/10/the-startup-chime-is-dead/):
