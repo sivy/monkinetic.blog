@@ -12,5 +12,18 @@
     header .meta {
         font-size: 0.7em
     }
+    
+    .site-header {
+        .avatar {
+            height: 2em;
+            width: 2em;
+        }
+        .site-title {
+            font-size: .9em;
+        }
+        .fa-rss, .fa-github, .fa-gitlab {
+            display: none;
+        }
+    }
 }
 
