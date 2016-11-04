@@ -1,0 +1,16 @@
+/* Smartphones (portrait and landscape) ----------- */
+@media only screen and (min-device-width : $media-phone-narrow) and (max-device-width : 480px) {
+    h1 {
+        font-size: 1em;
+    }
+    
+    .featured {
+        border-left: none;
+        border-right: none;
+    }
+    
+    header .meta {
+        font-size: 0.7em
+    }
+}
+
