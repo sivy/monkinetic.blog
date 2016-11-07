@@ -4,6 +4,21 @@
 	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_data.description }}{% endif %}">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-Frame-Options" content="sameorigin">
+
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:site" content="@steveivy">
+    <meta name="twitter:creator" content="@steveivy">
+	{% if post %}
+    <meta name="twitter:title" content="{{ post.title }}">
+    <meta name="twitter:description" content="{{ post.excerpt }}">
+	{% if post.featured-img %}
+    <meta name="twitter:image" content="{{ post.featured-img }}">
+    {% endif %}
+    {% else %}
+    <meta name="twitter:title" content="{{ site.theme_data.title }}">
+    <meta name="twitter:description" content="Steve Ivy's weblog &mdash; Since 2000 &mdash; XVI Edition">
+    {% endif %}
+
 	
 	<!-- CSS -->
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
