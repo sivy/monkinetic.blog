@@ -3,7 +3,7 @@ layout: default
 ---
 <article {% if page.feature-img %}class="feature-image"{% endif %}>
 
-  <header style="background-image: url('{{ site.url }}/{{ page.feature-img }}')">
+  <header class="{% if page.feature-img %}header-with-feature-img{% endif %}" style="background-image: url('{{ site.url }}/{{ page.feature-img }}')">
     <h1 style="{% if page.header-text-color %} color: {{ page.header-text-color }}{% endif %}" class="title">{{ page.title }}</h1>
     <!-- {{ page.header-text-color }} -->
     <p {% if page.header-text-color %}style="color: {{ page.header-text-color }}" {% endif %}class="meta">
