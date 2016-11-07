@@ -1,7 +1,8 @@
 <head>
 	<meta charset="utf-8">
+	{% capture page_description %}{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_data.description }}{% endif %}{% capture %}
 	<title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme_data.title }}</title>
-	<meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.theme_data.description }}{% endif %}">
+	<meta name="description" content="{{ page_description }}">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-Frame-Options" content="sameorigin">
 
@@ -10,9 +11,9 @@
     <meta name="twitter:creator" content="@steveivy">
 	{% if page.title %}
     <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:description" content="{{ page.excerpt }}">
-	    {% if page.featured-img %}
-    <meta name="twitter:image" content="{{ page.featured-img }}">
+    <meta name="twitter:description" content="{{ page_description }}">
+	    {% if page.feature-img %}
+    <meta name="twitter:image" content="{{ page.feature-img }}">
         {% endif %}
     {% else %}
     <meta name="twitter:title" content="{{ site.theme_data.title }}">
