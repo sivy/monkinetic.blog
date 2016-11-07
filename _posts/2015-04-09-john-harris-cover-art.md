@@ -1,7 +1,7 @@
 ---
 title: "The Science Fiction Art of John Harris"
 feature-img: "images/john-harris-feature.PNG"
-header-text-color: "#00020A"
+header-text-color: "#dd6b2e"
 ---
 
 I first learned John Harris' name from personal friend [John Scalzi](http://whatever.scalzi.com) [*Ed. John Scalzi is not a personal friend of the author*], whose fantabulous series of books in the Old Man's War series are graced with Harris' also fantabulous paintings.
