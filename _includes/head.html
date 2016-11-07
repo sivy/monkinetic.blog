@@ -8,11 +8,11 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@steveivy">
     <meta name="twitter:creator" content="@steveivy">
-	{% if post.title %}
-    <meta name="twitter:title" content="{{ post.title }}">
-    <meta name="twitter:description" content="{{ post.excerpt }}">
-	    {% if post.featured-img %}
-    <meta name="twitter:image" content="{{ post.featured-img }}">
+	{% if page.title %}
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.excerpt }}">
+	    {% if page.featured-img %}
+    <meta name="twitter:image" content="{{ page.featured-img }}">
         {% endif %}
     {% else %}
     <meta name="twitter:title" content="{{ site.theme_data.title }}">
