@@ -21,7 +21,7 @@ pages:
 #  - gem install jekyll
 #  - gem install jekyll-paginate
 #  - gem install jekyll-git_metadata
-  - jekyll build -d public
+  - jekyll build -V -d public
   artifacts:
     paths:
     - public
