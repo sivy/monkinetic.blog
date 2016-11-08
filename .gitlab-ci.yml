@@ -16,9 +16,10 @@ image: ruby:2.3
 pages:
   stage: deploy
   script:
+  - gem install bundler
   - gem install jekyll
   - gem install jekyll-paginate
-  - gem install jekyll-git_metadata
+#  - gem install jekyll-git_metadata
   - jekyll build -d public
   artifacts:
     paths:
