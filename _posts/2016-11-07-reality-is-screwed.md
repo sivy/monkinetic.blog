@@ -2,9 +2,9 @@
 title: Reality is Screwed
 ---
 
-Jay Rosen, journalism professor at NYU and blogger for [PressThink](http://pressthink.org/), wrote a [fantastic piece](http://pressthink.org/2016/11/miss-bigger-missed-story-final-reflections-trump-press-2016/) about the rise of "make our own reality" politics (starting in the W. Bush White House and largely but not exclusively on the Right) and the war on objective reality as represented by Facts outside of Spin.
+Jay Rosen, journalism professor at NYU and blogger for [PressThink](http://pressthink.org/), wrote a [fantastic piece](http://pressthink.org/2016/11/miss-bigger-missed-story-final-reflections-trump-press-2016/) about the rise of "make our own reality" politics (starting in the W. Bush White House and largely but not exclusively on the Right) and the war on objective reality as represented by Facts, devoid of spin.
 
-This is what set the stage for the Trump candidacy and explains why he is dismissive - no, derisive - of reportable, objective facts. His intent is to replace reality with a consistent, *constructed* story that rungs the bells for his supporters:
+This is what set the stage for the Trump candidacy and explains why he is dismissive - no, derisive - of reportable, objective facts. His intent is to replace reality with a consistent, *constructed* story that rings the bells for his supporters:
 
 > Stanley made the point that fact checking Trump in a way missed the point. Trump was not trying to make reference to reality in what he said to win votes. He was trying to substitute “his” reality for the one depicted in news reports.
 
