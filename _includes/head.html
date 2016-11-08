@@ -12,8 +12,8 @@
 	{% if page.title %}
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{{ page_description }}">
-	    {% if page.feature-img %}
-    <meta name="twitter:image" content="{{ page.feature-img }}">
+	    {% if page.feature-img or page.post-img %}
+    <meta name="twitter:image" content="{{ page.feature-img or page.post-img }}">
         {% endif %}
     {% else %}
     <meta name="twitter:title" content="{{ site.theme_data.title }}">
