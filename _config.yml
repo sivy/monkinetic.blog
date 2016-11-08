@@ -1,4 +1,6 @@
 # JEKYLL
+encoding: utf-8
+
 gems:
 - jekyll-paginate
 - jekyll-git_metadata
