@@ -13,7 +13,7 @@
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{{ page_description }}">
 	    {% if page.feature-img or page.post-img %}
-    <meta name="twitter:image" content="{{ page.feature-img or page.post-img }}">
+    <meta name="twitter:image" content="{% if page.feature-img %}{{ page.feature-img }}{% elsif %}{{ page.post-img }}{% endif %}">
         {% endif %}
     {% else %}
     <meta name="twitter:title" content="{{ site.theme_data.title }}">
