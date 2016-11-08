@@ -3,7 +3,7 @@ encoding: utf-8
 
 gems:
 - jekyll-paginate
-- jekyll-git_metadata
+# - jekyll-git_metadata
 
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
