@@ -4,7 +4,7 @@ feature-img: "http://i.imgur.com/bsbcqWb.png?1"
 header-text-color: "#dd6b2e"
 ---
 
-I first learned John Harris' name from personal friend [John Scalzi](http://whatever.scalzi.com) [*Ed. John Scalzi is not a personal friend of the author*], whose fantabulous series of books in the Old Man's War series are graced with Harris' also fantabulous paintings.
+I first learned John Harris' name from personal friend [John Scalzi](http://whatever.scalzi.com) [*Ed. John Scalzi is not a personal friend of the author*], whose excellent series of books in the Old Man's War series are graced with Harris' atmospheric and inspirational paintings.
 
 Perusing a sampling of his [fine art prints](http://www.alisoneldred.com/thumbsJohnHarris-Prints-1-1.html) or a [Google image search](https://www.google.com/search?q=john+harris+cover+art&tbm=isch), however, yields tens if not hundreds of familiar scenes, covers of largely science fiction books over the years. 
 
