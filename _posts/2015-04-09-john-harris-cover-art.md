@@ -1,6 +1,6 @@
 ---
 title: "The Science Fiction Art of John Harris"
-feature-img: "images/john-harris-feature.PNG"
+feature-img: "http://i.imgur.com/bsbcqWb.png?1"
 header-text-color: "#dd6b2e"
 ---
 
