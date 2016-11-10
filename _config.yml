@@ -3,7 +3,7 @@ encoding: utf-8
 
 gems:
 - jekyll-paginate
-# - jekyll-auto-image
+- jekyll-auto-image
 # - jekyll-git_metadata
 
 # SITE CONFIGURATION
