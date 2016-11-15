@@ -1,7 +1,7 @@
 ---
 title: Calling Washington
 feature-img: http://i.imgur.com/JqKo55E.jpg?2
-header-text-color: #fff
+header-text-color: "#fff"
 date: 2016-11-15 12:00
 ---
 
