@@ -1,5 +1,6 @@
 ---
 title: Dark Visions of America
+excerpt: "Don't expect a power-seeking narcissist to embrace reason after a victory."
 ---
 
 ### Sullivan on Trump
