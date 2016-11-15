@@ -1,5 +1,6 @@
 ---
 title: Arizona and the Voting Rights Act
+date: 2016-11-14 21:30
 ---
 
 ![](http://i.imgur.com/9qrbrEs.jpg?1)
