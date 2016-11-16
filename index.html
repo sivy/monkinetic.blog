@@ -20,6 +20,10 @@ layout: default
       </header>
 
       <div class="post-content">
+        {% if post.feature-img %}
+        <img src="{% unless page.feature-img contains 'http' %}{{ site.url }}/{% endunless %}{{ page.feature-img }}" width="100%" />
+        {% endif %}
+        
         {{ post.content }}
       </div>
       <div>
