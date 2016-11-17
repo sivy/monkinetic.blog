@@ -2,16 +2,22 @@
 # Full project: https://gitlab.com/pages/jekyll
 image: ruby:2.3
 
-#test:
-#  stage: test
-#  script:
-#  - gem install jekyll
-#  - jekyll build -d test
+stages:
+- test
+- deploy
+
+pages-build-test:
+  stage: test
+  script:
+  - rm _posts/*
+  - cp _testposts/*.md _posts/ 
+  - gem install jekyll
+  - jekyll build -d test
 #  artifacts:
 #    paths:
 #    - test
-#  except:
-#  - master
+  only:
+  - master
 
 pages:
   stage: deploy
