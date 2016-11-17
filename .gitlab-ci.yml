@@ -9,9 +9,10 @@ stages:
 pages-build-test:
   stage: test
   script:
+  - gem install bundler
+  - bundle install
   - rm _posts/*
   - cp _testposts/*.md _posts/ 
-  - gem install jekyll
   - jekyll build -d test
 #  artifacts:
 #    paths:
