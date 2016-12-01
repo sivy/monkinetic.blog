@@ -34,15 +34,15 @@ theme_data:
   footer_text: >
    <h3>Comment Policy</h3>
    <p>
-   I don't have comments enabled on this blog. I'd much rather you wrote your own blog post or 
-   sent me an email instead - steveivy @ gmail.com. You can also hit me up on 
+   I don't have comments enabled on this blog. I'd much rather you wrote your own blog post or
+   sent me an email instead - steveivy @ gmail.com. You can also hit me up on
    Twitter <a href="https://twitter.com/steveivy">@steveivy</a>.
    </p>
    <p>
-   <a href="https://twitter.com/intent/tweet?screen_name=steveivy" 
+   <a href="https://twitter.com/intent/tweet?screen_name=steveivy"
       class="twitter-mention-button" data-text="Hey @steveivy " data-show-count="false">Tweet to @steveivy</a>
    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-   </p>   
+   </p>
    <p>&copy; Copyright Steve Ivy, 1999-2016</p>
 
   # Icons
@@ -84,6 +84,11 @@ theme_data:
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
 
+  resist_sites:
+    ACLU: https://www.aclu.org
+    Southern Poverty Law Center: https://www.splcenter.org
+    Electronic Frontier Foundation: https://www.eff.org
+
 # PERMALINK
 permalink: /:title.html
 
@@ -101,6 +106,10 @@ sass:
 # Read Time is a calculator to provide post Estimated Reading Time (ERT) based on word count. Usage is recommended.
 readtime:   true
 wpm: 200
+
+web_archiver:
+  proxy_host: proxy.wellsfargo.com
+  proxy_port: 8080
 
 defaults:
   -

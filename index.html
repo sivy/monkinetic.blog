@@ -7,9 +7,9 @@ layout: default
   <div class="call-out">
     <div class="call-out-background"><!-- nothing to see here but us spaceships --></div>
   </div>
-    
+
   <div class="posts">
-    
+
     {% for post in featured_posts limit:1 %}
     <div class="post-teaser featured">
       <header>
@@ -23,7 +23,7 @@ layout: default
         {% if post.feature-img %}
         <img src="{% unless page.feature-img contains 'http' %}{{ site.url }}/{% endunless %}{{ page.feature-img }}" width="100%" />
         {% endif %}
-        
+
         {{ post.content }}
       </div>
       <div>
@@ -58,10 +58,15 @@ layout: default
       {% else %}
       <div class="excerpt">
         <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-        <a class="button" href="{{ post.url | prepend: site.url }}">{{ site.theme_data.str_continue_reading }}</a>
+        <a class="button continue-reading" href="{{ post.url | prepend: site.url }}">{{ site.theme_data.str_continue_reading }}</a>
       </div>
       {% endif %}
     </div>
+
+      {% if forloop.index == 1 %}
+        {% include resist.html %}
+      {% endif %}
+
     {% endfor %}
   </div>
 
