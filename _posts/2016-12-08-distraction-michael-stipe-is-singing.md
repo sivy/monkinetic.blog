@@ -1,5 +1,5 @@
 ---
-title: Distraction #264, Michael Stipe is singing
+title: "Distraction #264, Michael Stipe is singing"
 ---
 
 A distraction from life, from [Tourfilm (1990)](http://www.imdb.com/title/tt0163349/):
