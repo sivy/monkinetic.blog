@@ -1,5 +1,8 @@
 ---
 title: Playlist of the Transition
+excerpt: >
+    In honor of the astounding array of department heads Trump is nominating for his cabinet, 
+    I present a playlist of appropriate R.E.M. songs.
 ---
 
 In honor of the astounding array of department heads Trump is nominating for his cabinet -- a majority of whom are anti-thetical to the proposed mission of their department -- I present a playlist of appropriate [R.E.M.][rem] songs to get you in the right headspace.
