@@ -14,17 +14,32 @@ layout: default
   </header>
 
   <section class="post-content">
+    {% if page.reblog_url %}
+    {% assign_page reblog = page.reblog_url %}
+    <blockquote class="repost" style="font-size: 0.9em; border: 1px solid #eee;">
+        {% if reblog.feature-img or reblog.image %}
+        <div style="margin: 0px 20px 0 0; float: left; min-height: 80px; width: 120px; background-repeat: no-repeat;
+        background-image: url('{% if reblog.feature-img %}{{ reblog.feature-img }}{% elsif reblog.image %}{{ reblog.image }}{% endif %}')"></div>
+        {% endif %}
+        <h2 style="margin: 0; font-size: 1.2em"><a class="post-link" href="#">{{ reblog.title }}</a></h2>
+        <div style="font-style: italic;">
+            {{ reblog.excerpt }}
+        </div>
+        <div style="clear:both"></div>
+    </blockquote>
+    {% endif %}
+
     {{ content }}
 
     <a href="https://twitter.com/share" class="twitter-share-button" data-via="steveivy" data-hashtags="monkinetic" data-dnt="true" data-show-count="true">Tweet</a>
     <a href="https://twitter.com/intent/tweet?screen_name=steveivy" class="twitter-mention-button" data-hashtags="monkinetic" data-text="Re: {{ page.url | prepend: site.url }}" data-show-count="false">Reply/Comment</a>
     <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-    
+
     {% if site.theme_data.gitlab_repo %}
     <a target="_new" href="https://gitlab.com/{{ site.theme_data.gitlab_repo }}/edit/master/{{ page.path }}">Edit</a>
     {% endif %}
   </section>
-  
+
   <div style="text-align: center; margin: 2% auto; font-size:smaller">
       {% if page.previous.url %}
         <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
