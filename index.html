@@ -48,7 +48,7 @@ layout: default
 
       {% if forloop.index < 2 and paginator.page == 1%}
       <div class="post-content">
-        {{ post.content }}
+        {% include post_content.html %}
       </div>
       <div>
         <a href="https://twitter.com/share" class="twitter-share-button" data-via="steveivy" data-hashtags="monkinetic" data-dnt="true" data-show-count="true">Share</a>
