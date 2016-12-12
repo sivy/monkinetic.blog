@@ -1,9 +1,8 @@
-Slug: unbecoming-redmonk
-Date: 2009-11-20
-Title: Un-becoming redmonk
-layout: post
+---
+title: Un-becoming Redmonk
+---
 
-<a style="display: block;" href="http://web.archive.org/web/19991128183503/http://redmonk.net/"><img class="asset  asset-image at-xid-6a010534988cd3970b012875bdc99d970c" alt="Redmonk Development" title="Redmonk Development" src="http://steveivy.typepad.com/.a/6a010534988cd3970b012875bdc99d970c-800wi" border="0"  /></a>
+[![Ancient Redmonk](http://i.imgur.com/EMfWgw7.png)](http://web.archive.org/web/19991128183503/http://redmonk.net/)
 
 It's been 11 years since I "became" redmonk, when I registered <http://redmonk.net>. At the time it had meaning to both Jodi and I, and it was the name of my first freelance business. For 11 years I've used redmonk as a chat name, domain, email address, irc handle, and username on seemingly countless websites.
 
