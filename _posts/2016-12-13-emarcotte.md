@@ -1,0 +1,14 @@
+---
+title: ethanmarcotte.com
+date: 2016-12-13 13:00
+---
+
+[Ethan Marcotte][em] has a new website:
+
+> When the world’s on fire, and the fascists are at your door, stop waffling and just redesign your blog.
+
+Good advice, and the site is lovely.
+
+[![ethanmarcotte.com](https://ethanmarcotte.com/img/fox.svg)](https://ethanmarcotte.com)
+
+[em]: https://ethanmarcotte.com
