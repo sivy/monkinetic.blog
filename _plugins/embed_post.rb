@@ -27,7 +27,11 @@
 require 'liquid'
 
 def embed_posts(payload)
-  re = /\[%[\s]*embed_post (.*?)[\s]*%\]/
+  # embed must be on a line by itself
+  #
+  # this [% embed_post %] won't work
+  #
+  re = /\n[\s]*\[%[\s]*embed_post (.*?)[\s]*%\][\s]*\n/
   content = payload.page.content
   site = payload.site
 
