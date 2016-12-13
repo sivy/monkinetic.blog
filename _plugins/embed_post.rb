@@ -1,6 +1,29 @@
 #
 # Embed a post in another, sort of like a tweet
 #
+# This implements a macro that you can use in the markdown content for a post to embed
+#   a tweet-like rendering of another post. Adjust the template to include the full embed.content
+#   to do a more Tumblr-style Redblog.
+#
+# Syntax: [% embed_post url=/path/to/post.html %]
+#
+# This form will look for an "embed.html" template in _includes. Template
+#   should use "embed" as the post variable:
+#
+# <blockquote class="embed">
+#     <img style="float: left" height="120" width="120" src="{{ embed.small_image }}">
+#     <h2><a class="post-link" href="{{ embed.url | prepend: site.url }}}">{{ embed.title }}</a></h2>
+#     <div style="font-style: italic;">
+#         {{ embed.excerpt }}
+#     </div>
+#     <div style="clear:both"></div>
+# </blockquote>
+#
+# [% embed_post url=/path/to/post.html template=fancy_embed.html %]
+#
+# This form will look for "fancy_embed.html" in _includes.
+#
+
 require 'liquid'
 
 def embed_posts(payload)
