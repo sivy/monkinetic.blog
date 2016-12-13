@@ -1,16 +1,1 @@
-{% if post.reblog_url %}
-{% assign_page reblog = post.reblog_url %}
-<blockquote class="repost" style="font-size: 0.9em; border: 1px solid #eee;">
-    {% if reblog.feature-img or reblog.image %}
-    <div style="margin: 0px 20px 0 0; float: left; min-height: 80px; width: 120px; background-repeat: no-repeat;
-    background-image: url('{% if reblog.feature-img %}{{ reblog.feature-img }}{% elsif reblog.image %}{{ reblog.image }}{% endif %}')"></div>
-    {% endif %}
-    <h2 style="margin: 0; font-size: 1.2em"><a class="post-link" href="{{ reblog.url | prepend: site.url }}}">{{ reblog.title }}</a></h2>
-    <div style="font-style: italic;">
-        {{ reblog.excerpt }}
-    </div>
-    <div style="clear:both"></div>
-</blockquote>
-{% endif %}
-
 {{ post.content }}
