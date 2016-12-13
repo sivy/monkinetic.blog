@@ -9,11 +9,11 @@ I really wanted to be able to refer to previous posts on this site with a small 
 
 That rendering is done inline by a plugin I wrote for jekyll, [Embed Post][plugin], with a macro like this:
 
-```
-I really wanted to be able to refer to previous posts on this site with a small embed, a bit like we embed tweets. Something like:
 
-&#91;% embed_post url=/trump-v-my-relationships.html %&#93;
-```
+    I really wanted to be able to refer to previous posts on this site with a small embed, a bit like we embed tweets. Something like:
+
+    &#91;% embed_post url=/trump-v-my-relationships.html %&#93;
+
 
 I have no idea if or how to release this to the community, for now I'm still iterating on features.
 
@@ -23,7 +23,7 @@ From the plugin comments:
 	
 	This implements a macro that you can use in the markdown content for a post to embed a tweet-like rendering of another post. Adjust the template to include the full embed.content to do a more Tumblr-style Reblog.
 	
-	Syntax: [% embed_post url=/path/to/post.html %]
+	Syntax: &#91;% embed_post url=/path/to/post.html %&#93;
 	
 	This form will look for an "embed.html" template in _includes. Template should use "embed" as the post variable:
 	
