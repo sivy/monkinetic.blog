@@ -4,7 +4,7 @@ date: 2016-12-13 8:30
 ---
 
 I really wanted to be able to refer to previous posts on this site with a small 
-embed, a bit like we embed tweets. Something like:
+embed, a bit like we embed tweets. Something like: 
 
 [% embed_post url=/trump-v-my-relationships.html %]
 
@@ -12,9 +12,9 @@ That rendering is done inline by a plugin I wrote for jekyll, [Embed Post][plugi
 
 
     I really wanted to be able to refer to previous posts on this site with a 
-    small embed, a bit like we embed tweets. Something like:
-
-    [% embed_post url=/trump-v-my-relationships.html %]
+    small embed, a bit like we embed tweets. 
+    
+    Something like: [% embed_post url=/trump-v-my-relationships.html %]
 
 
 I have no idea if or how to release this to the community, for now I'm still iterating on features.
@@ -44,7 +44,7 @@ From the plugin comments:
 	    <div style="clear:both"></div>
 	</blockquote>
 	
-	[% embed_post url=/path/to/post.html template=fancy_embed.html %]
+	Or: [% embed_post url=/path/to/post.html template=fancy_embed.html %]
 	
 	This form will look for "fancy_embed.html" in _includes.
 
