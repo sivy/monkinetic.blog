@@ -36,7 +36,7 @@ From the plugin comments:
 	    <div style="clear:both"></div>
 	</blockquote>
 	
-	[% embed_post url=/path/to/post.html template=fancy_embed.html %]
+	&#91;% embed_post url=/path/to/post.html template=fancy_embed.html %&#93;
 	
 	This form will look for "fancy_embed.html" in _includes.
 
