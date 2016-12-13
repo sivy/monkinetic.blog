@@ -10,6 +10,6 @@ excerpt: When the world's on fire, redesign your blog
 
 Good advice, and the site is lovely.
 
-[![ethanmarcotte.com](https://ethanmarcotte.com/img/fox.svg)](https://ethanmarcotte.com)
+[![ethanmarcotte.com](http://i.imgur.com/TfJEcqs.png)](https://ethanmarcotte.com)
 
 [em]: https://ethanmarcotte.com
