@@ -5,7 +5,7 @@
     <div style="margin: 0px 20px 0 0; float: left; min-height: 80px; width: 120px; background-repeat: no-repeat;
     background-image: url('{% if reblog.feature-img %}{{ reblog.feature-img }}{% elsif reblog.image %}{{ reblog.image }}{% endif %}')"></div>
     {% endif %}
-    <h2 style="margin: 0; font-size: 1.2em"><a class="post-link" href="#">{{ reblog.title }}</a></h2>
+    <h2 style="margin: 0; font-size: 1.2em"><a class="post-link" href="{{ reblog.url | prepend: site.url }}}">{{ reblog.title }}</a></h2>
     <div style="font-style: italic;">
         {{ reblog.excerpt }}
     </div>
