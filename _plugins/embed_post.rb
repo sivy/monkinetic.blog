@@ -60,12 +60,14 @@ def embed_posts(payload)
     end
 
     page = page_hash[url]
-    raise ArgumentError.new "No page with url #{url}." if page.nil?
+    puts "No page with url #{url}." if page.nil?
 
-    embed_rendered = embed_t.render('embed' => page)
+    if page
+      embed_rendered = embed_t.render('embed' => page)
 
-    replace = "[% embed_post #{arg_s} %\]"
-    out_content.gsub! replace, embed_rendered
+      replace = "[% embed_post #{arg_s} %\]"
+      out_content.gsub! replace, embed_rendered
+    end
   end
 
   return out_content
