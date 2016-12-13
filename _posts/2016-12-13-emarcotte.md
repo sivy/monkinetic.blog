@@ -1,6 +1,7 @@
 ---
 title: ethanmarcotte.com
 date: 2016-12-13 13:00
+exceprt: "When the world’s on fire, redesign your blog"
 ---
 
 [Ethan Marcotte][em] has a new website:
