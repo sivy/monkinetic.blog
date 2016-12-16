@@ -13,7 +13,14 @@ That rendering is done inline by a plugin I wrote for jekyll, [Embed Post][plugi
     I really wanted to be able to refer to previous posts on this site with a
     small embed, a bit like we embed tweets.
 
+<<<<<<< HEAD
 	Something like: [[ embed_post url= /resist-hate.html ]]
+=======
+    I really wanted to be able to refer to previous posts on this site with a 
+    small embed, a bit like we embed tweets. 
+    
+    Something like: [% embed_post url=/trump-v-relationships.html %]
+>>>>>>> be744f4dad1c731f8520a483d109a7916024035c
 
 
 I have no idea if or how to release this to the community, for now I'm still iterating on features.
