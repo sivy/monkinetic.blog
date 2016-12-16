@@ -1,4 +1,7 @@
 #
+# Macros for Markdown content in Jekyll
+# =====================================
+#
 # Embed a post in another, sort of like a tweet
 #
 # This implements a macro that you can use in the markdown content for a post to embed
