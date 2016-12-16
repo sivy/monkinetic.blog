@@ -1,7 +1,15 @@
 ---
 title: Embedding Posts with Markdown Macros in Jekyll
 date: 2016-12-13 8:30
+excerpt: >
+    I really wanted to be able to refer to previous posts on this site with a 
+    small embed, a bit like we embed tweets.
 ---
+
+*Update: 2016-12-16: I've re-written this code as an actual macro processor that uses a registry of possible macro functions. I don't think it's "idiomatic" Ruby, but I'll update it as I learn more, and I'll write a post about the macro processor implementation later.*
+
+---
+
 I really wanted to be able to refer to previous posts on this site with a small
 embed, a bit like we embed tweets. Something like:
 
