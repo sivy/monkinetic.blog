@@ -2,11 +2,11 @@
 title: Stories of Redmonks Past
 date: 2016-12-12 16:50
 excerpt: >
-    7 years ago at this writing, I sold the redmonk.net domain, after a friendly 
+    7 years ago at this writing, I sold the redmonk.net domain, after a friendly
     *7-year conversation* with RedMonk's El Hefe, James Governor
 ---
 
-[% embed_post url=/unbecoming-redmonk.html %]
+[[ embed_post url=/unbecoming-redmonk.html ]]
 
 7 years ago at this writing, I sold the [redmonk.net](http://redmonk.net) domain to [RedMonk](http://redmonk.com), after a friendly *7-year conversation* with RedMonk's El Hefe, [James Governor](http://redmonk.com/team/james-governor/). His blog post on the occasion:
 
