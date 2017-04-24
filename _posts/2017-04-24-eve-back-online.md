@@ -1,7 +1,7 @@
---
+---
 title: Back in Eve Online
 date: 2017-04-24 14:03
---
+---
 
 I'm playing EVE Online again, with wife approval (I found some $ in the budget and swore to keep playtime withinn reasonable limits...)!
 
