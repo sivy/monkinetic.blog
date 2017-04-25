@@ -1,7 +1,7 @@
 ---
 title: Back in Eve Online
 date: 2017-04-24 14:03
-tags:
+categories: 
     - eveonline
 ---
 
