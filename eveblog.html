@@ -13,7 +13,14 @@ title: Este DeStirr in New Eden
     {% for post in site.categories.eveblog %}
     <div class="post-teaser {% if forloop.index == 1 %}first-post{% endif %}">
       <header>
-        {% if forloop.index == 1 %}<h1>{% else %}<h2>{% endif %}
+          {% if forloop.index == 1 %}
+          <div class="profile" style="clear:both">
+              <img src="http://i.imgur.com/cLhV1VY.png" style="float: left; margin: 0 20px 0 0" width="100">
+              <h2>Este DeStirr: Signal Log</h2>
+              <p style="font-family: monospace;">Signal Cartel, EvE-Scout Enclave [SC0UT], New Eden cluster, EVE Online</p>
+              <hr style="clear:both">
+          </div>
+          <h1>{% else %}<h2>{% endif %}
           <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
         {% if forloop.index == 1 %}</h1>{% else %}</h2>{% endif %}
         {% if forloop.index == 1 %}
