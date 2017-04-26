@@ -1,0 +1,61 @@
+---
+layout: default
+---
+
+<div class="home">
+  <div class="call-out">
+    <div class="call-out-background"><!-- nothing to see here but us spaceships --></div>
+  </div>
+
+  <div class="posts">
+
+    {% for post in site.categories.eveblog %}
+    <div class="post-teaser {% if forloop.index == 1 %}first-post{% endif %}">
+      <header>
+        {% if forloop.index == 1 %}<h1>{% else %}<h2>{% endif %}
+          <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
+        {% if forloop.index == 1 %}</h1>{% else %}</h2>{% endif %}
+        {% if forloop.index == 1 %}
+        <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+        {% endif %}
+      </header>
+
+      {% if forloop.index < 2 and paginator.page == 1%}
+      <div class="post-content">
+        {% include post_content.html %}
+      </div>
+      <div>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-via="estedestirr" data-hashtags="tweetfleet" data-dnt="true" data-show-count="true">Share</a>
+        <a href="https://twitter.com/intent/tweet?screen_name=estedestirr" class="twitter-mention-button" data-hashtags="tweetfleet" data-text="{{ post.url | prepend: site.url }}" data-show-count="false">Reply/Comment</a>
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
+      {% else %}
+      <div class="excerpt">
+        <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+        <a class="button continue-reading" href="{{ post.url | prepend: site.url }}">{{ site.theme_data.str_continue_reading }}</a>
+      </div>
+      {% endif %}
+    </div>
+
+    {% endfor %}
+  </div>
+
+  {% if paginator.total_pages > 1 %}
+  <div class="pagination">
+
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.url | replace: '//', '/' }}" class="button" >
+      <i class="fa fa-chevron-left"></i>
+      {{ site.theme_data.str_prev }}
+    </a>
+    {% endif %}
+
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.url | replace: '//', '/' }}" class="button" >
+      {{ site.theme_data.str_next }}
+      <i class="fa fa-chevron-right"></i>
+    </a>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>
