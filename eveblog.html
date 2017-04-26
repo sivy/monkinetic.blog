@@ -27,8 +27,7 @@ title: "Este DeStirr: Signal Log"
         <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
         {% endif %}
       </header>
-      {% forloop.index %} {% paginator.page %}
-      {% if forloop.index < 2 and paginator.page == 1% }
+      {% if forloop.index == 1% }
       <div class="post-content">
         {% include post_content.html %}
       </div>
