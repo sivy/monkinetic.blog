@@ -11,7 +11,7 @@ layout: default
   <div class="posts">
 
     {% for post in featured_posts limit:1 %}
-      {% if ! post.categories contains "eveblog" %}
+      {% if post.categories contains "eveblog" %}{% else %}
     <div class="post-teaser featured">
       <header>
         <p class="meta"><strong>FEATURED</strong> &mdash; {{ post.date | date: "%B %-d, %Y" }}</p>
@@ -37,8 +37,7 @@ layout: default
     {% endfor %}
 
     {% for post in paginator.posts %}
-      {% if ! post.categories contains "eveblog" %}
-    {% assign word_count = post.content | number_of_words %}
+      {% if post.categories contains "eveblog" %}{% else %}
     <div class="post-teaser {% if forloop.index == 1 %}first-post{% endif %}">
       <header>
         {% if forloop.index == 1 %}<h1>{% else %}<h2>{% endif %}
