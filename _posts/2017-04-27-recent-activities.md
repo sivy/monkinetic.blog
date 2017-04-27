@@ -1,6 +1,9 @@
 ---
 title: Recent Activities
 date: 2017-04-27 9:00
+categories:
+    - eveblog
+    - eveonline
 ---
 
 As a relatively new player to EvE-Scout and exploration in general, how am I spending my EVE-time these days?
