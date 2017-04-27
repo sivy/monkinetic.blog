@@ -11,6 +11,7 @@ layout: default
   <div class="posts">
 
     {% for post in featured_posts limit:1 %}
+      {% if not post.categories contains "eveblog" %}
     <div class="post-teaser featured">
       <header>
         <p class="meta"><strong>FEATURED</strong> &mdash; {{ post.date | date: "%B %-d, %Y" }}</p>
@@ -32,9 +33,11 @@ layout: default
         <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
       </div>
     </div>
+      {% endif %}
     {% endfor %}
 
     {% for post in paginator.posts %}
+      {% if not post.categories contains "eveblog" %}
     {% assign word_count = post.content | number_of_words %}
     <div class="post-teaser {% if forloop.index == 1 %}first-post{% endif %}">
       <header>
@@ -62,7 +65,7 @@ layout: default
       </div>
       {% endif %}
     </div>
-
+      {% endif %}
     {% endfor %}
   </div>
 
