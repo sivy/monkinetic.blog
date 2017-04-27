@@ -11,10 +11,10 @@ title: "Este DeStirr: Signal Log"
   <div class="posts">
 
     {% for post in site.categories.eveblog %}
-    {% increment post_number %}
+        
     <div class="post-teaser {% if post_number == 1 %}first-post{% endif %}">
       <header>
-          {% if post_number == 0 %}
+      {% if forloop.first == true %}
           <div class="profile" style="clear:both">
               <img src="http://i.imgur.com/cLhV1VY.png" style="float: left; margin: 0 20px 0 0" width="100">
               <h2>Este DeStirr: Signal Log</h2>
@@ -23,12 +23,12 @@ title: "Este DeStirr: Signal Log"
           </div>
           <h1>{% else %}<h2>{% endif %}
           <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
-        {% if post_number == 0 %}</h1>{% else %}</h2>{% endif %}
-        {% if post_number == 0 %}
+        {% if forloop.first == true %}</h1>{% else %}</h2>{% endif %}
+        {% if forloop.first == true %}
         <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
         {% endif %}
       </header>
-      {% if post_number == 0 % }
+      {% if forloop.first == true %}
       <div class="post-content">
         {% include post_content.html %}
       </div>
