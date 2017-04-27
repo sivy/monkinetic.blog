@@ -14,6 +14,16 @@ layout: default
   </header>
 
   <section class="post-content">
+    {% if post.categories contains "eveblog" %}
+      <div class="profile" style="clear:both">
+          <img id="este-profile-photo" src="//i.imgur.com/cLhV1VY.png" style="float: left; margin: 0 20px 0 0" width="100">
+          <a href="https://www.eve-scout.com/signal-cartel/"><img id="signal-cartel-logo" src="//i.imgur.com/0xGVDb0.jpg" style="float: right; margin: 0 20px 0 0" width="110"></a>
+          <h2>Este DeStirr: Signal Log</h2>
+          <p style="font-family: monospace; margin: 0 120px">Signal Cartel, EvE-Scout Enclave [SC0UT], New Eden cluster, EVE Online</p>
+          <hr style="clear:both">
+      </div>
+    {% endif %}
+
     {{ content }}
 
     <a href="https://twitter.com/share" class="twitter-share-button" data-via="steveivy" data-hashtags="monkinetic" data-dnt="true" data-show-count="true">Tweet</a>
