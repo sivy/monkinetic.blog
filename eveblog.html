@@ -23,7 +23,7 @@ title: "Este DeStirr: Signal Log"
               <hr style="clear:both">
           </div>
           <h1>{% else %}<h2>{% endif %}
-          <a class="post-link" href="{{ post.url | prepend: site.url }}">{{ post.title }}</a>
+          <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
         {% if forloop.first == true %}</h1>{% else %}</h2>{% endif %}
         {% if forloop.first == true %}
         <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
@@ -41,7 +41,7 @@ title: "Este DeStirr: Signal Log"
       {% else %}
       <div class="excerpt">
         <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-        <a class="button continue-reading" href="{{ post.url | prepend: site.url }}">{{ site.theme_data.str_continue_reading }}</a>
+        <a class="button continue-reading" href="{{ post.url }}">{{ site.theme_data.str_continue_reading }}</a>
       </div>
       {% endif %}
     </div>
