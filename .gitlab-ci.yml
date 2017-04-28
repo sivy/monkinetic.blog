@@ -26,21 +26,13 @@ pages:
   - gem install bundler
   - bundle install
   - jekyll build -d public
-  artifacts:
-    paths:
-    - public
-  only:
-  - master
-
-pages-signal-log:
-  stage: deploy
-  script:
   - cd signal-log
   - gem install bundler
   - bundle install
-  - jekyll build -d public/signal-log
+  - jekyll build -d ../public/signal-log
+  - cd -
   artifacts:
     paths:
-    - public/signal-log
+    - public
   only:
   - master

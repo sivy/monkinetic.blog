@@ -1,11 +1,12 @@
 # JEKYLL
 encoding: utf-8
-exclude: "signal-log"
+exclude:
+  - "signal-log"
 gems:
-- jekyll-paginate
-- jekyll-auto-image
-# - markdown_macros
-# - jekyll-git_metadata
+  - jekyll-paginate
+  - jekyll-auto-image
+  # - markdown_macros
+  # - jekyll-git_metadata
 
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
