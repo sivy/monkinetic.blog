@@ -1,0 +1,17 @@
+<header class="site-header">
+	<nav class="site-nav">
+		<ul>
+			<li>
+				<a class="page-link new-post-link" target="_new" href="https://gitlab.com/{{ site.theme_data.gitlab_repo }}/new/master/signal-log/_posts">New Post</a>
+			</li>
+			<!-- Social icons from Font Awesome, if enabled -->
+		</ul>
+	</nav>
+	<div class="profile" style="clear:both">
+		<img id="este-profile-photo" src="//i.imgur.com/cLhV1VY.png" style="float: left; margin: 0 20px 0 0" width="100">
+		<a href="https://www.eve-scout.com/signal-cartel/"><img id="signal-cartel-logo" src="//i.imgur.com/0xGVDb0.jpg" style="float: right; margin: 0 20px 0 0" width="110"></a>
+		<h2><a href="{{ site.baseurl }}/">{{ site.theme_data.title }}</a></h2>
+		<p>{{ site.theme_data.header_text }}</p>
+		<p class="icons">{% include icons.html %}</p>
+	</div>
+</header>

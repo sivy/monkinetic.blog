@@ -1,6 +1,6 @@
 # JEKYLL
 encoding: utf-8
-exclude: "signal-log"
+
 gems:
 - jekyll-paginate
 - jekyll-auto-image
@@ -8,8 +8,8 @@ gems:
 # - jekyll-git_metadata
 
 # SITE CONFIGURATION
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://monkinetic.blog" # the base hostname & protocol for your site
+baseurl: "/signal-log" # the subpath of your site, e.g. /blog/
+url: "//monkinetic.blog" # the base hostname & protocol for your site
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -18,56 +18,36 @@ url: "https://monkinetic.blog" # the base hostname & protocol for your site
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /feed.xml
+subscribe_rss: /atom.xml
 
 # THEME-SPECIFIC CONFIGURATION
 theme_data:
   # Meta
-  title: monkinetic .blog
-  avatar: sivy_avatar_256.png
-  gitlab_repo: steveivy/steveivy.gitlab.io
+  title: "Este DeStirr: Signal Log"
+  avatar: "//i.imgur.com/cLhV1VY.png"
   # gravatar: 4fe0ff89158486e907c3a19ded9ac0df
-  description: "Steve Ivy's weblog - Since 1999 - XV Ed." # used by search engines
+  description: "Signal Cartel, EvE-Scout Enclave [SC0UT], New Eden cluster, EVE Online"
 
   # Header and footer text
   header_text: >
-   <p>Steve Ivy &mdash; Since 1999 &mdash; XV Ed.</p>
+   Signal Cartel, EvE-Scout Enclave [SC0UT], New Eden cluster, EVE Online
   footer_text: >
    <h3>Comment Policy</h3>
    <p>
    I don't have comments enabled on this blog. I'd much rather you wrote your own blog post or
    sent me an email instead - steveivy @ gmail.com. You can also hit me up on
-   Twitter <a href="https://twitter.com/steveivy">@steveivy</a>.
+   Twitter <a href="https://twitter.com/estedestirr">@estedestirr</a>.
    </p>
    <p>
-   <a href="https://twitter.com/intent/tweet?screen_name=steveivy"
-      class="twitter-mention-button" data-text="Hey @steveivy " data-show-count="false">Tweet to @steveivy</a>
+   <a href="https://twitter.com/intent/tweet?screen_name=estedestirr"
+      class="twitter-mention-button" data-text="Hey @estedestirr " data-show-count="false">Tweet to @estedestirr</a>
    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
    </p>
-   <p>&copy; Copyright Steve Ivy, 1999-2016</p>
+   <p>&copy; Copyright Steve Ivy, 2017</p>
 
   # Icons
   rss: true
-  email_address: steveivy@gmail.com  # Full email address, e.g. "sam@example.com"
-  behance:
-  bitbucket:
-  dribbble:
-  facebook:
-  flickr:
-  github: "sivy/sivy.github.io"
-  gitlab: "steveivy/steveivy.gitlab.io"
-  google_plus:
-  instagram:
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
-  twitter: "steveivy"
-  wordpress:
-  youtube:
+  twitter: "estedestirr"
 
   # Scripts
   # google_analytics: # Tracking ID, e.g. "UA-000000-01"
@@ -85,21 +65,15 @@ theme_data:
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
 
-  resist_sites:
-    ACLU: https://www.aclu.org
-    Southern Poverty Law Center: https://www.splcenter.org
-    Electronic Frontier Foundation: https://www.eff.org
-
 # PERMALINK
 permalink: /:title.html
 
 # PAGINATION
 paginate: 10
-paginate_path: "blog/page:num"
+paginate_path: "/page:num"
 
 # BUILD SETTINGS
 markdown: kramdown
-# markdown: MacroConverter
 highlighter: rouge
 sass:
   sass_dir: _sass

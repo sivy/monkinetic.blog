@@ -12,7 +12,7 @@ pages-build-test:
   - gem install bundler
   - bundle install
   - rm _posts/*
-  - cp _testposts/*.md _posts/ 
+  - cp _testposts/*.md _posts/
   - jekyll build -d test
 #  artifacts:
 #    paths:
@@ -25,12 +25,22 @@ pages:
   script:
   - gem install bundler
   - bundle install
-#  - gem install jekyll
-#  - gem install jekyll-paginate
-#  - gem install jekyll-git_metadata
   - jekyll build -d public
   artifacts:
     paths:
     - public
+  only:
+  - master
+
+pages-signal-log:
+  stage: deploy
+  script:
+  - cd signal-log
+  - gem install bundler
+  - bundle install
+  - jekyll build -d public/signal-log
+  artifacts:
+    paths:
+    - public/signal-log
   only:
   - master

@@ -1,0 +1,15 @@
+{% if site.theme_data.resist_sites %}
+<div class="branding resist">
+    <img id="resist-logo" title="Resist Tyranny" src="http://i.imgur.com/L0Cx8Dk.png">
+    <div class="copy">
+        <h4>Resist Hate and Tyranny in the US</h4>
+        <ul style="list-style-type: none;">
+            {% for rsite in site.theme_data.resist_sites %}
+            <li><a target="_new" href="{{ rsite[1] }}">{{ rsite[0] }}</a></li>
+            {% endfor %}
+        </ul>
+    </div>
+    <div style="clear: both;"></div>
+    <p class="donate" style="font-size: 0.8em">Join or donate to one of these organizations who are fighting to preserve Liberty in our nation.</p>
+</div>
+{% endif %}

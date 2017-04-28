@@ -1,0 +1,43 @@
+---
+layout: default
+title: "Este DeStirr: Signal Log"
+---
+
+<div class="home">
+  <div class="call-out">
+    <div class="call-out-background" style="background-image: url(//i.imgur.com/BtaSjqS.jpg); background-color:#33669a; opacity: 1.0;"><!-- nothing to see here but us spaceships --></div>
+  </div>
+
+  <div class="posts">
+
+    {% for post in paginator.posts %}
+
+    <div class="post-teaser {% if post_number == 1 %}first-post{% endif %}">
+      <header>
+      {% if forloop.first == true %}<h1>{% else %}<h2>{% endif %}
+          <a class="post-link" href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a>
+        {% if forloop.first == true %}</h1>{% else %}</h2>{% endif %}
+        {% if forloop.first == true %}
+        <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+        {% endif %}
+      </header>
+      {% if forloop.first == true %}
+      <div class="post-content">
+        {% include post_content.html %}
+      </div>
+      <div>
+        <a href="https://twitter.com/share" class="twitter-share-button" data-via="estedestirr" data-hashtags="tweetfleet" data-dnt="true" data-show-count="true">Share</a>
+        <a href="https://twitter.com/intent/tweet?screen_name=estedestirr" class="twitter-mention-button" data-hashtags="tweetfleet" data-text="{{ post.url | prepend: site.url }}" data-show-count="false">Reply/Comment</a>
+        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+      </div>
+      {% else %}
+      <div class="excerpt">
+        <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
+        <a class="button continue-reading" href="{{ site.baseurl }}{{ post.url }}">{{ site.theme_data.str_continue_reading }}</a>
+      </div>
+      {% endif %}
+    </div>
+
+    {% endfor %}
+  </div>
+</div>

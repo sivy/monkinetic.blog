@@ -1,0 +1,36 @@
+// Typography
+$font-family: 'Source Sans Pro', Helvetica, Arial, sans-serif;
+$font-size: 1.2em;
+$header-font-family: 'Roboto Slab';
+
+// Padding
+$padding-large: 20%;
+$padding-small: 5%;
+$padding-x-small: 3%;
+
+// Brand colours
+$brand-color: #fff;
+$background-color: #fefefe;
+$border-color: rgba(0, 0, 0, 0.1); // rgba recommended if using feature images
+
+// Typography colours
+$text-color: #222222;
+// $link-color: #E9994A;
+$selection-color: #D4D4D4; // visible when highlighting text
+
+// Header colours
+$header-link-color: #383838;
+
+// Feature image for articles
+$feature-image-text-color: #fff;
+$feature-image-size: cover; // options include "cover", "contain", "auto"
+
+$header-desc-text-color: #FFF;
+
+// EVE Blog colors
+$header-desc-background-color: #33669a;
+$link-color: #33669a;
+
+// Media query sizes
+$media-phone-narrow: 320px;
+

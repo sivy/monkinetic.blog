@@ -1,0 +1,11 @@
+<blockquote class="repost" style="font-size: 0.9em; border: 1px solid #eee;">
+    {% if embed.feature-img or embed.image %}
+    <div style="margin: 0px 20px 0 0; float: left; min-height: 80px; width: 120px; background-repeat: no-repeat; background-size: auto 100%;
+    background-image: url('{% if embed.feature-img %}{{ embed.feature-img }}{% elsif embed.image %}{{ embed.image }}{% endif %}')"></div>
+    {% endif %}
+    <h2 style="margin: 0; font-size: 1.2em"><a class="post-link" href="{{ embed.url | prepend: site.url }}}">{{ embed.title }}</a></h2>
+    <div style="font-style: italic;">
+        {{ embed.excerpt }}
+    </div>
+    <div style="clear:both"></div>
+</blockquote>

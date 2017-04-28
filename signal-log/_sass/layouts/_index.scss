@@ -1,0 +1,149 @@
+// Header text feature
+.site-header a.new-post-link {
+    color: #f0f0f0;
+}
+
+.call-out {
+  display: inline-block;
+  position: relative;
+  width: 100%;
+  background: none repeat scroll 0% 0% $header-desc-background-color;
+  font-size: 1.2em;
+  text-align: center;
+  color: $header-desc-text-color;
+  border-bottom: 8px solid darken($header-desc-background-color, 15%);
+  padding: 0;
+  margin-bottom: 3%;
+}
+
+.call-out-background {
+  content: ' ';
+  position: relative;
+  width: 100%;
+  height: 130px;
+  display: block;
+  background-image: url(http://i.imgur.com/UMNwIAzg.png);
+  background-repeat: no-repeat;
+  background-position: -20px -80px;
+  opacity: 0.5;
+  float: left;
+}
+
+.call-out p:last-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  margin: 4% auto;
+  width: 100%;
+}
+
+h1 a.post-link, h2 a.post-link {
+  font-family: "Roboto Slab";
+  font-weight: 300;
+  font-size: 1.2em;
+  @media (max-width: 800px) {
+    font-size: 0.9em;
+
+  }
+}
+
+h2 a.post-link {
+  font-size: 1em;
+}
+
+// Post listing
+.posts {
+  text-align: center;
+  .post-teaser {
+    padding: 0 20%;
+    width: 100%;
+    text-align: left;
+    margin-bottom: 0;
+    display: inline-block;
+    background-size: $feature-image-size;
+    h1 {
+      @media (max-width: 800px) {
+        line-height: 0.9;
+      }
+    }
+    p a:hover {
+      @extend %link-hover;
+    }
+  }
+  .featured {
+    border: 1px solid #ccc;
+    border-bottom: 3px solid #999;
+    background-color: #fefefe;
+    margin: 4% 15% 4%;
+    width: auto;
+    padding: 5% 10%;
+  }
+  .excerpt {
+    margin-top: 1em;
+  }
+
+  .resist {
+    background: none;
+    border: 1px solid #666;
+    margin: 2% 15%;
+    padding: 1% 4%;
+    text-align: left;
+    @media (max-width: 800px) {
+      text-align: center;
+    }
+
+    #resist-logo {
+      width: 50%;
+      @media (max-width: 800px) {
+        width: 400px;
+      }
+    }
+
+    .copy {
+      font-size: 0.9em;
+      float: right;
+      width: 45%;
+      @media (max-width: 800px) {
+        float: none;
+        width: 100%;
+      }
+      h4 {
+        font-size: 1.25em;
+        font-weight: 400;
+        @media (max-width: 800px) {
+          display: none;
+        }
+      }
+      ul {
+      }
+      li {
+        display: inline;
+        @media (max-width: 800px) {
+          display: block;
+        }
+      }
+      li:before {
+        content: "- ";
+        @media (max-width: 800px) {
+          content: "";
+        }
+      }
+    }
+    p.donate {
+      margin: 0.5% 0 0;
+      font-size: 0.8em;
+      text-align: center;
+    }
+  }
+}
+// Pagination
+.pagination .button {
+  margin: 0 1.5em;
+  i {
+    vertical-align: middle;
+  }
+}
+.pagination {
+  padding: $padding-small $padding-large 0 $padding-large;
+  text-align: center;
+}
