@@ -48,6 +48,7 @@ theme_data:
   # Icons
   rss: true
   twitter: "estedestirr"
+  gitlab: "steveivy/steveivy.gitlab.io"
 
   # Scripts
   # google_analytics: # Tracking ID, e.g. "UA-000000-01"

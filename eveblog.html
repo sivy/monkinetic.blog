@@ -1,51 +1,11 @@
 ---
-layout: eveblog
-title: "Este DeStirr: Signal Log"
+layout: null
 ---
-
-<div class="home">
-  <div class="call-out">
-    <div class="call-out-background" style="background-image: url(//i.imgur.com/BtaSjqS.jpg); background-color:#33669a; opacity: 1.0;"><!-- nothing to see here but us spaceships --></div>
-  </div>
-
-  <div class="posts">
-
-    {% for post in site.categories.eveblog %}
-        
-    <div class="post-teaser {% if post_number == 1 %}first-post{% endif %}">
-      <header>
-      {% if forloop.first == true %}
-          <div class="profile" style="clear:both">
-              <img id="este-profile-photo" src="//i.imgur.com/cLhV1VY.png" style="float: left; margin: 0 20px 0 0" width="100">
-              <a href="https://www.eve-scout.com/signal-cartel/"><img id="signal-cartel-logo" src="//i.imgur.com/0xGVDb0.jpg" style="float: right; margin: 0 20px 0 0" width="110"></a>
-              <h2>Este DeStirr: Signal Log</h2>
-              <p style="font-family: monospace; margin: 0 120px">Signal Cartel, EvE-Scout Enclave [SC0UT], New Eden cluster, EVE Online</p>
-              <hr style="clear:both">
-          </div>
-          <h1>{% else %}<h2>{% endif %}
-          <a class="post-link" href="{{ post.url }}">{{ post.title }}</a>
-        {% if forloop.first == true %}</h1>{% else %}</h2>{% endif %}
-        {% if forloop.first == true %}
-        <p class="meta">{{ post.date | date: "%B %-d, %Y" }}</p>
-        {% endif %}
-      </header>
-      {% if forloop.first == true %}
-      <div class="post-content">
-        {% include post_content.html %}
-      </div>
-      <div>
-        <a href="https://twitter.com/share" class="twitter-share-button" data-via="estedestirr" data-hashtags="tweetfleet" data-dnt="true" data-show-count="true">Share</a>
-        <a href="https://twitter.com/intent/tweet?screen_name=estedestirr" class="twitter-mention-button" data-hashtags="tweetfleet" data-text="{{ post.url | prepend: site.url }}" data-show-count="false">Reply/Comment</a>
-        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-      </div>
-      {% else %}
-      <div class="excerpt">
-        <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
-        <a class="button continue-reading" href="{{ post.url }}">{{ site.theme_data.str_continue_reading }}</a>
-      </div>
-      {% endif %}
-    </div>
-
-    {% endfor %}
-  </div>
-</div>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url=/signal-log/" />
+  </head>
+  <body>
+    <p><a href="/signal-log/">The Signal Log has moved</a>...</p>
+  </body>
+</html>
