@@ -18,7 +18,9 @@ serpentis/monument/ruined
 --STATUS--
 ::SUCCESS::
 --REPORT--
-All cans successfully hacked; Red cores - ruined cargo containers - still not protecting comensurate cargo; Recommendation in future -- Remains containers (yellow cores) should be primary. Advise.
+All cans successfully hacked; Red cores - ruined cargo containers - still 
+not protecting comensurate cargo; Recommendation in future -- Remains 
+containers (yellow cores) should be primary. Advise.
 --ENDSIG --
 ```
 
@@ -34,6 +36,7 @@ sansha/monument/ruined
 --STATUS--
 ::SUCCESS::
 --REPORT--
-All cans successfully hacked; Secured 5 armor plate sections intact. Proceeding to dropoff. 
+All cans successfully hacked; Secured 5 armor plate sections intact. 
+Proceeding to dropoff. 
 --ENDSIG --
 ```
