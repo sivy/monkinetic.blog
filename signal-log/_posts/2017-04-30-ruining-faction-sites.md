@@ -1,5 +1,5 @@
 ---
-title: Signal: Pirate Sites Located
+title: "Report: Pirate Sites Located"
 date: 2017-04-30 14:31
 categories:
     - eveonline
