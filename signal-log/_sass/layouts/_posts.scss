@@ -17,7 +17,7 @@ article {
   header.header-with-feature-img h1 {
     text-shadow: 2px 3px 1px #000;
   }
-  
+
   a:hover {
     @extend %link-hover;
   }
@@ -31,6 +31,7 @@ header {
     color: darken($header-desc-background-color, 25%);
   }
   .meta {
+    font-family: monospace;
     color: rgba($text-color, 0.5);
     font-size: 0.9em;
     letter-spacing: 0.1em;
@@ -49,6 +50,8 @@ header {
     margin-bottom: 0;
     padding: $padding-large/2.5 $padding-large;
     .meta {
+      padding-left: 20px;
+      font-family: monospace;
       color: rgba($feature-image-text-color, .7);
     }
   }

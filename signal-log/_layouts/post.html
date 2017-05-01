@@ -8,7 +8,7 @@ layout: default
     <h1 style="{% if page.header-text-color %} color: {{ page.header-text-color }}{% endif %}" class="title">{{ page.title }}</h1>
     <!-- {{ page.header-text-color }} -->
     <p {% if page.header-text-color %}style="color: {{ page.header-text-color }}" {% endif %}class="meta">
-    Published {{ page.date | date: "%B %-d, %Y" }}
+    Published {{ page.date | date_with_yc_year }} // {{ page.date | date: "%Y.%m.%d" }}
     {% if page.author %} - {{ page.author }}{% endif %}
     </p>
   </header>
