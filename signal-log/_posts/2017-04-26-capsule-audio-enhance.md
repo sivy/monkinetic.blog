@@ -10,4 +10,4 @@ categories:
 
 - [Heliosphere (Psytrance Progressive Mix 2017)](https://youtu.be/ZaD-lIRUdGc)
 - [PSYCHEDELIC TRANCE MIX - The Best Of 2016 Yearmix](https://youtu.be/5j4L7DJalX0)
-- [PSYCHEDELIC TRANCE MIX - The Best Of 2015 Yearmix](hhttps://youtu.be/dVHiAOQHn9g)
+- [PSYCHEDELIC TRANCE MIX - The Best Of 2015 Yearmix](https://youtu.be/dVHiAOQHn9g)
