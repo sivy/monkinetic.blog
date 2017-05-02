@@ -12,9 +12,11 @@
 	{% if page.title %}
     <meta name="twitter:title" content="{{ page.title }}">
     <meta name="twitter:description" content="{{ page_description }}">
-	{% if page.feature-img or page.image %}
+		{% if page.feature-img or page.image %}
     <meta name="twitter:image" content="{% if page.feature-img %}{{ page.feature-img }}{% elsif page.image %}{{ page.image }}{% endif %}">
-    {% endif %}
+	    {% else %}
+    <meta name="twitter:image" content="https://i.imgur.com/cLhV1VY.png">
+		{% endif %}
     {% else %}
     <meta name="twitter:title" content="{{ site.theme_data.title }}">
     <meta name="twitter:description" content="Steve Ivy's weblog &mdash; Since 2000 &mdash; XVI Edition">
