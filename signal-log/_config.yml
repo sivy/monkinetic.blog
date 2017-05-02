@@ -9,7 +9,7 @@ gems:
 
 # SITE CONFIGURATION
 baseurl: "/signal-log" # the subpath of your site, e.g. /blog/
-url: "//monkinetic.blog" # the base hostname & protocol for your site
+url: "//steveivy.gitlab.io" # the base hostname & protocol for your site
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
@@ -18,7 +18,7 @@ url: "//monkinetic.blog" # the base hostname & protocol for your site
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /feed.xml
 
 # THEME-SPECIFIC CONFIGURATION
 theme_data:
