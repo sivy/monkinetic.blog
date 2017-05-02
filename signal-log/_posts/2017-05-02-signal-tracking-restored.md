@@ -1,6 +1,6 @@
 ---
 title: Signal Tracking Restored
-date: 2-17-05-02 08:17
+date: 2017-05-02 08:17
 categories:
     - eveonline
     - sitenews
