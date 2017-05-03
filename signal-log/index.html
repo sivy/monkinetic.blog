@@ -34,7 +34,7 @@ title: "Este DeStirr: Signal Log"
       </div>
       {% endif %}
     </div>
-
+      {% if forloop.first == true %}<h4 class="previous-signals">Previous Signals</h4>{% endif %}
     {% endfor %}
   </div>
 </div>

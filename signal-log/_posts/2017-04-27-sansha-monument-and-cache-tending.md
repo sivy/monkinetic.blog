@@ -4,6 +4,8 @@ date: 2017-04-27 13:37
 categories:
     - eveblog
     - eveonline
+excerpt: >
+    So I got some time over lunch today to scan a C1 I landed in last night. Then came the fun part - learning about how to tend our one of our rescue caches.
 ---
 
 <img src="//i.imgur.com/1QK7RXZ.jpg?1" style="float:right; margin: 0 0 20px 20px;">

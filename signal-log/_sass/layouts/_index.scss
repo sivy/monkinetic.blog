@@ -51,6 +51,7 @@ h2 a.post-link {
   font-size: 1em;
 }
 
+
 // Post listing
 .posts {
   text-align: center;
@@ -137,6 +138,14 @@ h2 a.post-link {
       font-size: 0.8em;
       text-align: center;
     }
+  }
+  .first-post {
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 2px solid #999;
+  }
+  h4.previous-signals {
+    font-weight: normal;
   }
 }
 // Pagination
