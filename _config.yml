@@ -5,8 +5,6 @@ exclude:
 gems:
   - jekyll-paginate
   - jekyll-auto-image
-  # - markdown_macros
-  # - jekyll-git_metadata
 
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/

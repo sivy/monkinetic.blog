@@ -4,8 +4,6 @@ encoding: utf-8
 gems:
 - jekyll-paginate
 - jekyll-auto-image
-# - markdown_macros
-# - jekyll-git_metadata
 
 # SITE CONFIGURATION
 baseurl: "/signal-log" # the subpath of your site, e.g. /blog/
