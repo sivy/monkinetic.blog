@@ -34,16 +34,18 @@
   }
 
   .profile {
-
+    h1 {
+      font-size: 2em;
+    }
     #este-profile-photo {
-      width: 80px;
+      width: 90px;
       float: left;
       margin: 0 20px 0 0;
       border-radius: 5px;
     }
 
     #signal-cartel-logo {
-      width: 100px;
+      width: 90px;
       float: right;
       margin: 0 0 0 20px;
     }
@@ -54,9 +56,37 @@
       margin: 0 100px;
     }
 
-    p.icons {
+    ul.icons {
+      margin-left: 100px;
+      li {
+        float: left;
+        margin-left: 10px;
+        list-style-type: none;
+      }
+      li:first-child {
+        margin-left: 0;
+      }
       margin-top: 5px;
       // font-size: 0.9em;
+    }
+  }
+  @media (max-width: 600px) {
+    .profile {
+      h1 {
+        font-size: 1.5em;
+        clear: both;
+      }
+      p {
+          margin: 0;
+      }
+      ul.icons {
+        margin-left: 0px;
+        margin-top: 5px;
+
+        li {
+          list-style-type: none;
+        }
+      }
     }
   }
 
