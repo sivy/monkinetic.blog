@@ -35,7 +35,6 @@ layout: default
     {% endfor %}
 
     {% for post in paginator.posts %}
-      {% if post.categories contains "eveblog" %}{% else %}
     <div class="post-teaser {% if forloop.index == 1 %}first-post{% endif %}">
       <header>
         {% if forloop.index == 1 %}<h1>{% else %}<h2>{% endif %}
@@ -62,7 +61,6 @@ layout: default
       </div>
       {% endif %}
     </div>
-      {% endif %}
     {% endfor %}
   </div>
 
