@@ -11,7 +11,7 @@ excerpt: >
 <p class="caption">Sometimes I'm flying around and get the bug to write... So launch probes, hit cloak, and enjoy.</p>
 
 <div style="float: right; margin: 0 0 20px 40px; border: 1px solid #ccc; width: 154px"><img src="//i.imgur.com/XxpgMDx.jpg" width="150" style="margin: 1px">
-    <p class="caption">Razorien, EvE-Scout pilot</p>
+    <p class="caption">Razorien, EvE-Scout pilot and Astrophotographer</p>
 </div>
 
 Looking for a Holoreel to pass the time while scanning, mining, or F1-button-pushing? Eve-Scout \[SC0UT] capsuleer [Razorien](https://twitter.com/razorieneve) creates and delivers the best photo-journalism content in New Eden. Razorien uses a combination of personally-upgraded camera drones, a custom (and well-kept secret) post-processing suite, and a naturally artistic flair to capture and present visions of New Eden's many environments as well as some of the most dramatic battles and events in the cluster.
@@ -37,7 +37,7 @@ Anything may catch Razorien's eye and become the subject of his attention, be it
 
 Warfare between empires, factions, and alliances is a fact of life for all capsuleers, whether involved on the front lines or dealing with the effects and aftermath of these titanic struggles. For those of us who aren't outward bound in an invading fleet or defense force, these violent episodes can seem distant and incomprehensible. Razorien's work takes us right to the middle of the action and gives perspective to the reports coming from The Scope and other news outlets.
 
-Due to his position of neutrality (Razorien is a member of EvE-Scout's single corporation, [Signal Cartel](//www.eve-scout.com/signal-cartel/) \[1420.], whose members' commitment to  neutrality is written into the corporate charter) and his reputation as a journalist, Razorien has been able to observe - often by invitation - some of the largest and most intense battles in the last few years. For example, Razorien was present for the [battle over the M-OEE8 Keepstar](http://evenews24.com/2016/12/09/assault-of-the-m-oee8-keepstar-begins-and-co2-withdraws/), and YC119's Burn Jita campaign:
+Due to his position of neutrality (Razorien is a member of EvE-Scout's single corporation, [Signal Cartel](//www.eve-scout.com/signal-cartel/) \[1420.], whose members' commitment to  neutrality is written into the corporate charter) and his reputation as a journalist, Razorien has been able to observe - often embedded by invitation - some of the largest and most intense battles in the last few years. For example, Razorien was present for the [battle over the M-OEE8 Keepstar](http://evenews24.com/2016/12/09/assault-of-the-m-oee8-keepstar-begins-and-co2-withdraws/), and YC119's Burn Jita campaign:
 
 <a data-flickr-embed="true"  href="//www.flickr.com/photos/razorieneve/30594668223" title="Fight over the M-OEE8 keepstar"><img src="//c1.staticflickr.com/6/5786/30594668223_93a9f1dc9f_z.jpg" width="640" height="400" alt="M-OEE8"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
