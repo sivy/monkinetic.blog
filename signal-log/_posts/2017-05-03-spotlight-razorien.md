@@ -1,6 +1,6 @@
 ---
 title: "Spotlight: Razorien"
-date: 2017-05-03 9:00
+date: 2017-05-04 16:23
 categories:
     - eveonline
     - spotlight
