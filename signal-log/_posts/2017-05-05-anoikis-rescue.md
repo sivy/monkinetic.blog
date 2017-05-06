@@ -4,6 +4,8 @@ date: 2017-05-05 16:26
 categories:
     - signal-log
     - anoikis
+excerpt: >
+    Captain, don't forget to bookmark your exit before you warp away...
 ---
 
 *"Captain, don't forget to bookmark your exit before you warp away..."*
