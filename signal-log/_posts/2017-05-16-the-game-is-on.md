@@ -22,4 +22,4 @@ I've been sitting in a Class 2 Anoikis system, in no hurry to go anywhere specia
 
 I warp to the single wormhole and after consulting the sensors, work out the connection tag and make a note that it's connecting to Null-security space. Not sure I'm interested in leaving Anoikis any time soon, so I won't be taking this connection, but I save the location just in case. I warp back to the safe, trigger a half-dozen 360-degree directional scans....
 
-**The game is on. The Cloaky Proteus is out there somewhere, and there are relic sites in system.**
+**The game is on.** The Cloaky Proteus is out there somewhere, and there are relic sites to hack.
