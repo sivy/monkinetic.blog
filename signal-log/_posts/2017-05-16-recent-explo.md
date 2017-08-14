@@ -1,5 +1,5 @@
 ---
-title: Recent Exploration: Stain, Wormholes, ESRC activity
+title: "Recent Exploration: Stain, Wormholes, ESRC activity"
 date: 2017-05-16 8:10
 categories:
     - eveonline
@@ -21,3 +21,5 @@ I've been sitting in a Class 2 Anoikis system, in no hurry to go anywhere specia
 *Relic site...* If I was Amarr I'd be offering thanks to God for this hole. *Blood Raider Crystal Quarry*. **YES**. This could be an excellent day, assuming the ever-present cloaky Proteus (every relic hunter's boogeyman) doesn't decide to ruin it. Resolve the sig some more, save the location.
 
 I warp to the single wormhole and after consulting the sensors, work out the connection tag and make a note that it's connecting to Null-security space. Not sure I'm interested in leaving Anoikis any time soon, so I won't be taking this connection, but I save the location just in case.
+
+*Time to play...*
