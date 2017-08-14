@@ -1,5 +1,5 @@
 ---
-title: "Recent Exploration: Stain, Wormholes, ESRC activity"
+title: "Recent Exploration: Anoikis"
 date: 2017-05-16 8:10
 categories:
     - eveonline
