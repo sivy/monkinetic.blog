@@ -1,5 +1,7 @@
+---
 title: "Toshiko"
 date: 2018-08-30 10:15
+---
 
 Things have been quiet, and I like them that way.
 
