@@ -1,6 +1,6 @@
 ---
 layout: null
-permalink: /.well-known/acme-challenge/ww_0B1tNy05iyv2BXDdl9A5vWg8be8T-YjgJ6lnkOhc
+permalink: /.well-known/acme-challenge/L-cztDWtEcUrKOWuZZlQ6ELa89rCKX1EEh8dsn582gk
 ---
 
-ww_0B1tNy05iyv2BXDdl9A5vWg8be8T-YjgJ6lnkOhc.dZSdi1X1CEWmmCfrRMrCLirwPxxa5x8GBsRmCrgGOmY
+L-cztDWtEcUrKOWuZZlQ6ELa89rCKX1EEh8dsn582gk.wrG1tQ4UO6inxgsdwF_U9nux5f27EY-ZWy5q7G0KcVU
