@@ -17,5 +17,5 @@ _What's different? I'm different. I'm still shaken after the Nevada shootings an
 
 More then once while watching, the sound of machine gun fire from the screen had me imagining that hotel room in the Mandalay Bay, agape and helpless as a shadowed assassin fired non-stop into the crowds amassed below. And then I was in that high school trailer again, only this time the gun didn't jam and people died.
 
-_I didn't say anything. I shivered and went back to watching, afraid to admit that something that has remained in the background, all but gone, for nearly two decades is now looming over my shoulder again._
+_I didn't say anything. I shivered and went back to watching, afraid to admit that something that has remained in the background, all but gone, for nearly two decades is now looming over my shoulder again..._
 
