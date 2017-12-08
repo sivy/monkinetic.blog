@@ -1,5 +1,5 @@
 ---
-title: New blog host: Netlify
+title: "New blog host: Netlify"
 date: 2017-12-08 7:00
 ---
 
