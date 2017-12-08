@@ -8,7 +8,7 @@ gems:
 
 # SITE CONFIGURATION
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://steveivy.gitlab.io" # the base hostname & protocol for your site
+url: "https://www.monkinetic.blog" # the base hostname & protocol for your site
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
