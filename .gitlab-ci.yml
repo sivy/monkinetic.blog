@@ -2,9 +2,10 @@
 # Full project: https://gitlab.com/pages/jekyll
 image: ruby:2.3
 
-stages:
-- test
-- deploy
+# build process now happening at netlify: http://netlify.com
+# stages:
+# - test
+# - deploy
 
 pages-build-test:
   stage: test
