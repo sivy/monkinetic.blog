@@ -20,26 +20,27 @@
     <meta name="twitter:description" content="Steve Ivy's weblog &mdash; Since 2000 &mdash; XVI Edition">
     {% endif %}
 
-	
 	<!-- CSS -->
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 	<link rel="stylesheet" href="/static/styles.css">
-	
+
 	<!--Favicon-->
 	<link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
-	
+
 	<!-- Canonical -->
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-	
+
 	<!-- RSS -->
 	<link rel="alternate" type="application/atom+xml" title="{{ site.theme_data.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
-	
+
 	<!-- Font Awesome -->
 	<link rel="stylesheet" href="/static/font-awesome/css/font-awesome.min.css">
 
 	<!-- Google Fonts -->
 	<link href="//fonts.googleapis.com/css?family=Roboto+Slab:300,400|Source+Sans+Pro:300,400,700,700italic,400italic" rel="stylesheet" type="text/css">
-	
+
+    <!-- netlify identity/cms -->
+    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 	<!-- Google Analytics -->
 	{% if site.theme_data.google_analytics %}
 	<script>
