@@ -18,7 +18,7 @@ The picture I've recently started forming is the *Dystopian Underground Communit
 
 The residents in the Midlevels are used to life in the twilight, move in their circles of family and friends, and have grown to believe that making a life from the hand-me-downs from above is normal. They know of the lower levels, they depend on services that the residents there provide from time to time, but are convinced that either life there is not so bad, the residents are living in the dark by choice, or the worst: believe that they have earned the right to the light, rather than being born to it, and those below somehow don't deserve access.
 
-The further one's social circle gets from the dominant Haves, the deeper into the Below, the harder life in the silo becomes. The Below is rife with roving gangs of trolls, descending even from the Midlevels where they live in relative comfort, to harass and abuse the citizens struggling to make ends meet on the scraps of attention and spaces left to them by the Haves and those in The Above. The trolls have little to fear from The Below, save the reminder that they too are Below - somewhere else. And perhaps it is that thought that drives them to stand on walkways and corners, hurling insults and petty self-justifications at the passing residents.
+The further one's social circle gets from the dominant Haves, the deeper into *The Below*, the harder life in the silo becomes. The Below is rife with roving gangs of trolls, descending even from the Midlevels where they live in relative comfort, to harass and abuse the citizens struggling to make ends meet on the scraps of attention and spaces left to them by the Haves and those in The Above. The trolls have little to fear from The Below, save the reminder that they too are Below - somon else. And perhaps it is that thought that drives them to stand on walkways and corners, hurling insults and petty self-justifications at the passing residents.
 
 The Silo is a terrible place for those not born into, or assigned to, the upper levels. Fortunately, there is hope: The federated Colonies...
 
@@ -34,8 +34,19 @@ This isn't a utopia; there are always disagreements - we're human after all - an
 
 ## Leaving the Silo
 
+If Twitter and Facebook are the Silos, blessing the privileged while taking advantage of the Outsider and the Other, the Colonies can be found in the federated web, the open social networks - sites like [Mastodon](https://joinmastodon.org), [Diaspora](https://joindiaspora.com/), [Friendica](http://friendi.ca/), and [GNU Social](https://www.gnu.io/social/).
+
+**[Mastodon](https://joinmastodon.org)** in particular has established itself as a viable alternative to the murky depths of the Silo. With a million-plus users spread over more than a 1000 instances, each server, or colony, is a full-fledged social network, with users posting, sharing, following, and liking each other's content. But more than that, each user can remotely follow users in other servers, bringing new viewpoints and content into their space.
+
+![A federation of servers]({{site.baseurl}}/images/mastodon-network.jpeg)
+
+Is a migration to federated social media sites going to break the power fo the Silos? No. There are enough users happy to be near their friends and family, or eager to harangue and harass those in The Below, while jealously eyeing The Above.
+
+But maybe some at every level of the Silo will find themselves looking for something better, a place with something for everyone, a system that is not designed to entrap and enclose them, and make them subservient to the whims of execs and advertisers.
+
+*The Revolution will be Federated*.
 
 
 
-*Tunnel image by [Ishutani](http://ishutani.deviantart.com/art/Tunnel-365977590)*
-*Colony image by [Ken Fairclough](http://kenfairclough.blogspot.com/)*
+- *Tunnel image by [Ishutani](http://ishutani.deviantart.com/art/Tunnel-365977590)*
+- *Colony image by [Ken Fairclough](http://kenfairclough.blogspot.com/)*
