@@ -12,7 +12,7 @@ This post is about how I discovered that, while I wasn't looking, an alternative
 
 The major social media sites - Twitter, Facebook - are commonly referred to as *silos* - great collections of content with few connections to the outside world. Content flows in from users (and the web) but not out again.
 
-The picture I've recently started forming is the Dystopic Underground Community from the science fiction genre: The Haves live near the surface, blessed by light and air (and attention). The Have-Nots live below, garnering less and less light from the source, instead inheriting the castoffs and scraps dropping from the levels above them. The Upper-Midlevels can still see the light clearly, pretending that they are not dependent on the goodwill of the Haves for access, and pretending that there are not hundreds of levels of population below, struggling for life.
+The picture I've recently started forming is the *Dystopian Underground Community* from the science fiction genre: The Haves live near the surface, in the Silo's highest levels, blessed by light and air (and attention). The Have-Nots live below, garnering less and less light from the source, instead inheriting the castoffs and scraps dropping from the levels above them. The Upper-Midlevels can still see the light clearly, pretending that they are not dependent on the goodwill of the Haves for access, and pretending that there are not hundreds of levels of population below, struggling for life.
 
 ![SciFi Silo]({{site.baseurl}}/images/silo.jpg)
 
@@ -20,5 +20,18 @@ The residents in the Midlevels are used to life in the twilight, move in their c
 
 The further one's social circle gets from the dominant Haves, the deeper into the Below, the harder life in the silo becomes. The Below is rife with roving gangs of trolls, descending even from the Midlevels where they live in relative comfort, to harass and abuse the citizens struggling to make ends meet on the scraps of attention and spaces left to them by the Haves and those in The Above. The trolls have little to fear from The Below, save the reminder that they too are Below - somewhere else. And perhaps it is that thought that drives them to stand on walkways and corners, hurling insults and petty self-justifications at the passing residents.
 
+The Silo is a terrible place for those not born into, or assigned to, the upper levels. Fortunately, there is hope: The federated Colonies...
+
+## The Colonies
+
+Out on the surface, separated from the Silo, a new set of colonies is being built. Each colony is self-sufficient, with resources for every inhabitant, and attention to spare. Some are small - just a few tens or hundreds of inhabitants. Others are massive, home to hundreds of thousands of residents. Here the domed and towered structures bask in the light, with a vitality and energy long since lost in the Silo.
+
+![Domed colonies]({{site.baseurl}}/images/ken-fairclough-ken-fairclough-microtech-lookfeel-concept-01-add-lighting.jpg)
+
+
+
+
+
 
 *Tunnel image by [Ishutani](http://ishutani.deviantart.com/art/Tunnel-365977590)*
+*Colony image by [Ken Fairclough](http://kenfairclough.blogspot.com/)*
