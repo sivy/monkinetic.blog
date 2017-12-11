@@ -14,7 +14,7 @@ The major social media sites - Twitter, Facebook - are commonly referred to as *
 
 The picture I've recently started forming is the *Dystopian Underground Community* from the science fiction genre: The Haves live near the surface, in the Silo's highest levels, blessed by light and air (and attention). The Have-Nots live below, garnering less and less light from the source, instead inheriting the castoffs and scraps dropping from the levels above them. The Upper-Midlevels can still see the light clearly, pretending that they are not dependent on the goodwill of the Haves for access, and pretending that there are not hundreds of levels of population below, struggling for life.
 
-![SciFi Silo]({{site.baseurl}}/images/silo.jpg)
+![Tunnel]({{site.baseurl}}/images/silo.jpg)
 
 The residents in the Midlevels are used to life in the twilight, move in their circles of family and friends, and have grown to believe that making a life from the hand-me-downs from above is normal. They know of the lower levels, they depend on services that the residents there provide from time to time, but are convinced that either life there is not so bad, the residents are living in the dark by choice, or the worst: believe that they have earned the right to the light, rather than being born to it, and those below somehow don't deserve access.
 
@@ -28,7 +28,11 @@ Out on the surface, separated from the Silo, a new set of colonies is being buil
 
 ![Domed colonies]({{site.baseurl}}/images/ken-fairclough-ken-fairclough-microtech-lookfeel-concept-01-add-lighting.jpg)
 
+The colonies are home to nearly a million former residents of the Silo. Some still descend into the Silo to visit family, friends, and invite others to the colony. Some have moved permanently, homesteading a new network of sheltered structures here. These colonies are a federation - communication and residents move freely from one to the other, local administrators making sure that their respective codes of conduct are maintained, provide space and facilities for the residents, and coordinate relationships with the other colonies. Residents find a colony of likeminded individuals, and can move from colony to colony as desired, with some paperwork to transfer residency.
 
+This isn't a utopia; there are always disagreements - we're human after all - and adminstrative conflicts have led to colonies disassociating with one another. But here on the surface they are free to do choose their connections, joining and leaving the federation as desired.
+
+## Leaving the Silo
 
 
 
