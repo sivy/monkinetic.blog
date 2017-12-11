@@ -6,3 +6,4 @@ Much has been made lately about Twitter having become a trashfire, with rampant 
 
 Around the time that GamerGate was blowing up, I made the concious decision to start following a larger variety of people on Twitter, in an effort to break out of the cacoon I found myself in. One day I need to write a post about that, but this is not that post.
 
+This post is about how I discovered that, while I wasn't looking, the federated web began growing up from its very *nerdy* roots and broke into the air and light into something real people could - and should - use.
