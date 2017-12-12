@@ -133,6 +133,11 @@ prose:
               value: 'post'
             - name: 'Note'
               value: 'note'
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Post Excerpt"
+          help: "Short description for longer posts"
       - name: "feature-img"
         field:
           element: "text"
