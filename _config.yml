@@ -123,3 +123,13 @@ prose:
         field:
           element: "text"
           label: "title"
+      - name: "type"
+        field:
+          element: "select"
+          label: "Type"
+          value: "post"
+          options:
+            - name: 'Post'
+              value: 'post'
+            - name: 'Note'
+              value: 'note'
