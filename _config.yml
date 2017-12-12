@@ -54,7 +54,7 @@ theme_data:
   facebook:
   flickr:
   github: "sivy/sivy.github.io"
-  gitlab: "steveivy/steveivy.gitlab.io"
+  # gitlab: "steveivy/steveivy.gitlab.io"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -122,7 +122,7 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "title"
+          label: "Title"
       - name: "type"
         field:
           element: "select"
@@ -133,3 +133,8 @@ prose:
               value: 'post'
             - name: 'Note'
               value: 'note'
+      - name: "feature-img"
+        field:
+          element: "text"
+          label: "Feature Img"
+          help: "image in the images/ folder"
