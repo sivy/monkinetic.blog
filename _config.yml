@@ -54,7 +54,7 @@ theme_data:
   facebook:
   flickr:
   github: "sivy/sivy.github.io"
-  gitlab: "steveivy/steveivy.gitlab.io"
+  # gitlab: "steveivy/steveivy.gitlab.io"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -122,4 +122,24 @@ prose:
       - name: "title"
         field:
           element: "text"
-          label: "title"
+          label: "Title"
+      - name: "type"
+        field:
+          element: "select"
+          label: "Type"
+          value: "post"
+          options:
+            - name: 'Post'
+              value: 'post'
+            - name: 'Note'
+              value: 'note'
+      - name: "excerpt"
+        field:
+          element: "textarea"
+          label: "Post Excerpt"
+          help: "Short description for longer posts"
+      - name: "feature-img"
+        field:
+          element: "text"
+          label: "Feature Img"
+          help: "image in the images/ folder"
