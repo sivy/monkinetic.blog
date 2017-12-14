@@ -1,6 +1,6 @@
 ---
 type: post
-published: false
+published: true
 title: Designing an open Facebook alternative
 ---
 
