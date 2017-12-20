@@ -53,12 +53,12 @@ theme_data:
   dribbble:
   facebook:
   flickr:
-  github: "sivy/sivy.github.io"
+  github: "sivy"
   # gitlab: "steveivy/steveivy.gitlab.io"
   google_plus:
   instagram:
   linkedin:  # Full URL
-  mastodon: "https://toot.cafe/sivy"
+  mastodon: "https://toot.cafe/@sivy"
   pinterest:
   reddit:
   soundcloud:
