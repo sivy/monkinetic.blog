@@ -1,6 +1,6 @@
 ---
 type: post
-published: false
+published: true
 title: DiSo After 10 years
 ---
 10 years ago: [Will Norris](https://willnorris.com/), [Chris Messina](https://factoryjoe.com/), [Stephen Paul Weber](http://singpolyma.net/) and I launched a little thing called The DiSo Project. "DiSo" stood for "distributed social" and at the time was based on [OpenID](http://openid.net/what-is-openid/), [XFN](https://en.wikipedia.org/wiki/XFN), and blogs (Twitter just launched the year before and wasn't much on our radar).
