@@ -150,6 +150,12 @@
 </li>
 {% endif %}
 
+{% if site.theme_data.mastodon %}
+<li>
+	<a href="{{ site.theme_data.mastodon }}" title="{{ site.theme_data.str_follow_on }} Mastodon"><img src="/img/mastodon_logo.svg" style="width:16px"></a>
+</li>
+{% endif %}
+
 {% if site.theme_data.wordpress %}
 <li>
 	<a href="https://{{ site.theme_data.wordpress }}.wordpress.com/" rel="me" title="{{ site.theme_data.str_follow_on }} WordPress">
