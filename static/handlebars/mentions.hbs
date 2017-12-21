@@ -2,7 +2,9 @@
 {{#each mentions}}
 	<div class="comment hentry" id="mention-{{ id }}">
 		<p><span class="entry-title">
+		  <i class="fa fa-fw {{getIcon activity.type}}" style="width: 16px"></i>
 		  <cite class="author vcard">
+			<img class="h-photo" src="{{ data.author.photo}}" width="16">
 			<a class="url fn" href="{{ data.author.url }}" rel="contact external" title="Link to {{ data.author.name}}">{{ data.author.name}}</a>
 		  </cite> commented on 
 		</span> 
@@ -10,7 +12,7 @@
 			<abbr class="updated" title="{{ data.published }}">{{ data.published }}<abbr>
 		</span></p>
 		<div class="entry-content">
-		  <q cite="http://notizblog.org">{{ data.content}}</q>
+		  <q cite="data.author.url">{{{ data.content }}}</q>
 	  </div>
 	  <p><a rel="bookmark" href="{{ data.url }}" title="Permalink to this comment">Permalink</a></p>
 	</div>

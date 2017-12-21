@@ -9,7 +9,13 @@ $(function(){
     templatePath: 'static/handlebars',
     templateExtension: 'hbs'
   });
-
+  $.handlebars.registerHelper('getIcon', function(type) {
+    if (type == "like") {
+		return "fa-thumbs-o-up";
+	} else {
+		return "fa-comment-o";
+	}
+  });
   console.log("trying to load webmentions");
   $.getJSON("https://webmention.io/api/mentions?jsonp=?", {
     //target: window.location.href
@@ -17,6 +23,7 @@ $(function(){
   }, function(data){
     console.log("got webmention data:");
     console.log(data);
+
     $('.comments').render('mentions', {
 		mentions: data.links
 	})
