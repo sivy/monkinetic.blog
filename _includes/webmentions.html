@@ -9,7 +9,7 @@ $(function(){
     templatePath: 'static/handlebars',
     templateExtension: 'hbs'
   });
-  $.handlebars.registerHelper('getIcon', function(type) {
+  Handlebars.registerHelper('getIcon', function(type) {
     if (type == "like") {
 		return "fa-thumbs-o-up";
 	} else {
