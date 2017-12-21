@@ -5,8 +5,8 @@
 <script type="text/javascript">
 $(function(){
   console.log("trying to load webmentions");
-  $.getJSON("https://webmention.io/api/count?jsonp=?", {
-    target: "https://www.monkinetic.blog/diso-after-10-years.html"
+  $.getJSON("https://webmention.io/api/mentions?jsonp=?", {
+    target: window.location
   }, function(data){
     console.log("got webmention data:")
     console.log(data);
