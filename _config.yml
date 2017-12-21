@@ -34,14 +34,11 @@ theme_data:
   footer_text: >
    <h3>Comment Policy</h3>
    <p>
-   I don't have comments enabled on this blog. I'd much rather you wrote your own blog post or
-   sent me an email instead - steveivy @ gmail.com. You can also hit me up on
-   Twitter <a href="https://twitter.com/steveivy">@steveivy</a>.
-   </p>
-   <p>
-   <a href="https://twitter.com/intent/tweet?screen_name=steveivy"
-      class="twitter-mention-button" data-text="Hey @steveivy " data-show-count="false">Tweet to @steveivy</a>
-   <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+   Webmentions and pingbacks are supported here, so share your thoughts on your blog 
+   and I'll probably get notified about it. You can also send me an email instead - 
+   steveivy @ gmail.com. Or hit me up on Twitter 
+   <a href="https://twitter.com/steveivy">@steveivy</a> or Mastodon 
+   <a href="https://toot.cafe/@sivy">@sivy@toot.cafe</a>.
    </p>
    <p>&copy; Copyright Steve Ivy, 1999-2016</p>
 
