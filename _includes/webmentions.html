@@ -2,14 +2,46 @@
   src="https://code.jquery.com/jquery-3.2.1.js"
   integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
   crossorigin="anonymous"></script>
-<script type="text/javascript">
+<script src="/static/js/jquery-handlebars-1.1.4.min.js"></script>
+<script type="text/javascript">\
+/*
+{
+  "links": [
+    {
+      "source": "http://tantek.com/2013/112/t2/milestone-show-indieweb-comments-h-entry-pingback",
+      "verified": true,
+      "verified_date": "2013-04-25T17:09:33-07:00",
+      "id": 900,
+      "data": {
+        "author": {
+          "name": "Tantek Çelik",
+          "url": "http://tantek.com/",
+          "photo": "http://tantek.com/logo.jpg"
+        },
+        "name": "Another milestone: @eschnou automatically shows #indieweb comments with h-entry sent via pingback http://eschnou.com/entry/testing-indieweb-federation-with-waterpigscouk-aaronpareckicom-and--62-24908.html",
+        "content": "Another milestone: <a class=\"auto-link h-x-username\" href=\"https:\/\/twitter.com\/eschnou\">@eschnou<\/a> automatically shows #indieweb comments with h-entry sent via pingback <a class=\"auto-link\" href=\"http:\/\/eschnou.com\/entry\/testing-indieweb-federation-with-waterpigscouk-aaronpareckicom-and--62-24908.html\">http:\/\/eschnou.com\/entry\/testing-indieweb-federation-with-waterpigscouk-aaronpareckicom-and--62-24908.html<\/a>",
+        "published": "2013-04-22T15:03:00-07:00",
+        "published_ts": 1366668180,
+        "url": "http://tantek.com/2013/112/t2/milestone-show-indieweb-comments-h-entry-pingback"
+      }
+    }
+  ]
+}
+*/
 $(function(){
+
+  $.handlebars({
+    templatePath: 'static/handlebars',
+    templateExtension: 'hbs'
+  });
+
   console.log("trying to load webmentions");
   $.getJSON("https://webmention.io/api/mentions?jsonp=?", {
     target: window.location.href
   }, function(data){
     console.log("got webmention data:")
     console.log(data);
+	$('.comments').render('mentions', {mentions: data.links})
   });
 });  
 </script>
