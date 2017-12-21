@@ -6,7 +6,7 @@
 $(function(){
   console.log("trying to load webmentions");
   $.getJSON("https://webmention.io/api/mentions?jsonp=?", {
-    target: window.location
+    target: window.location.href
   }, function(data){
     console.log("got webmention data:")
     console.log(data);
