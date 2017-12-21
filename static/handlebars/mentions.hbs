@@ -1,0 +1,18 @@
+ <div class="comments">
+ {{#each links}}
+	 <div class="comment hentry" id="mention-{{ id }}">
+		<p><span class="entry-title">
+		  <cite class="author vcard">
+			<a class="url fn" href="{{ data.author.url }}" rel="contact external" title="Link to {{ data.author.name}}">{{ data.author.name}}</a>
+		  </cite> mentioned this page on 
+		</span> 
+		<span class="comment-date"> 
+			<abbr class="updated" title="{{ data.published }}">{{ data.published }}<abbr>
+		</span></p>
+		<div class="entry-content">
+		  <q cite="http://notizblog.org">{{ data.content}}</q>
+	  </div>
+	  <p><a rel="bookmark" href="{{ data.url }}" title="Permalink to this comment">Permalink</a></p>
+	</div>
+{{/end}}
+</div>
