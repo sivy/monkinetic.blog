@@ -3,7 +3,7 @@
   integrity="sha256-DZAnKJ/6XZ9si04Hgrsxu/8s717jcIzLy3oi35EouyE="
   crossorigin="anonymous"></script>
 <script src="/static/js/jquery-handlebars-1.1.4.min.js"></script>
-<script type="text/javascript">\
+<script type="text/javascript">
 /*
 {
   "links": [
@@ -38,7 +38,7 @@ $(function(){
   $.getJSON("https://webmention.io/api/mentions?jsonp=?", {
     target: window.location.href
   }, function(data){
-    console.log("got webmention data:")
+    console.log("got webmention data:");
     console.log(data);
     $('.comments').render('mentions', {mentions: data.links})
   });
