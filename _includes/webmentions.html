@@ -16,6 +16,14 @@ $(function(){
 		return "fa-comment-o";
 	}
   });
+
+  Handlebars.registerHelper('getVerbPastTense', function(type) {
+    if (type == "like") {
+		return "liked this";
+	} else {
+		return "responded";
+	}
+  });
   console.log("trying to load webmentions");
   $.getJSON("https://webmention.io/api/mentions?jsonp=?", {
     //target: window.location.href

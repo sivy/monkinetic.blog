@@ -2,11 +2,11 @@
 {{#each mentions}}
 	<div class="comment hentry" id="mention-{{ id }}">
 		<p><span class="entry-title">
-		  <i class="fa fa-fw {{getIcon activity.type}}" style="width: 16px"></i>
+		  <i class="fa fa-fw {{ getIcon activity.type }}" style="width: 16px"></i>
 		  <cite class="author vcard">
-			<img class="h-photo" src="{{ data.author.photo}}" width="16">
+			<img class="h-photo" src="{{ data.author.photo}}" width="32" style="border-radius: 3px;">
 			<a class="url fn" href="{{ data.author.url }}" rel="contact external" title="Link to {{ data.author.name}}">{{ data.author.name}}</a>
-		  </cite> commented on 
+		  </cite> {{ getVerbPastTense activity.type }} on 
 		</span> 
 		<span class="comment-date"> 
 			<abbr class="updated" title="{{ data.published }}">{{ data.published }}<abbr>
