@@ -29,7 +29,6 @@
 }
 */
 $(function(){
-
   $.handlebars({
     templatePath: 'static/handlebars',
     templateExtension: 'hbs'
@@ -41,7 +40,7 @@ $(function(){
   }, function(data){
     console.log("got webmention data:")
     console.log(data);
-	$('.comments').render('mentions', {mentions: data.links})
+    $('.comments').render('mentions', {mentions: data.links})
   });
 });  
 </script>
