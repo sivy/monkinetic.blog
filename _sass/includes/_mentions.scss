@@ -15,10 +15,7 @@
 			width: 32px;
 		}
 	}
-	img.h-type {
-		float: left;
-		margin: 0 6px; /* lines up with 32px avatar */
-	}
+	
 	.entry-title {
 		font-size: 85%;
 		
@@ -30,6 +27,10 @@
 	}
 	
 	.entry-content {
+		.h-type {
+			float: left;
+			margin: 0 6px; /* lines up with 32px avatar */
+		}
 		q {
 			display: block;
 			margin-left: 32px;
