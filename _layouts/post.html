@@ -15,14 +15,6 @@ layout: default
 
   <section class="post-content">
     {{ content }}
-
-    <a href="https://twitter.com/share" class="twitter-share-button" data-via="steveivy" data-hashtags="monkinetic" data-dnt="true" data-show-count="true">Tweet</a>
-    <a href="https://twitter.com/intent/tweet?screen_name=steveivy" class="twitter-mention-button" data-hashtags="monkinetic" data-text="Re: {{ page.url | prepend: site.url }}" data-show-count="false">Reply/Comment</a>
-    <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-    {% if site.theme_data.gitlab_repo %}
-    <a target="_new" href="https://gitlab.com/{{ site.theme_data.gitlab_repo }}/edit/master/{{ page.path }}">Edit</a>
-    {% endif %}
   </section>
 
   <div style="text-align: center; margin: 2% auto; font-size:smaller">
@@ -34,12 +26,11 @@ layout: default
         <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
       {% endif %}
   </div>
-
+  
+  <!-- webmentions -->
+  <h3>Mentions and Pingbacks</h3>
+  <div class="mentions">
+	{% include webmentions.html %}
+  </div>
 </article>
 
-<!-- Disqus -->
-{% if site.theme_data.disqus_shortname %}
-<div class="comments">
-  {% include disqus.html %}
-</div>
-{% endif %}

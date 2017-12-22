@@ -1,0 +1,44 @@
+.mentions {
+	a {
+		font-weight: normal;
+	}
+	abbr {
+		text-decoration: none;
+	}
+	.vcard {
+		margin-left: .5em;
+		font-size: 85%; 
+	
+		.h-photo {
+			float: left;
+			border-radius: 3px;
+			width: 32px;
+		}
+	}
+	
+	.entry-title {
+		font-size: 85%;
+		
+		.permalink {
+			font-weight: normal;
+			font-size: 85%;
+			margin-left: 1em;
+		}
+	}
+	
+	.entry-content {
+		.h-type {
+			float: left;
+			margin: 0 6px; /* lines up with 32px avatar */
+		}
+		q {
+			display: block;
+			margin-left: 32px;
+			padding-left: .5em;
+			&:before, &q:after {
+				content: "";
+			}
+		}
+	}
+	
+}

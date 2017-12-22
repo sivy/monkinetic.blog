@@ -1,0 +1,43 @@
+<script src="/static/js/jquery-3.2.1.min.js"></script>
+<script src="/static/js/jquery-handlebars-1.1.4.min.js"></script>
+<script src="/static/js/moment.min.js"></script>
+<script type="text/javascript">
+$(function(){
+  $.handlebars({
+    templatePath: 'static/handlebars',
+    templateExtension: 'hbs'
+  });
+  Handlebars.registerHelper('getIcon', function(type) {
+    if (type == "like") {
+		return "fa-thumbs-o-up";
+	} else {
+		return "fa-comment-o";
+	}
+  });
+
+  Handlebars.registerHelper('getVerbPastTense', function(type) {
+    if (type == "like") {
+		return "liked this";
+	} else {
+		return "responded";
+	}
+  });
+  
+  Handlebars.registerHelper('dateFmt', function(date, fmt) {
+    return moment(date).format(fmt);
+  });
+  
+  console.log("trying to load webmentions");
+  $.getJSON("https://webmention.io/api/mentions?jsonp=?", {
+    target: window.location.href
+	// target: "https://www.monkinetic.blog/diso-after-10-years.html"
+  }, function(data){
+    console.log("got webmention data:");
+    console.log(data);
+
+    $('.mentions').render('mentions', {
+		mentions: data.links
+	})
+  });
+});  
+</script>

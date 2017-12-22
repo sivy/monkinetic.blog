@@ -22,11 +22,6 @@ title: "Este DeStirr: Signal Log"
       <div class="post-content">
         {% include post_content.html %}
       </div>
-      <div>
-        <a href="https://twitter.com/share" class="twitter-share-button" data-via="estedestirr" data-hashtags="tweetfleet" data-dnt="true" data-show-count="true">Share</a>
-        <a href="https://twitter.com/intent/tweet?screen_name=estedestirr" class="twitter-mention-button" data-hashtags="tweetfleet" data-text="{{ post.url | prepend: site.url }}" data-show-count="false">Reply/Comment</a>
-        <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-      </div>
       {% else %}
       <div class="excerpt">
         <p>{{ post.excerpt | remove: '<p>' | remove: '</p>' }}</p>
