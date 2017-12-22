@@ -1,11 +1,12 @@
 <div class="mentions">
-{{#each mentions}}
+{{if mentions}}
+	{{#each mentions}}
 	<div class="comment hentry" id="mention-{{ id }}">
 		<p><span class="entry-title">
 		  <cite class="author vcard">
-		    {{data.author.photo}}
+		    {{#if data.author.photo}}
 			<img class="h-photo" src="{{ data.author.photo}}" width="32">
-			{{/data.author.photo}}
+			{{/if}}
 			<a class="url fn" href="{{ data.author.url }}" rel="contact external" title="Link to {{ data.author.name}}">{{ data.author.name}}</a>
 		  </cite> {{ getVerbPastTense activity.type }} on 
 		</span> 
@@ -20,8 +21,8 @@
 	  </div>
 	  <p></p>
 	</div>
-{{/each}}
-{{^mentions}}
+	{{/each}}
+{{^}}
     <em>No mentions of this post that we know about</em>
-{{/mentions}}
+{{/if}}
 </div>
