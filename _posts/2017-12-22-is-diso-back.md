@@ -1,6 +1,6 @@
 ---
 type: post
-published: false
+published: true
 title: Is DiSo Back?
 ---
 Kevin Marks asks "[is DiSo back?](http://known.kevinmarks.com/2017/diso-is-back-im-wearing-my-social-graph-foo-camp)" I hadn't thought about it, but...
