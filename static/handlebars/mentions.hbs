@@ -2,19 +2,23 @@
 {{#each mentions}}
 	<div class="comment hentry" id="mention-{{ id }}">
 		<p><span class="entry-title">
-		  <i class="fa fa-fw {{ getIcon activity.type }}" style="width: 16px"></i>
 		  <cite class="author vcard">
-			<img class="h-photo" src="{{ data.author.photo}}" width="32" style="border-radius: 3px;">
+		    {{data.author.photo}}
+			<img class="h-photo" src="{{ data.author.photo}}" width="32">
+			{{/data.author.photo}}
 			<a class="url fn" href="{{ data.author.url }}" rel="contact external" title="Link to {{ data.author.name}}">{{ data.author.name}}</a>
 		  </cite> {{ getVerbPastTense activity.type }} on 
 		</span> 
 		<span class="comment-date"> 
-			<abbr class="updated" title="{{ data.published }}">{{ dateFmt data.published "MMM Do, YYYY" }}<abbr>
-		</span></p>
+			<abbr class="updated" title="{{ data.published }}">{{ dateFmt data.published "MMM Do, YYYY" }}</abbr>
+		</span>
+		<a class="permalink" rel="bookmark" href="{{ data.url }}" title="Permalink to this comment">Permalink</a>
+		</p>
 		<div class="entry-content">
-		  <div cite="{{ data.author.name }}">{{{ data.content }}}</div>
+		  <i class="h-type fa fa-fw {{ getIcon activity.type }}"></i>
+		  <q cite="{{ data.author.name }}">{{{ data.content }}}</q>
 	  </div>
-	  <p><a rel="bookmark" href="{{ data.url }}" title="Permalink to this comment">Permalink</a></p>
+	  <p></p>
 	</div>
 {{/each}}
 {{^mentions}}
