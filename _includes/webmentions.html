@@ -23,9 +23,8 @@ $(function(){
 	}
   });
   
-  Handlebars.registerHelper('dateFmt', function(date) {
-    d = Date.parse(date);
-	
+  Handlebars.registerHelper('dateFmt', function(date, fmt) {
+    moment(date).format(fmt);
   });
   
   console.log("trying to load webmentions");
