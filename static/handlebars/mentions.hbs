@@ -9,7 +9,7 @@
 		  </cite> {{ getVerbPastTense activity.type }} on 
 		</span> 
 		<span class="comment-date"> 
-			<abbr class="updated" title="{{ data.published }}">{{ data.published }}<abbr>
+			<abbr class="updated" title="{{ data.published }}">{{ dateFmt data.published "MMM Do, YYYY" }}<abbr>
 		</span></p>
 		<div class="entry-content">
 		  <div cite="{{ data.author.name }}">{{{ data.content }}}</div>
