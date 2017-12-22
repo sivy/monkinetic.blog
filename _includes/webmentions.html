@@ -29,8 +29,8 @@ $(function(){
   
   console.log("trying to load webmentions");
   $.getJSON("https://webmention.io/api/mentions?jsonp=?", {
-    //target: window.location.href
-	target: "https://www.monkinetic.blog/diso-after-10-years.html"
+    target: window.location.href
+	// target: "https://www.monkinetic.blog/diso-after-10-years.html"
   }, function(data){
     console.log("got webmention data:");
     console.log(data);
