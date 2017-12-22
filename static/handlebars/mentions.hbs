@@ -8,11 +8,12 @@
 			{{/if}}
 			<a class="url fn" href="{{ data.author.url }}" rel="contact external" title="Link to {{ data.author.name}}">{{ data.author.name}}</a>
 		  </cite> {{ getVerbPastTense activity.type }} on 
-		</span> 
-		<span class="comment-date"> 
+		  <span class="comment-date"> 
 			<abbr class="updated" title="{{ data.published }}">{{ dateFmt data.published "MMM Do, YYYY" }}</abbr>
-		</span>
-		<a class="permalink" rel="bookmark" href="{{ data.url }}" title="Permalink to this comment">Permalink</a>
+		  </span>
+		  <a class="permalink" rel="bookmark" href="{{ data.url }}" title="Permalink to this comment">Permalink</a>
+		</span> 
+		
 		</p>
 		<div class="entry-content">
 		  <i class="h-type fa fa-fw {{ getIcon activity.type }}"></i>
