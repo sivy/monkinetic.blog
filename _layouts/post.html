@@ -26,11 +26,11 @@ layout: default
         <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
       {% endif %}
   </div>
-
+  
+  <!-- webmentions -->
+  <h3>Mentions and Pingbacks</h3>
+  <div class="mentions">
+	{% include webmentions.html %}
+  </div>
 </article>
 
-<!-- webmentions -->
-<h3>Mentions and Pingbacks</h3>
-<div class="comments">
-	{% include webmentions.html %}
-</div>

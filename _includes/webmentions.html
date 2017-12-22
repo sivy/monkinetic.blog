@@ -35,7 +35,7 @@ $(function(){
     console.log("got webmention data:");
     console.log(data);
 
-    $('.comments').render('mentions', {
+    $('.mentions').render('mentions', {
 		mentions: data.links
 	})
   });
