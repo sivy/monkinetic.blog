@@ -1,6 +1,5 @@
 <div class="mentions">
-{{if mentions}}
-	{{#each mentions}}
+{{#each mentions}}
 	<div class="comment hentry" id="mention-{{ id }}">
 		<p><span class="entry-title">
 		  <cite class="author vcard">
@@ -21,8 +20,7 @@
 	  </div>
 	  <p></p>
 	</div>
-	{{/each}}
-{{^}}
+{{else}}
     <em>No mentions of this post that we know about</em>
-{{/if}}
+{{/each}}
 </div>
