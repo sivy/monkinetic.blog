@@ -1,6 +1,6 @@
 ---
 type: post
-published: false
+published: true
 title: And Now for Something Completely Different
 ---
 (With apologies to [Monty Python](https://en.wikipedia.org/wiki/And_Now_For_Something_Completely_Different))
