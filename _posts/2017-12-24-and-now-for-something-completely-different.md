@@ -10,3 +10,10 @@ After a couple of weeks of renewed tech posting, I've been doing holiday stuff f
 ![steve_vince_shelf (2).jpg]({{site.baseurl}}/images/steve_vince_shelf (2).jpg)
 
 My 14yo and I positioning a rough-hewn beam which will be a shelf in my new office.
+
+![photo_2017-12-24_18-19-57.jpg]({{site.baseurl}}/images/photo_2017-12-24_18-19-57.jpg)
+
+And the final touches:
+
+![all my nerd toys]({{site.baseurl}}/images/photo_2017-12-24_18-20-05.jpg)
+
