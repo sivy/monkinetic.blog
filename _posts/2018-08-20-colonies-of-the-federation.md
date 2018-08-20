@@ -10,13 +10,17 @@ Layout: default
 
 Back in Dec 2017 I wrote a post called [The Revolution Will Be Federated](https://www.monkinetic.blog/the-revolution-will-be-federated.html), painting a metaphor of the major social media sites as *Distopian Underground Communities* -- Silos -- with the haves and have-nots struggling for attention and peace.
 
+> The Below is rife with roving gangs of trolls, descending from the Midlevels where they live in relative comfort, to harass and abuse the citizens struggling to make ends meet on the scraps of attention and spaces left to them by the Haves and those in The Above. The trolls have little to fear from The Below, save the reminder that they too are Below others. And perhaps it is *that thought* that drives them to stand on walkways and corners, hurling insults and petty self-justifications at the passing residents.
+
 In contrast, on the surface are the federated Colonies; refugees from the Silos who have formed loosely connected communities, with activity and trade flowing freely between them.
+
+> Each colony is self-sufficient, with resources for every inhabitant, and attention to spare. Some are small - just a few tens or hundreds of inhabitants. Others are massive, home to hundreds of thousands of residents. Here the domed and towered structures bask in the light, with a vitality and energy long since lost in the Silo.
 
 ## Progress
 
-Over the last 8 months the network of federated sites -- built on the [ActivityPub](https://activitypub.rocks/) protocol -- has grown. There are over 1500 instances (servers) running Twitter-like communities on the popular [Mastodon](https://joinmastodon.org) platform.
+Over the last 8 months the network of federated sites -- built on the [ActivityPub](https://activitypub.rocks/) protocol -- has grown. There are over 4000 instances (servers) running Twitter-like communities on the popular [Mastodon](https://joinmastodon.org) platform.
 
-![Domed colonies]({{site.baseurl}}/images/ken-fairclough-ken-fairclough-microtech-lookfeel-concept-01-add-lighting-crop.jpg)
+![Image of domed structures on a ]({{site.baseurl}}/images/ken-fairclough-ken-fairclough-microtech-lookfeel-concept-01-add-lighting-crop.jpg)
 
 These are connected to servers running a variety of other platforms, all connected by ActivityPub:
 
