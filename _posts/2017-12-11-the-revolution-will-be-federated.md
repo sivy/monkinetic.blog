@@ -50,3 +50,4 @@ But maybe some at every level of the Silo will find themselves looking for somet
 
 - *Tunnel image by [Ishutani](http://ishutani.deviantart.com/art/Tunnel-365977590)*
 - *Colony image by [Ken Fairclough](http://kenfairclough.blogspot.com/)*
+- *The Silo concept was partially inspired by Hugh Howey's book WOOL*
