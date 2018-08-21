@@ -35,6 +35,6 @@ While Mastodon has had the most recent success, each of these platforms serves d
 
 In Phoenix a user will post to their blog on [Plume](https://github.com/Plume-org/Plume), and their followers on Mastodon share praise and boosts that flow right back to the post's commments.
 
-A [Pixelfed](https://pixelfed.social/) user in Baltimore will upload their coffee poems every morning as sepia-toned photographs, using Morii; later they'll watch as the humorous captions are shared from Hubzilla site to Hubzilla site.
+A [Pixelfed](https://pixelfed.social/) user in Baltimore will upload their coffee poems every morning as sepia-toned photographs, using [Morii](https://mastodon.technology/@morii); later they'll watch as the humorous captions are shared from Hubzilla site to Hubzilla site.
 
 A small production company in Los Angeles, frustrated by monetization policies on Youtube, moves their content to [Peertube](https://github.com/Chocobozzz/PeerTube#--peertube), where they are followed by fans on Mastodon, Pleroma, and other platforms.
