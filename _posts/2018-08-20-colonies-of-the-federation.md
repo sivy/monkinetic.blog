@@ -8,7 +8,7 @@ Layout: default
 
 ## Silos and Colonies
 
-Back in Dec 2017 I wrote a post called [The Revolution Will Be Federated](https://www.monkinetic.blog/the-revolution-will-be-federated.html), painting a metaphor of the major social media sites as *Distopian Underground Communities* -- Silos -- with the haves and have-nots struggling for attention and peace.
+Back in Dec 2017 I wrote a post called [The Revolution Will Be Federated](https://www.monkinetic.blog/the-revolution-will-be-federated.html), painting a metaphor of the major social media sites as *Distopian Underground Communities* -- the Silos -- with the haves and have-nots struggling for attention and peace.
 
 > The Below is rife with roving gangs of trolls, descending from the Midlevels where they live in relative comfort, to harass and abuse the citizens struggling to make ends meet on the scraps of attention and spaces left to them by the Haves and those in The Above. The trolls have little to fear from The Below, save the reminder that they too are Below others. And perhaps it is *that thought* that drives them to stand on walkways and corners, hurling insults and petty self-justifications at the passing residents.
 
@@ -18,7 +18,7 @@ In contrast, on the surface are the federated Colonies; refugees from the Silos 
 
 ## Progress
 
-Over the last 8 months the number of colonies -- the network of federated platforms built on the [ActivityPub](https://activitypub.rocks/) protocol -- has grown. There are now over 4000 instances (servers) running Twitter-like communities on the popular [Mastodon](https://joinmastodon.org) platform.
+Over the last 8 months the number of colonies -- the network of federated platforms built on the [ActivityPub](https://activitypub.rocks/) protocol -- has grown at a quick pace. There are now over 4000 instances (servers) running Twitter-like communities on the popular [Mastodon](https://joinmastodon.org) platform.
 
 ![Image of domed structures on a icy planet]({{site.baseurl}}/images/ken-fairclough-ken-fairclough-microtech-lookfeel-concept-01-add-lighting-crop.jpg)
 
@@ -33,8 +33,10 @@ There are also communities running a variety of other federated platforms, all c
 
 While Mastodon has had the most recent success, each of these platforms serves different communities with different needs, and fill different media and sharing niches. But they are united in building on a model of interoperability over open and standard protocols, and a culture of openness, care, and consideration.
 
-In Phoenix a user will post to their blog on [Plume](https://github.com/Plume-org/Plume), and their followers on Mastodon share praise and boosts that flow right back to the post's commments.
+In Phoenix a user will post to their blog on [Plume](https://github.com/Plume-org/Plume), their followers on Mastodon share their thoughts and boosts that flow right back to the post's commments.
 
 A [Pixelfed](https://pixelfed.social/) user in Baltimore will upload their coffee poems every morning as sepia-toned photographs, using [Morii](https://mastodon.technology/@morii); later they'll watch as the humorous captions are shared from Hubzilla site to Hubzilla site.
 
-A small production company in Los Angeles, frustrated by monetization policies on Youtube, moves their content to [Peertube](https://github.com/Chocobozzz/PeerTube#--peertube), where they are followed by fans on Mastodon, Pleroma, and other platforms.
+A small production company in Los Angeles, frustrated by monetization policies on Youtube, will move their content to [Peertube](https://github.com/Chocobozzz/PeerTube#--peertube), where they are followed by fans on Mastodon, [Pleroma](https://blog.soykaf.com/post/what-is-pleroma/), and other platforms.
+
+These aren't just fantastic visions, these are going to be possible - and happening - now.
