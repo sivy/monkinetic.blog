@@ -34,10 +34,10 @@ theme_data:
   footer_text: >
    <h3>Comment Policy</h3>
    <p>
-   Webmentions and pingbacks are supported here, so share your thoughts on your blog 
-   and I'll probably get notified about it. You can also send me an email instead - 
-   steveivy @ gmail.com. Or hit me up on Twitter: 
-   <a href="https://twitter.com/steveivy">@steveivy</a> or Mastodon: 
+   Webmentions and pingbacks are supported here, so share your thoughts on your blog
+   and I'll probably get notified about it. You can also send me an email instead -
+   steveivy @ gmail.com. Or hit me up on Twitter:
+   <a href="https://twitter.com/steveivy">@steveivy</a> or Mastodon:
    <a href="https://toot.cafe/@sivy">@sivy@toot.cafe</a>.
    </p>
    <p>&copy; Copyright Steve Ivy, 1999-2017</p>
@@ -65,6 +65,27 @@ theme_data:
   twitter: "steveivy"
   wordpress:
   youtube:
+
+  service_icons:
+    -
+      name: github
+      link: "https://github.com/sivy/"
+      icon: fa-github
+
+    -
+      name: toot.cafe
+      link: "https://toot.cafe/@sivy"
+      icon: "/img/mastodon.png"
+
+    -
+      name: mastodon.social
+      link: "https://mastodon.social/@sivy"
+      icon: "/img/mastodon.png"
+
+    -
+      name: twitter
+      link: "https://twitter.com/steveivy"
+      icon: fa-twitter
 
   # Scripts
   # google_analytics: # Tracking ID, e.g. "UA-000000-01"
