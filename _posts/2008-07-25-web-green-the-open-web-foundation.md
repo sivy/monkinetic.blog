@@ -3,7 +3,7 @@ Date: 2008-07-25
 Title: "Web Green: The Open Web Foundation"
 layout: post
 
-<a href="http://openwebfoundation.org/" style="display:block; text-align:center"><img  alt="Open Web Foundation" class="size-full wp-image-2735 at-xid-6a010534988cd3970b0120a5b36a12970c " height="132" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36a12970c-pi" title="Open Web Foundation" width="401" /></a>
+<a href="http://openwebfoundation.org/" style="display:block; text-align:center"><img  alt="Open Web Foundation" class="size-full wp-image-2735 at-xid-6a010534988cd3970b0120a5b36a12970c " height="132" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36a12970c-pi" title="Open Web Foundation" width="401" /></a>
 
 Today at O'Reilly's [OSCON](http://en.oreilly.com/oscon2008/public/content/home), David Recordon announced the formation of a new foundation, the Open Web Foundation, with the goal of fostering development of open standards and providing an incubator for working out <abbr title="Intellectual Property Rights">IPR</abbr> and patent issues before standards are too widely deployed.
 
@@ -20,6 +20,6 @@ I'm really excited to see the OWF come together - the environment in which web t
 So here's to the OWF: May the foundations of the next web be as open and implementable as the foundations of the first web were, and more.
 
 <p style="padding:1px; margin: 8px auto; width:161px; color: #666;">
-<a href="http://redmonk.net/archives/2008/06/26/web-green-cultivating-the-open-web/"><img  alt="" class="size-medium wp-image-2729 at-xid-6a010534988cd3970b0120a5b36a31970c " height="223" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36a31970c-pi" title="Web Green: Cultivating The Open Web" width="159" /></a>
+<a href="http://redmonk.net/archives/2008/06/26/web-green-cultivating-the-open-web/"><img  alt="" class="size-medium wp-image-2729 at-xid-6a010534988cd3970b0120a5b36a31970c " height="223" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36a31970c-pi" title="Web Green: Cultivating The Open Web" width="159" /></a>
 <span style="font-size: 70%; font-family: Verdana, Arial, sans-serif"><a href="http://www.pygment.com/blog/2006/06/06/grass-sky/">grass image from pygment.com</a> for whose proprietor I cannot find contact information.</span>
 </p>

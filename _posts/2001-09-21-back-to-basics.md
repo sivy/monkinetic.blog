@@ -5,4 +5,4 @@ layout: post
 
 playlist for today: misc R.E.M. favs<p>
 
-<img border="0" src="http://media.redmonk.net/images/remList.jpg" /></p>
+<img border="0" src="https://media.redmonk.net/images/remList.jpg" /></p>

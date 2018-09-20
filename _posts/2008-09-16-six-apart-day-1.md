@@ -3,7 +3,7 @@ Date: 2008-09-16
 Title: Six Apart, Day 1
 layout: post
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img  alt="New Office Closeup" class="mt-image-center at-xid-6a010534988cd3970b0120a5b3675b970c " height="200" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b3675b970c-pi" style="text-align: center; display: block; margin: 0 auto 20px;" width="500" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img  alt="New Office Closeup" class="mt-image-center at-xid-6a010534988cd3970b0120a5b3675b970c " height="200" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b3675b970c-pi" style="text-align: center; display: block; margin: 0 auto 20px;" width="500" /></span>
 
 I woke this morning with [no commute ahead of me](http://redmonk.net/archives/2008/09/05/a-move-apart). What was this? Time to think?
 

@@ -4,7 +4,7 @@ Title: "Memorial Day 2004, San Deigo: Day 1 &  La Jolla"
 layout: post
 
 <blockquote class="callout">
-<a href="http://rm.bookdev.com/mt/mt-static/uploads/64.jpg" title="Manchester Grand Hyatt"><img alt="Manchester Grand Hyatt" height="90" src="http://rm.bookdev.com/mt/mt-static/uploads/thumb-64.jpg" width="120" /></a><br /><br />
+<a href="http://rm.bookdev.com/mt/mt-static/uploads/64.jpg" title="Manchester Grand Hyatt"><img alt="Manchester Grand Hyatt" height="90" src="https://rm.bookdev.com/mt/mt-static/uploads/thumb-64.jpg" width="120" /></a><br /><br />
 
 The twin-towered Manchester Grand Hyatt. Jodi&#39;s company <a href="http://isecinc.com">ISEC</a> did the finishes in the lobby and  in many other parts of the hotel. Very posh!
 </blockquote>
@@ -16,7 +16,7 @@ We got to the hotel and got checked in - the Manchester Grand Hyatt is quite imp
 We mostly crashed Friday night, after a brief &quot;thing&quot; with the front desk as we tried to get a non-smoking room (drawbacks of late check-in). The rooms were pretty nice, though not *that* much better than your standard &quot;fairly nice&quot; hotel.
 
 <blockquote class="callout">
-<a href="http://rm.bookdev.com/mt/mt-static/uploads/6.jpg" title="Seals at La Jolla"><img alt="Seals at La Jolla" height="90" src="http://rm.bookdev.com/mt/mt-static/uploads/thumb-6.jpg" width="120" /></a><br /><br />
+<a href="http://rm.bookdev.com/mt/mt-static/uploads/6.jpg" title="Seals at La Jolla"><img alt="Seals at La Jolla" height="90" src="https://rm.bookdev.com/mt/mt-static/uploads/thumb-6.jpg" width="120" /></a><br /><br />
 Seals and beach at La Jolla!
 <ul>
 <li><a href="http://rm.bookdev.com/mt/mt-static/uploads/8.jpg" title="fun in the sun">More seals</a></li>

@@ -5,7 +5,7 @@ layout: post
 
 &gt;In music notation, the coda symbol is used as a navigation marker ... and is used where the exit from a repeated section is within that section rather than at the end. [Wikipedia - Coda (Music)](http://en.wikipedia.org/wiki/Coda_(music))
 
-<a href="http://panic.com/coda"><img alt="coda" class="at-xid-6a010534988cd3970b0120a5b363fd970c" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b363fd970c-pi" style="float: right; margin: 0 0 8px 8px; border: 1px solid #666; " /></a>
+<a href="http://panic.com/coda"><img alt="coda" class="at-xid-6a010534988cd3970b0120a5b363fd970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b363fd970c-pi" style="float: right; margin: 0 0 8px 8px; border: 1px solid #666; " /></a>
 
 Today [Panic](http://panic.com) released their new web development environment, [Coda](http://panic.com/coda). Starting with [Steven Frank&#39;s 10th anniversary post](http://stevenf.com/2007/04/ten_years_and_counting.php) a few days ago, which hinted at a large announcement coming, the blogiverse has been [all](http://twitter.com/factoryjoe/statuses/37232532) [a](http://www.43folders.com/2007/04/23/panic-coda/) [Twitter](http://twitter.com/factoryjoe/statuses/37276342) [about it](http://technorati.com/search/panic.com%2Fcoda) (*groan*).
 
@@ -17,6 +17,6 @@ Ouch. All my [BBEdit](http://barebones.com/products/bbedit/index.shtml)/[TextMat
 
 So to stretch the musical metaphor past breaking: while Panic is playing a great, tight tune here - hitting their most popular riffs, I must exit gracefully from this refrain and move on.
 
-<img alt="coda_symbol" class="at-xid-6a010534988cd3970b0120a5b36415970c" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36415970c-pi" />
+<img alt="coda_symbol" class="at-xid-6a010534988cd3970b0120a5b36415970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36415970c-pi" />
 
 PS. I must give Panic props for an amazingly beautiful site for Coda (although they managed to, in their AJAXy goodness, break the web - I can&#39;t figure out how to link directly to the &quot;Files&quot; section of the site).

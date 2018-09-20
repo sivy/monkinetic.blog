@@ -5,7 +5,7 @@ layout: post
 
 Newly launched: [Ivy Architectural Innovations](http://ivyarchpc.com/), a website for a small but creative architectural firm (suspiciously run by some guy also with the last name of Ivy) in Virginia Beach, VA.
 
-<a href="http://ivyarchpc.com/"><img class="at-xid-6a010534988cd3970b0120a5b36b36970c" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36b36970c-pi" style="border-width:1px;" /></a>
+<a href="http://ivyarchpc.com/"><img class="at-xid-6a010534988cd3970b0120a5b36b36970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36b36970c-pi" style="border-width:1px;" /></a>
 
 &gt;Working closely with our clients and their staffs in a two or three day design charrette creates excitement and shortens the length of the schematic design phase. But the greatest benefit is the building of a cohesive, solid goal espoused by all.
 

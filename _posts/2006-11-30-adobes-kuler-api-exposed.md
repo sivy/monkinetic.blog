@@ -15,4 +15,4 @@ Sure enough, kuler uses a [REST](http://en.wikipedia.org/wiki/Representational_S
 
 My goal in this project is not to &quot;hack&#39; Adobe&#39;s cool new app, but to show how the API model they use is actually a great foundation for a social app. Hopefully they will publicize and document the API in the near future and this experiment will be obsolete.
 
-<p style="text-align: center"><img alt="kuler_labs_logos.png" class="at-xid-6a010534988cd3970b0120a5b367b6970c" id="image2420" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b367b6970c-pi" /></p>
+<p style="text-align: center"><img alt="kuler_labs_logos.png" class="at-xid-6a010534988cd3970b0120a5b367b6970c" id="image2420" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b367b6970c-pi" /></p>

@@ -39,7 +39,7 @@ Again, with the exception of the defunct mod_ruby, the way to put Ruby on the we
 
 While perfectly acceptable for applications with no user extensibility (BaseCamp, HighRise, Twitter, etc.), apps like WordPress are expected to be modified by non-highly-technical users via templates, plugins, etc. and they're not all going to have shell access or the knowledge of the command-line necessary to keep a persistent app running, or reload it when needed.
 
-<a href="http://www.youtube.com/watch?v=-3ODe9mqoDE"><img  alt="tron_bot" class="at-xid-6a010534988cd3970b0120a5b36783970c " src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36783970c-pi" style="float:right; margin: 0 0 8px 8px; padding: 1px; border: 1px solid #ccc;" /></a>
+<a href="http://www.youtube.com/watch?v=-3ODe9mqoDE"><img  alt="tron_bot" class="at-xid-6a010534988cd3970b0120a5b36783970c " src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36783970c-pi" style="float:right; margin: 0 0 8px 8px; padding: 1px; border: 1px solid #ccc;" /></a>
 3) Persistent apps are unloved by shared hosting providers: [Dreamhost](http://dreamhost.com), my hosting provider, is an awesome host. They even provide Ruby and Rails pre-installed on their servers. But getting a persistent app up and running while avoiding the memory-and-process hunter killer bots is really frustrating.
 
 ##Outro

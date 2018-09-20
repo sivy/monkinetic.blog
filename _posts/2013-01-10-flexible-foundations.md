@@ -3,7 +3,7 @@ Title: "Flexible Foundations"
 layout: post
 ---
 
-<img src="http://static.monkinetic.com/files//ff-20130110-065206.png" style="float:right; margin: 0 0 5px 10px; border: none" />
+<img src="https://static.monkinetic.com/files//ff-20130110-065206.png" style="float:right; margin: 0 0 5px 10px; border: none" />
 
 [Trent Walton](http://trentwalton.com/) writes about responsive web design in [Flexible Foundations](http://trentwalton.com/2013/01/07/flexible-foundations/):
 

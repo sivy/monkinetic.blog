@@ -13,7 +13,7 @@ layout: post
 
 I bought [R.E.M.'s new album](http://www.remaccelerate.com/) last week, and I've been listening to it on and off since then, and I'm starting to develop some thoughts. For better or for worse, I tend to examine each new R.E.M. album in the light of how does this album build on / relate to what has gone before, and how does it explore new territory? I'm happy to say that for me, [Accelerate](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=276468200&s=143441) does both with vigor.
 
-<a href="http://remaccelerate.com/" style="display: block; text-align:center;"><img  alt="" class="aligncenter size-full wp-image-2708 at-xid-6a010534988cd3970b0120a55ce9ac970b " height="177" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a55ce9ac970b-pi" title="R.E.M. - ACCELERATE" width="339" /></a>
+<a href="http://remaccelerate.com/" style="display: block; text-align:center;"><img  alt="" class="aligncenter size-full wp-image-2708 at-xid-6a010534988cd3970b0120a55ce9ac970b " height="177" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a55ce9ac970b-pi" title="R.E.M. - ACCELERATE" width="339" /></a>
 
 ###Living Well Is the Best Revenge (3:12)
 Out of the door loud, fast. Sets the tone for the album. Companion tune to *New Test Leper* from <span class="published-work">New Adventures In HiFi</span>, barking back at a media that, in the end, doesn't really matter. Bonus points for the return of Mike Mills to background vocals (or at elast to appropriate volumes), and for Mike and Peter for a return to [Document](http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?id=548647&s=143441)-quality rock-n-roll. R.E.M. is sounding like a band again, instead of Whiny Michael and the Stipes. - 4 Stars

@@ -11,7 +11,7 @@ I tried checking the initial bulb in each strand (typically with a white socket)
 
 I stopped by Ace this afternoon and the first person I talked to (helpful employees!) showed me to the bulbs I needed. Head home, and they're not doing the trick. Head back to Ace and tell them I'm trying to fix broken strands on a pre-lit tree. The girl I talked to took me right over and handed me [this](http://lightkeeperpro.com/default.asp).
 
-<a href="http://lightkeeperpro.com/default.asp "><img  alt="lightkeeper_pro" class="at-xid-6a010534988cd3970b0120a55ce954970b " src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a55ce954970b-pi" style="float:right; padding:1px; border: 1px solid #ccc; margin: 0 0 8px 8px;" /></a>
+<a href="http://lightkeeperpro.com/default.asp "><img  alt="lightkeeper_pro" class="at-xid-6a010534988cd3970b0120a55ce954970b " src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a55ce954970b-pi" style="float:right; padding:1px; border: 1px solid #ccc; margin: 0 0 8px 8px;" /></a>
 
 The "Lightkeeper Pro"? I was skeptical, but it was on sale and after being assured that I could bring it back if it did not work, I grabbed it and some fuses and headed back home once again.
 

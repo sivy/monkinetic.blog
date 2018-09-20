@@ -9,6 +9,6 @@ I'm currently beta-testing two new Mac apps that I *love* and at least one is ap
 
 The other is [Plasq's Skitch](http://plasq.com/skitch), which I was turned onto after Merlin Mann [mentioned it on Macbreak Weekly](http://www.twit.tv/node/4917).
 
-<a href="http://redmonk.net/files/skitch/plasq_skitch-20070621-092743.png"><img  alt="plasq_skitch_crop" class="at-xid-6a010534988cd3970b0120a5b36547970c " src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36547970c-pi" /></a>
+<a href="http://redmonk.net/files/skitch/plasq_skitch-20070621-092743.png"><img  alt="plasq_skitch_crop" class="at-xid-6a010534988cd3970b0120a5b36547970c " src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36547970c-pi" /></a>
 
 I've been using Skitch for all my screenshots on this site for a few months now, I've used it at work for processing screengrabs for our applications, and it's a huge timesaver. While Plasq provides a "MySkitch" web service to host your screenshots, I setup SFTP so uploading an image is as easy as clicking "upload", then "copy" and pasting the html into a blog post.

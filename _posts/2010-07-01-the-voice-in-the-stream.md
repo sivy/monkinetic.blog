@@ -10,11 +10,11 @@ Even though I'm a firm believer in the (distributed) [social web](http://diso-pr
 
 Streams speak to us in the third person. "Your friend posted this, your friend liked that, your friend won this...". It's a fairly objective[1] reportage of events, delivered in the cool tone of a mellow NPR reporter. The stream washes over us, with some number (smaller or larger depending on your generation) being interesting enough to inspire us to further action.
 
-<a href="http://steveivy.typepad.com/.a/6a010534988cd3970b0133f1fde702970b-pi"><img class="asset  asset-image at-xid-6a010534988cd3970b0133f1fde702970b" alt="Voices-facebook" title="Voices-facebook" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0133f1fde702970b-800wi" border="0" style="margin: 0px 0px 5px 5px;" /></a>
+<a href="http://steveivy.typepad.com/.a/6a010534988cd3970b0133f1fde702970b-pi"><img class="asset  asset-image at-xid-6a010534988cd3970b0133f1fde702970b" alt="Voices-facebook" title="Voices-facebook" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0133f1fde702970b-800wi" border="0" style="margin: 0px 0px 5px 5px;" /></a>
 
 Blogs - with exceptions - speak to us in the first person: "This just happened and I have to tell you about it", "I've been thinking about this for a while, and you should know that...":
 
-<a href="http://steveivy.typepad.com/.a/6a010534988cd3970b0133f1fde7f3970b-pi"><img class="asset  asset-image at-xid-6a010534988cd3970b0133f1fde7f3970b" alt="Voices-scriptingnews-1" title="Voices-scriptingnews-1" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0133f1fde7f3970b-800wi" border="0"  /></a> <br />
+<a href="http://steveivy.typepad.com/.a/6a010534988cd3970b0133f1fde7f3970b-pi"><img class="asset  asset-image at-xid-6a010534988cd3970b0133f1fde7f3970b" alt="Voices-scriptingnews-1" title="Voices-scriptingnews-1" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0133f1fde7f3970b-800wi" border="0"  /></a> <br />
 
 Back in 2003, [Dave Winer wrote](http://blogs.law.harvard.edu/whatmakesaweblogaweblog.html):
 
@@ -30,17 +30,17 @@ Conversely, I find that the Facebook newsfeed has less impact. There are so many
 
 The challenge is to more clearly delineate "events" from "content" -- look at Flickr's new photo page for a good example:
 
-<a href="http://steveivy.typepad.com/.a/6a010534988cd3970b0133f1fde984970b-pi"><img class="asset  asset-image at-xid-6a010534988cd3970b0133f1fde984970b" alt="Voices-flickr-1" title="Voices-flickr-1" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0133f1fde984970b-800wi" border="0"  /></a> <br />
+<a href="http://steveivy.typepad.com/.a/6a010534988cd3970b0133f1fde984970b-pi"><img class="asset  asset-image at-xid-6a010534988cd3970b0133f1fde984970b" alt="Voices-flickr-1" title="Voices-flickr-1" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0133f1fde984970b-800wi" border="0"  /></a> <br />
 
 Flickr now inlines favorites in the comment stream for a photo; some users don't like the new feature but I think they've put a lot of thought into the implementation. Notice that favorites (events) are greyed out and less visually important than the comments (content). This is a simple example but it helps keep the photo's story (Flickr's term), and the voices of the commenters, intact while providing new information (*when* a photo was favorited, as opposed to *that* it was favorited).
 
 Another example, a comparison. Here's [Cliqset](http://cliqset.com)'s "shared item" presentation:
 
-<a href="http://cliqset.com/dbounds/entry/vsC6t79EJ6TpfQee"><img class="asset  asset-image at-xid-6a010534988cd3970b013485235ff3970c image-full" alt="Voices-cliqset" title="Voices-cliqset" src="http://steveivy.typepad.com/.a/6a010534988cd3970b013485235ff3970c-800wi" border="0"  /></a> <br />
+<a href="http://cliqset.com/dbounds/entry/vsC6t79EJ6TpfQee"><img class="asset  asset-image at-xid-6a010534988cd3970b013485235ff3970c image-full" alt="Voices-cliqset" title="Voices-cliqset" src="https://steveivy.typepad.com/.a/6a010534988cd3970b013485235ff3970c-800wi" border="0"  /></a> <br />
 
 And here's [Twitter](http://twitter.com)'s famous "retweet":
 
-<a href="http://steveivy.typepad.com/.a/6a010534988cd3970b0133f1fe037c970b-pi"><img class="asset  asset-image at-xid-6a010534988cd3970b0133f1fe037c970b" alt="Voices-twitter" title="Voices-twitter" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0133f1fe037c970b-800wi" border="0"  /></a>
+<a href="http://steveivy.typepad.com/.a/6a010534988cd3970b0133f1fe037c970b-pi"><img class="asset  asset-image at-xid-6a010534988cd3970b0133f1fe037c970b" alt="Voices-twitter" title="Voices-twitter" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0133f1fe037c970b-800wi" border="0"  /></a>
 
 Notice that Cliqset's design puts the action in the third person (due in part to their focus on aggregating Activity Streams, which to date have typically been presented/delivered in the 3rd person). Twitter preserves the orginal user's voice, then tacks on the meta information (who shared it and when) afterwards. There was some pushback when Twitter first rolled out this feature, but I've come to appreciate and like the way they designed it (and I miss it in Tweetie for Mac!).
 

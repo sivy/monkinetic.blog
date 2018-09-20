@@ -3,7 +3,7 @@ Date: 2008-09-24
 Title: 6A NYC Dinner
 layout: post
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img  alt="Matt makes faces over dinner" class="mt-image-center at-xid-6a010534988cd3970b0120a5b36c77970c " height="200" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36c77970c-pi" style="text-align: center; display: block; margin: 0 auto 20px;" width="500" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img  alt="Matt makes faces over dinner" class="mt-image-center at-xid-6a010534988cd3970b0120a5b36c77970c " height="200" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36c77970c-pi" style="text-align: center; display: block; margin: 0 auto 20px;" width="500" /></span>
 
 A bunch of us from Six Apart NYC went out to dinner tonight at [Joya](http://www.timeout.com/newyork/restaurants/cobble-hill/4197/joya), a Thai place in Brooklyn not far from the [hotel](http://redmonk.net/archives/2008/09/23/view-from-the-nu-hotel-brooklyn) where Lisa (Six Aparter visiting from Seattle) and I are staying.
 

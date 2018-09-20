@@ -3,7 +3,7 @@ Date: 2010-01-20
 Title: "OpenID Connect: Standards and Solutions"
 layout: post
 
-<a style="float: right;" href="http://steveivy.typepad.com/.a/6a010534988cd3970b012876f553d4970c-pi"><img class="asset  asset-image at-xid-6a010534988cd3970b012876f553d4970c" alt="Logo_openid" title="Logo_openid" src="http://steveivy.typepad.com/.a/6a010534988cd3970b012876f553d4970c-800wi" border="0" style="margin: 0px 5px 5px 5px; padding: 3px; border:none;" /></a>
+<a style="float: right;" href="http://steveivy.typepad.com/.a/6a010534988cd3970b012876f553d4970c-pi"><img class="asset  asset-image at-xid-6a010534988cd3970b012876f553d4970c" alt="Logo_openid" title="Logo_openid" src="https://steveivy.typepad.com/.a/6a010534988cd3970b012876f553d4970c-800wi" border="0" style="margin: 0px 5px 5px 5px; padding: 3px; border:none;" /></a>
 
 [Chris Messina](http://factoryjoe.com/blog/) recently wrote a [post asking if we need an "OpenID Connect"](http://factoryjoe.com/blog/2010/01/04/openid-connect/) that packages the various Open Stack technologies into a single solution that can compete with Facebook Connect. (There are good follow up posts from [Dare Obasanjo](http://www.25hoursaday.com/weblog/2010/01/18/DoesTheWorldNeedOpenIDConnect.aspx) and [Johannes Ernst](http://netmesh.info/jernst/digital_identity/openid-connect-messina-vs-obasanjo)).
 

@@ -9,7 +9,7 @@ Now, Applescript is often maligned by the general scripting community as being a
 
 So I&#39;ve created RSSPuller. RSSPuller is an applescript applet that works with a fantastic Mac outliner called BrainForest. Brainforest Professional is the desktop version of a Aportis&#39;s Palm outliner. BrainForest is also very scriptable, with a flexible object model for manipulating outlines. Here&#39;s what you end up with from RSSPuller:
 
-<center><img src="http://media.redmonk.net/images/puller.gif" /></center>
+<center><img src="https://media.redmonk.net/images/puller.gif" /></center>
 
 Firstly, some background on RSS: the Resource Description Framework is an XML format that is used by news websites to let other sites syndicate their news headlines. Several other RSS readers have been developed, most notably Jeff Barr&#39;s <a href="http://www.vertexdev.com/HeadlineViewer/index.html">Headline Viewer</a>.
 

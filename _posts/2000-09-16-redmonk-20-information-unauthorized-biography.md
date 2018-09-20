@@ -23,5 +23,5 @@ I am a rabid, ok, maybe not rabid, but really really fan of R.E.M.. I missed see
 <a href="http://www.murmurs.com">Should we talk about the weather?</a>
 
 <div class="subhead">LEGO</div>
-<img border="0" src="http://media.redmonk.net/images/loveMyMac.jpg" /><br />
+<img border="0" src="https://media.redmonk.net/images/loveMyMac.jpg" /><br />
 So what do you do on an evening that you&#39;re bored and don&#39;t know what to do? Why, build a Mac Plus out of <a href="http://www.lego.com">LEGO</a>, of course!

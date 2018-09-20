@@ -9,7 +9,7 @@ So I started looking into Qwest, and bailed early due to a crappy website, confu
 
 Finally, I decided to check out Dish Network. I'd heard good things about them in the past, but never thought of myself as a "satellite" guy. But after perusing their site (which gave me a prominent "Special HD Offer" link for my clicking pleasure) and then reading up a bunch on their DVR offering, I was pretty well convinced.
 
-<p style="text-align:center;"><img  alt="dish_network_logo" class="at-xid-6a010534988cd3970b0120a5b36a2c970c " src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36a2c970c-pi" /></p>
+<p style="text-align:center;"><img  alt="dish_network_logo" class="at-xid-6a010534988cd3970b0120a5b36a2c970c " src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36a2c970c-pi" /></p>
 
 Dish provides the [ViP622](http://www.dishnetwork.com/content/our_products/dish_hd/receivers/vip622dvr/index.shtml) HD Receiver/DVR, which is one of the best DVRs I've seen on the market ([CNET gives it an 8.7 rating](http://reviews.cnet.com/digital-video-recorders-dvrs/dish-network-hd-dvr/4505-6474_7-31778299.html?tag=prod.txt.1)). Here are some of the features:
 

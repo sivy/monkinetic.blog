@@ -7,6 +7,6 @@ Last week, while Jodi was away visiting family, I went up to the Grand Canyon fo
 
 The Canyon was pretty hazy, it was overcast most of the time I was there, but... wow, nevertheless!
 
-<embed autoplay="false" controller="true" height="256" pluginspage="http://www.apple.com/quicktime/download/" src="http://www.redmonk.net/1376/enclosure/GCTrip2002-320.mov" type="video/quicktime" width="320" />
+<embed autoplay="false" controller="true" height="256" pluginspage="http://www.apple.com/quicktime/download/" src="https://www.redmonk.net/1376/enclosure/GCTrip2002-320.mov" type="video/quicktime" width="320" />
 
 Update 02/18/2005: I lost the Quicktime movie around the time I switched to Wordpress from Conversant. Sorry. :-(

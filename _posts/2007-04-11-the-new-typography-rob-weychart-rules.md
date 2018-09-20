@@ -3,7 +3,7 @@ Date: 2007-04-11
 Title: "The New Typography: Rob Weychart & Rules"
 layout: post
 
-<a href="http://www.robweychert.com/editorials/2007/02/20/comhaltas_ceoltir_ireann/"><img src="http://img.skitch.com/20090916-giekp8x4yfk15nf481nhfukbmp.png" /></a>
+<a href="http://www.robweychert.com/editorials/2007/02/20/comhaltas_ceoltir_ireann/"><img src="https://img.skitch.com/20090916-giekp8x4yfk15nf481nhfukbmp.png" /></a>
 
 This is a bit more for the nice use of rules than for typography, though the typography here is very nice as well. In the early years of web design, rules were poorly done in general, and vertical rules were almost non-existent, or were done as images.
 

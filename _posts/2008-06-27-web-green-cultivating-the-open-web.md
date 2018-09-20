@@ -8,7 +8,7 @@ It's been a while since I've posted about what's going on in the [DiSo community
 The DiSo Project is first and foremost about enabling/creating a new category of social-networking-enabled websites, not restricted to the large silos but grown organically at the edges of the web - the small and independent sites that are the forerunners and foundations of the communities we now enjoy. How can we best provide a fertile environment, one that encourages, protects, and nurtures this growth?
 
 <p style="margin: 0pt 0pt 8px 12px; padding: 1px; float: right; width: 161px; color: #666666;">
-<a href="http://redmonk.net/archives/2008/06/26/web-green-cultivating-the-open-web/"><img  alt="" class="size-medium wp-image-2729 at-xid-6a010534988cd3970b0120a5b36a31970c " height="223" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36a31970c-pi" title="Web Green: Cultivating The Open Web" width="159" /></a>
+<a href="http://redmonk.net/archives/2008/06/26/web-green-cultivating-the-open-web/"><img  alt="" class="size-medium wp-image-2729 at-xid-6a010534988cd3970b0120a5b36a31970c " height="223" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36a31970c-pi" title="Web Green: Cultivating The Open Web" width="159" /></a>
 <span style="font-size: 70%; font-family: Verdana,Arial,sans-serif;"><a href="http://www.pygment.com/blog/2006/06/06/grass-sky/">grass image from pygment.com</a> for whose proprietor I cannot find contact information.</span>
 </p>
 

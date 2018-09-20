@@ -7,7 +7,7 @@ My friend [Bill](http://bbrown.info) has been sitting on a secret project at his
 
 Today he pointed me to their first public product blog, and said I could post about it. Weee! Check out the first [Quick Blog](http://www.godaddy.com/gdshop/blog/landing.asp) at [http://www.onlinequickblog.com/](http://www.onlinequickblog.com/).
 
-<img alt="QuickBlog logo" class="at-xid-6a010534988cd3970b0120a5b362cc970c" id="image2279" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b362cc970c-pi" />
+<img alt="QuickBlog logo" class="at-xid-6a010534988cd3970b0120a5b362cc970c" id="image2279" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b362cc970c-pi" />
 
 Bill works for [Go Daddy](http://godaddy.com) up in Scottsdale, AZ, and is on the Quick Blog team there. He wrote a lot of the specs and was the first developer working on it. The tool looks really good, supports all the usual features, and is free (with ads) to current customers who have domains with Go Daddy. There is also a cheap ($2.95/mo) option (for anyone!) that gives you multiple blogs, multiple authors, and no ads.
 

@@ -8,5 +8,5 @@ categories:
 Updated the Signal Log design for small view screens.
 
 <p style="text-align: center">
-<img style="margin: 0 auto; width:250px; border: 1px solid #666;" src="http://i.imgur.com/wxcySTr.png">
+<img style="margin: 0 auto; width:250px; border: 1px solid #666;" src="https://i.imgur.com/wxcySTr.png">
 </p>

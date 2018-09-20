@@ -9,7 +9,7 @@ According to [Adobe](http://www.adobe.com/misc/trade.html#photoshop):
 
 Oh wow, I&#39;d better make sure I&#39;m always compliant with the Permissions and Trademark Guidelines... but wait! I&#39;m looking at PS (photoshop) on my taskbar and what do I see? Photoshop&#39;s taskbar label is a Guidelines violation!
 
-<img alt="photoshop" class="at-xid-6a010534988cd3970b0120a5b36618970c" id="image2352" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36618970c-pi" />
+<img alt="photoshop" class="at-xid-6a010534988cd3970b0120a5b36618970c" id="image2352" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36618970c-pi" />
 
 Again, according to Adobe:
 
@@ -21,4 +21,4 @@ Again, according to Adobe:
 
 Hey! I could comply with the Guidelines and help Adobe do the same! So I photoshopped a quick version that Adobe is welcome to:
 
-<img alt="proper photoshop" class="at-xid-6a010534988cd3970b0120a5b36620970c" id="image2353" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36620970c-pi" />
+<img alt="proper photoshop" class="at-xid-6a010534988cd3970b0120a5b36620970c" id="image2353" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36620970c-pi" />

@@ -18,6 +18,6 @@ Download: <a href="http://redmonk.net/mt/mt-static/uploads/PodCastHelper.zip" ti
 If you want to port this to Cocoa or some other environment, please do. It&#39;s licensed under a CC license (http://creativecommons.org/licenses/by-nc-sa/2.0/)
 
 
-<a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" rel="license"><img alt="Creative Commons License" border="0" class="at-xid-6a010534988cd3970b0120a5b36b6d970c" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36b6d970c-pi" /></a><br />
+<a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" rel="license"><img alt="Creative Commons License" border="0" class="at-xid-6a010534988cd3970b0120a5b36b6d970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36b6d970c-pi" /></a><br />
 This work is licensed under a <a href="http://creativecommons.org/licenses/by-nc-sa/2.0/" rel="license">Creative Commons License</a>.
 

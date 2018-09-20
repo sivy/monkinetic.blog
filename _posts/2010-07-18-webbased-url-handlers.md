@@ -27,7 +27,7 @@ Unfortunately, that looks a little janky to me and probably tromps all over the 
 
 We could also take this a step further: If my browser knows how to handle `ostatus:` URLs now, we could improve the UI some, perhaps, by having the browser parse the incoming page for a [rel=status](http://www.monkinetic.com/2009/11/status-autodiscovery-relstatus.html) link, and give me a nice little [status] icon in the location bar?
 
-<a  href="http://steveivy.typepad.com/.a/6a010534988cd3970b01348582bb2e970c-pi"><img class="asset  asset-image at-xid-6a010534988cd3970b01348582bb2e970c" alt="Status_bar" title="Status_bar" src="http://steveivy.typepad.com/.a/6a010534988cd3970b01348582bb2e970c-800wi" border="0" style="display: block; margin-left: auto; margin-right: auto;" /></a>
+<a  href="http://steveivy.typepad.com/.a/6a010534988cd3970b01348582bb2e970c-pi"><img class="asset  asset-image at-xid-6a010534988cd3970b01348582bb2e970c" alt="Status_bar" title="Status_bar" src="https://steveivy.typepad.com/.a/6a010534988cd3970b01348582bb2e970c-800wi" border="0" style="display: block; margin-left: auto; margin-right: auto;" /></a>
 
 Obviously that UI would get crowded kinda fast, but this could be done with a variety of services: `like:`, `follow:`, etc. -- as long as the handler can be linked to a particular protocol or service.
 

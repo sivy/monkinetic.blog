@@ -28,7 +28,7 @@ div.blogrollmain{
    text-decoration: underline;
 }
 </style>
-<script language="javascript" src="http://blogrolling.com/br/display.php?r=7318f359722ae64ccc8a8b984f830ced" type="text/javascript">
+<script language="javascript" src="https://blogrolling.com/br/display.php?r=7318f359722ae64ccc8a8b984f830ced" type="text/javascript">
 </script>
 
-<div align="center"><a href="http://www.redmonk.net/"><img border="0" src="http://media.redmonk.net/images/redmonkLogoSm.gif" /></a></div>
+<div align="center"><a href="http://www.redmonk.net/"><img border="0" src="https://media.redmonk.net/images/redmonkLogoSm.gif" /></a></div>

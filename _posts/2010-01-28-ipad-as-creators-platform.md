@@ -3,7 +3,7 @@ Date: 2010-01-28
 Title: iPad As Creator's Platform
 layout: post
 
-<a style="float: right;" href="http://apple.com/ipad"><img class="asset  asset-image at-xid-6a010534988cd3970b0128772170a7970c" alt="Ipad_large" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0128772170a7970c-120wi" style="margin: 0px 0px 5px 5px; border: none;" /></a>
+<a style="float: right;" href="http://apple.com/ipad"><img class="asset  asset-image at-xid-6a010534988cd3970b0128772170a7970c" alt="Ipad_large" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0128772170a7970c-120wi" style="margin: 0px 0px 5px 5px; border: none;" /></a>
 
 Tim Bray [tweeted today](http://twitter.com/timbray/status/8333721726) about the [iPad](http://apple.com/ipad) as a content delivery platform:
 

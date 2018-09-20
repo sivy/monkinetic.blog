@@ -20,6 +20,6 @@ Update:
 
 [Chrome windows jumping to another desktop in Mac OS X Lion](http://www.google.com/support/forum/p/Chrome/thread?tid=084b35893f292953) says that if you select "Options > Desktop > None" in the contextual menu for Chrome in the Dock, it fixes it.
 
-<a style="display: inline;" href="http://steveivy.typepad.com/.a/6a010534988cd3970b015391d48412970b-pi"><img class="asset  asset-image at-xid-6a010534988cd3970b015391d48412970b image-full" alt="Dock-1" title="Dock-1" src="http://steveivy.typepad.com/.a/6a010534988cd3970b015391d48412970b-500wi" border="0" /></a>
+<a style="display: inline;" href="http://steveivy.typepad.com/.a/6a010534988cd3970b015391d48412970b-pi"><img class="asset  asset-image at-xid-6a010534988cd3970b015391d48412970b image-full" alt="Dock-1" title="Dock-1" src="https://steveivy.typepad.com/.a/6a010534988cd3970b015391d48412970b-500wi" border="0" /></a>
 
 Good to know.

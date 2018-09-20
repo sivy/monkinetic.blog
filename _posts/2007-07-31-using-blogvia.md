@@ -11,7 +11,7 @@ Since I used a custom field to implement adding machine tags to posts, I looked 
 
 As you can see from that uri ([try it out](http://redmonk.net/?key=machinetags&s=blog:via)), the search term now applies to the custom field, not the post content. But searching for all posts with 'blog:via' is not that interesting. If you check out [this post page](http://redmonk.net/archives/2007/07/26/subtraction-one-book-to-specify-them-all/), I've tweaked the machine tags display so that next to each "blog:via" is a "more" link that takes you to a list of posts that were via that URL:
 
-<a href="http://redmonk.net/archives/2007/07/26/subtraction-one-book-to-specify-them-all#machinetags"><img  alt="machinetags_via" class="at-xid-6a010534988cd3970b0120a5b368a9970c " src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b368a9970c-pi" style="padding:1px; border:1px solid #ccc;" /></a>
+<a href="http://redmonk.net/archives/2007/07/26/subtraction-one-book-to-specify-them-all#machinetags"><img  alt="machinetags_via" class="at-xid-6a010534988cd3970b0120a5b368a9970c " src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b368a9970c-pi" style="padding:1px; border:1px solid #ccc;" /></a>
 
 It's not perfect yet - with my implementation (a 'machinetags' custom field with 'blog:via=http://daringfireball.net' value), I can't actually search for "machine tag where the tag is blog:via *and* the value is &lt;url&gt;". I may yet switch to a "blog:via" custom field.
 

@@ -3,7 +3,7 @@ Date: 2005-06-07
 Title: My vacuum SUCKS!
 layout: post
 
-<a href="http://www.dyson.com/range/feature_frame.asp?model=DC14-LOWREACH"><img align="right" alt="Dyson DC14 Low Reach" border="0" class="at-xid-6a010534988cd3970b0120a5b3616f970c" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b3616f970c-pi" style="margin: 0 10px 10px 0;" /></a>
+<a href="http://www.dyson.com/range/feature_frame.asp?model=DC14-LOWREACH"><img align="right" alt="Dyson DC14 Low Reach" border="0" class="at-xid-6a010534988cd3970b0120a5b3616f970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b3616f970c-pi" style="margin: 0 10px 10px 0;" /></a>
 
 After 7-ish years of using the vacuum we got when we got married, Jodi and I finally decided that it just wasn&#39;t cutting it anymore. We&#39;d heard the buzz about the <a href="http://dyson.com">Dyson</a> vacuums, and thought we&#39;d investigate this multi-hundred-dollar marvel.
 

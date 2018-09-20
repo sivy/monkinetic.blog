@@ -11,4 +11,4 @@ A while back, I did some [packet-sniffing](http://redmonk.net/archives/2006/11/3
 
 Nice to see Adobe opening kuler up to more of this kind of thing.
 
-<img  alt="kuler_badge" class="at-xid-6a010534988cd3970b0120a5b36c58970c " src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36c58970c-pi" style="padding:1px; margin:8px 0; border: 1px solid #ccc;" /></rss>
+<img  alt="kuler_badge" class="at-xid-6a010534988cd3970b0120a5b36c58970c " src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36c58970c-pi" style="padding:1px; margin:8px 0; border: 1px solid #ccc;" /></rss>

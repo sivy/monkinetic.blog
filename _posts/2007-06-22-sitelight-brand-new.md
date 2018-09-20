@@ -3,9 +3,9 @@ Date: 2007-06-22
 Title: "SiteLight: Brand New"
 layout: post
 
-<a href="http://redmonk.net/category/sitelight/"><img class="at-xid-6a010534988cd3970b0120a5b360ef970c" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b360ef970c-pi" style="float: right; padding-left: 7px; border:none;" /></a>
+<a href="http://redmonk.net/category/sitelight/"><img class="at-xid-6a010534988cd3970b0120a5b360ef970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b360ef970c-pi" style="float: right; padding-left: 7px; border:none;" /></a>
 
-<a href="http://redmonk.net/category/sitelight/"><img src="http://redmonk.net/wp-content/sitelight.gif" style="float: right; padding-left: 7px; border:none;"/></a>
+<a href="http://redmonk.net/category/sitelight/"><img src="https://redmonk.net/wp-content/sitelight.gif" style="float: right; padding-left: 7px; border:none;"/></a>
 
 After a long dim spell, today the SiteLight shines again! [Brand New](http://www.underconsideration.com/brandnew) is a design blog dedicated to dissecting corporate re-branding efforts and bringing you the autopsy.
 

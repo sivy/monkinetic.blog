@@ -5,7 +5,7 @@ layout: post
 
 I really really [want this shirt](http://feedstore.muledesign.com/product/get-excited-and-make-things):
 
-<a href="http://feedstore.muledesign.com/product/get-excited-and-make-things"><img src="http://img.skitch.com/20100419-mm28ajdgrsfmi4kx4bprpku2sw.png"></a>
+<a href="http://feedstore.muledesign.com/product/get-excited-and-make-things"><img src="https://img.skitch.com/20100419-mm28ajdgrsfmi4kx4bprpku2sw.png"></a>
 
 As the owner of a recently purchased home, a lot of my Make Things powers are being put to use in the decidedly analog realm of woodworking and home improvement, as my recent tweets have shown:
 

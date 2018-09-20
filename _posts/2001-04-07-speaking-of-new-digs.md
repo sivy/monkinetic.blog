@@ -5,4 +5,4 @@ layout: post
 
 this is me in my new cube. actually, i share a double-wide with my buddy hans.<p>
 
-<img src="http://media.redmonk.net/images/officeCam.jpg" /></p>
+<img src="https://media.redmonk.net/images/officeCam.jpg" /></p>

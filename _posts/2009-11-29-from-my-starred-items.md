@@ -3,7 +3,7 @@ Date: 2009-11-29
 Title: From My Starred Items
 layout: post
 
-<img class="asset  asset-image at-xid-6a010534988cd3970b0120a6eb18e6970b" alt="Google Reader" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a6eb18e6970b-500wi"  />
+<img class="asset  asset-image at-xid-6a010534988cd3970b0120a6eb18e6970b" alt="Google Reader" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a6eb18e6970b-500wi"  />
 
 While poking around Google Reader I thought I'd review my Starred Items, and found some gems:
 

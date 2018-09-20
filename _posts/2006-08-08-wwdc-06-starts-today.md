@@ -5,7 +5,7 @@ layout: post
 
 So, most of us Mac users don&#39;t care about a developer conference, right?
 
-<p style="text-align: center"><img alt="WWDC" class="at-xid-6a010534988cd3970b0120a5b3658d970c" id="image2356" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b3658d970c-pi" /></p>
+<p style="text-align: center"><img alt="WWDC" class="at-xid-6a010534988cd3970b0120a5b3658d970c" id="image2356" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b3658d970c-pi" /></p>
 
 *BZZT! Wrong!*
 

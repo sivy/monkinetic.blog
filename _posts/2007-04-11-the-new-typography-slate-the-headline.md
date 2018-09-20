@@ -3,7 +3,7 @@ Date: 2007-04-11
 Title: "The New Typography: Slate & The Headline"
 layout: post
 
-<a href="http://www.slate.com/id/2162844?nav=tap3"><img alt="The%20trouble%20with%20Fred%20Thompson.%20-%20By%20John%20Dickerson%20-%20Slate%20Magazine" class="at-xid-6a010534988cd3970b0120a5b36bc9970c" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36bc9970c-pi" style="border: 1px solid #ccc; margin: 20px 0;" /></a>
+<a href="http://www.slate.com/id/2162844?nav=tap3"><img alt="The%20trouble%20with%20Fred%20Thompson.%20-%20By%20John%20Dickerson%20-%20Slate%20Magazine" class="at-xid-6a010534988cd3970b0120a5b36bc9970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36bc9970c-pi" style="border: 1px solid #ccc; margin: 20px 0;" /></a>
 
 I love this example from Slate. I don&#39;t know how long they&#39;ve been setting headlines like this, but the headline/deck/byline on this article is snappy. Arial looks good big. Who knew? The subhead, with it&#39;s small-caps effect in Georgia, really echos what you see in print newspapers, and gives Slate a visual gravity that compliments the quality writing.
 

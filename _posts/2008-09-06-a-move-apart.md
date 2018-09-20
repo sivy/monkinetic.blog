@@ -9,7 +9,7 @@ For the last two years, I've been working for [GoDaddy.com](http://godaddy.com) 
 
 So, I'm excited to announce that I'm going to be joining [Six Apart](http://sixapart.com)'s team of [professional services developers and designers](http://sixapart.com/services), working with some sites [you may have heard of](http://apperceptive.com/what/), and helping to improve blogging in general and one [kick-ass blogging engine](http://movabletype.com) in particular.
 
-<a href="http://sixapart.com"><img  alt="" class="aligncenter size-full wp-image-2755 at-xid-6a010534988cd3970b0120a5b3685a970c " height="115" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b3685a970c-pi" title="Six Apart" width="198" /></a>
+<a href="http://sixapart.com"><img  alt="" class="aligncenter size-full wp-image-2755 at-xid-6a010534988cd3970b0120a5b3685a970c " height="115" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b3685a970c-pi" title="Six Apart" width="198" /></a>
 
 The bonus is, I'm going to be working from home - "Six Apart Phoenix" will be my home office - which means I get back 2 hours a day that I won't be commuting. It also means that I'll be available more to my family, which is a great thing.
 

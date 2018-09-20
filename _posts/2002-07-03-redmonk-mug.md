@@ -5,4 +5,4 @@ layout: post
 
 Would you imbibe hot caffeinated beverages from a mug bearing... this?
 
-<div align="center"><img alt="redmonk logo" border="0" src="http://media.redmonk.net/images/redmonkLogo.gif" title="see the logo. love the logo." /></div>
+<div align="center"><img alt="redmonk logo" border="0" src="https://media.redmonk.net/images/redmonkLogo.gif" title="see the logo. love the logo." /></div>

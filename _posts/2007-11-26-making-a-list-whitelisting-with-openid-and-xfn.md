@@ -17,7 +17,7 @@ In [FOAF and OpenID: two great tastes that taste great together](http://dig.csai
 
 Mapped out, the system looks something like this:
 
-<img  alt="foaf_openid_whitelist" class="at-xid-6a010534988cd3970b0120a55ce863970b " src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a55ce863970b-pi" style="margin:8px 0; padding:1px; border:1px solid #ccc;" />
+<img  alt="foaf_openid_whitelist" class="at-xid-6a010534988cd3970b0120a55ce863970b " src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a55ce863970b-pi" style="margin:8px 0; padding:1px; border:1px solid #ccc;" />
 
 To be added to the site's comment whitelist, either the green or blue path must be satisfied: User A has to be either identifiable (via OpenId) as a DIG member (<code>foaf:Person</code> matches in the [DIG member data](http://dig.csail.mit.edu/data)) or another DIG member must "claim" User A (User A is identified via OpenID and their <code>foaf:Person</code> is related via <code>foaf:knows</code> to the known DIG member).
 
@@ -35,7 +35,7 @@ In order to make something like this work, it seems that the flow would work lik
 
 This is very rough, but mapped out it looks something like this:
 
-<img  alt="xfn_openid_whitelist" class="at-xid-6a010534988cd3970b0120a55ce868970b " src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a55ce868970b-pi" style="margin:8px 0; padding:1px; border:1px solid #ccc;" />
+<img  alt="xfn_openid_whitelist" class="at-xid-6a010534988cd3970b0120a55ce868970b " src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a55ce868970b-pi" style="margin:8px 0; padding:1px; border:1px solid #ccc;" />
 
 As before, to be added to a site's whitelist, either the green or blue path must be satisfied. I think that a system like this for Wordpress (for example) could be built out of mostly existing parts, starting with the [Wordpress OpenID Plugin](http://wordpress.org/extend/plugins/openid/) (newly 2.0). (Chris has [more notes on a wordpress plugin](http://factoryjoe.pbwiki.com/wp-openid-whitelist).)
 

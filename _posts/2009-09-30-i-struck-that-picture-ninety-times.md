@@ -3,7 +3,7 @@ Date: 2009-09-30
 Title: I struck that picture ninety times
 layout: post
 
-<p class="asset asset-image"><a style="display: block; text-align:center" href="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5ad4ffb970b-popup" onclick="window.open( this.href, '_blank', 'width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0' ); return false"><img class="at-xid-6a010534988cd3970b0120a5ad4ffb970b" alt="Goekjian01" title="Goekjian01" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5ad4ffb970b-800wi" border="0"  /></a>
+<p class="asset asset-image"><a style="display: block; text-align:center" href="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5ad4ffb970b-popup" onclick="window.open( this.href, '_blank', 'width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0' ); return false"><img class="at-xid-6a010534988cd3970b0120a5ad4ffb970b" alt="Goekjian01" title="Goekjian01" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5ad4ffb970b-800wi" border="0"  /></a>
 </p>
 
 <blockquote>

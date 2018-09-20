@@ -3,7 +3,7 @@ Date: 2005-02-22
 Title: "SiteLight: Rands In Repose"
 layout: post
 
-<a href="http://redmonk.net/category/sitelight/"><img class="at-xid-6a010534988cd3970b0120a5b360ef970c" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b360ef970c-pi" style="float: right; padding-left: 7px; border:none;" /></a>
+<a href="http://redmonk.net/category/sitelight/"><img class="at-xid-6a010534988cd3970b0120a5b360ef970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b360ef970c-pi" style="float: right; padding-left: 7px; border:none;" /></a>
 So, I thought I&#39;d do a short series on some of the sites I&#39;m subscribed to. The first one I want to mention is <a href="http://www.randsinrepose.com/">Rands In Repose</a>.
 
 ###What is this site?

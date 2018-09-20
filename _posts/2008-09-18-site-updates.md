@@ -23,7 +23,7 @@ The difference between Dreamhost's PS and Linode's VPS is this: Dreamhost's PS i
 
 Thankfully, Robert at Dreamhost's Customer Service finally came though for me, explaining that the overwhelming majority of the resources my sites were using were really just Apache webserver instances that the system spawns automatically *based on available RAM*. Dreamhost defaults new VPS's to the full 2300Mb limit, so my sites had 200Mb worth of Apache instances running. Once I dropped it down to the minimum 150Mb of RAM, memory usage dropped down to a slim 100mb-120mb.
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img  alt="Usage" class="mt-image-center at-xid-6a010534988cd3970b0120a5b36959970c " height="245" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36959970c-pi" style="text-align: center; display: block; margin: 0 auto 20px;" width="495" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img  alt="Usage" class="mt-image-center at-xid-6a010534988cd3970b0120a5b36959970c " height="245" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36959970c-pi" style="text-align: center; display: block; margin: 0 auto 20px;" width="495" /></span>
 
 I titled this section to help google find it; this really ought to be documented because I can see users buying more VPS than they really need due to misleading memory graphs. *Update: I also [amended Dreamhost's wiki entry on trouble shooting Dreamhost PS](http://wiki.dreamhost.com/DreamHost_PS_Troubleshooting#Overloaded_DreamHost_PS) to reflect this particular case*.
 

@@ -5,4 +5,4 @@ layout: post
 
 I don&#39;t want to jinx anything, but here&#39;s a clue:
 
-<div align="center"><img border="0" src="http://media.redmonk.net/images/resin.jpg" /></div>
+<div align="center"><img border="0" src="https://media.redmonk.net/images/resin.jpg" /></div>

@@ -3,7 +3,7 @@ Date: 2008-04-23
 Title: Twitter down, and I didn't know about it
 layout: post
 
-<a href="http://www.xmpp.org/about/"><img  alt="Extensible Messaging and Presence Protocol" class="alignright size-medium wp-image-2712 " height="76" src="http://redmonk.net/mt/mt-static/uploads/2008/04/xmpp.png" title="XMPP" width="74" /></a>
+<a href="http://www.xmpp.org/about/"><img  alt="Extensible Messaging and Presence Protocol" class="alignright size-medium wp-image-2712 " height="76" src="https://redmonk.net/mt/mt-static/uploads/2008/04/xmpp.png" title="XMPP" width="74" /></a>
 
 B/c Twitter is frowned on at work, I don't visit and did not know until last night that there was an ongoing outage in progress. Dave [has one plan for a route-around](http://www.scripting.com/stories/2008/04/22/howToDecoupleFromTwitterNo.html), I've got another:
 

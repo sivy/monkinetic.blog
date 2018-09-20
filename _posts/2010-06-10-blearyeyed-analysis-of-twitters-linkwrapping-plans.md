@@ -20,7 +20,7 @@ Twitter intends to provide more information about a shortened link in the UI, a 
 
 But they don't need a url-wrapper to do that. Exhibit A is this example from [identi.ca](http://identi.ca/notice/35536518):
 
-<a style="display: block;" href="http://www.flickr.com/photos/redmonk/4686830508/"><img class="asset  asset-image at-xid-6a010534988cd3970b0133f084fdf2970b" alt="image from www.flickr.com" title="image from www.flickr.com" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0133f084fdf2970b-800wi" border="0"  /></a>
+<a style="display: block;" href="http://www.flickr.com/photos/redmonk/4686830508/"><img class="asset  asset-image at-xid-6a010534988cd3970b0133f084fdf2970b" alt="image from www.flickr.com" title="image from www.flickr.com" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0133f084fdf2970b-800wi" border="0"  /></a>
 
 ### Bit.ly
 
@@ -32,7 +32,7 @@ But they don't need a url-wrapper to do that. Exhibit A is this example from [id
 
 It looks like [retweets are immune](http://twitter.com/rsarver/status/15762778744) from the wrapperness? (This is from Ryan Sarver's stream, one of the accounts for which the new t.co shortner is turned on.)
 
-<a href="http://www.flickr.com/photos/redmonk/4686847382/" title="Twitter / Ryan Sarver: RT @chrismessina: Just ena ... by steve-ivy, on Flickr"><img src="http://farm5.static.flickr.com/4071/4686847382_a55bcbd8f0_o.png" width="313" height="189" alt="Twitter / Ryan Sarver: RT @chrismessina: Just ena ..." /></a>
+<a href="http://www.flickr.com/photos/redmonk/4686847382/" title="Twitter / Ryan Sarver: RT @chrismessina: Just ena ... by steve-ivy, on Flickr"><img src="https://farm5.static.flickr.com/4071/4686847382_a55bcbd8f0_o.png" width="313" height="189" alt="Twitter / Ryan Sarver: RT @chrismessina: Just ena ..." /></a>
 
 ### Effect on Archives
 

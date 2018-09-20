@@ -5,7 +5,7 @@ layout: post
 
 OMG, the countdown to Sept 26 continues. Witness [White and Nerdy](http://www.youtube.com/watch?v=6KyiejbQj-c) (some tidbits on [Wikipedia](http://en.wikipedia.org/wiki/White_And_Nerdy)), Weird Al&#39;s new single from [Straight Outta Lynwood](http://weirdal.com). Look for a cameo from [Seth Green](http://en.wikipedia.org/wiki/Seth_Green) (as an action figure collector, which he really is) and an inspired appearance by [Donny Osmond](http://en.wikipedia.org/wiki/Donny_Osmond) (and probably others).
 
-<a href="http://www.youtube.com/watch?v=6KyiejbQj-c"><img alt="White and Nerdy" class="at-xid-6a010534988cd3970b0120a5b36afd970c" id="image2376" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36afd970c-pi" style="border: 0" /></a>
+<a href="http://www.youtube.com/watch?v=6KyiejbQj-c"><img alt="White and Nerdy" class="at-xid-6a010534988cd3970b0120a5b36afd970c" id="image2376" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36afd970c-pi" style="border: 0" /></a>
 
 _Update_: YouTube now says:
 

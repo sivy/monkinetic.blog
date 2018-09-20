@@ -12,4 +12,4 @@ In my personal Theory of Bond, there is only one James Bond - Sean Connery (you 
 
 With Bond, it's the same thing - Sean Connery is retired and has been living in Patagonia (or, in my personal fantasy, a remote cabin in Alaska, in bitter exile, until his country once again must call upon him in its hour of greatest need). Thereafter, his replacement came on, assumed the name Bond, and continued the legend. It's the name, you see, that inspires the necessary fear.
 
-<img class="asset  asset-image at-xid-6a010534988cd3970b0133f2d45c31970b" alt="Photoshop" title="Photoshop" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0133f2d45c31970b-800wi" border="0" style="display: block; margin-left: auto; margin-right: auto;" />
+<img class="asset  asset-image at-xid-6a010534988cd3970b0133f2d45c31970b" alt="Photoshop" title="Photoshop" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0133f2d45c31970b-800wi" border="0" style="display: block; margin-left: auto; margin-right: auto;" />

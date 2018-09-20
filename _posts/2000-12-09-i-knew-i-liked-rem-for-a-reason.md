@@ -5,4 +5,4 @@ layout: post
 
 &quot;R.E.M.&quot; lead singer Michael Stipe (on the right) &quot;Thinking Different&quot;
 
-<a href="http://www.remhq.com/news/index.html"><img border="0" src="http://www.remhq.com/news/10.20.00_laptops.jpg" /></a>
+<a href="http://www.remhq.com/news/index.html"><img border="0" src="https://www.remhq.com/news/10.20.00_laptops.jpg" /></a>

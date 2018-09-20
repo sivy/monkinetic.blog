@@ -5,4 +5,4 @@ layout: post
 
 Gantt and PERT chart maker for OS X.
 
-<div align="center"><a href="http://www.headshack.com/software/chartConstructor/"><img border="0" src="http://www.headshack.com/media/chartConstructor/ganttScreenSmall.jpg" /></a></div>
+<div align="center"><a href="http://www.headshack.com/software/chartConstructor/"><img border="0" src="https://www.headshack.com/media/chartConstructor/ganttScreenSmall.jpg" /></a></div>

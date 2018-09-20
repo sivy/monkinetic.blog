@@ -5,4 +5,4 @@ layout: post
 
 [Mark D.](http://borkware.com) recalled my attention to the following hilarity:
 
-<object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/YhZt4i92aSA" /><embed height="350" src="http://www.youtube.com/v/YhZt4i92aSA" type="application/x-shockwave-flash" width="425" /></object>
+<object height="350" width="425"><param name="movie" value="http://www.youtube.com/v/YhZt4i92aSA" /><embed height="350" src="https://www.youtube.com/v/YhZt4i92aSA" type="application/x-shockwave-flash" width="425" /></object>

@@ -4,7 +4,7 @@ Title: "OpenID Connect: Progress Ensues, Challenges Remain"
 layout: post
 
 
-<a href="http://paulmadsen.posterous.com/new-line-of-greeting-cards-iiw" style="display:block; text-align:center"><img src="http://posterous.com/getfile/files.posterous.com/paulmadsen/TWQ8z3lt8dKeqVy0TUPSujtzVPXFQTTalqIBb5gOOBwP9DpccEmPGs6qVmIK/Screen_00003.jpg" style="border:none;"/></a>
+<a href="http://paulmadsen.posterous.com/new-line-of-greeting-cards-iiw" style="display:block; text-align:center"><img src="https://posterous.com/getfile/files.posterous.com/paulmadsen/TWQ8z3lt8dKeqVy0TUPSujtzVPXFQTTalqIBb5gOOBwP9DpccEmPGs6qVmIK/Screen_00003.jpg" style="border:none;"/></a>
 
 Earlier this year, [Chris Messina](http://factoryjoe.com/blog/) started writing about [an idea he labeled "OpenID Connect"](http://factoryjoe.com/blog/2010/01/04/openid-connect/). From Chris's original post:
 

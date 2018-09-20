@@ -3,7 +3,7 @@ Date: 2008-04-26
 Title: Happy Birthday Hubble!
 layout: post
 
-<a href="http://www.britannica.com/EBchecked/topic/274508/Hubble-Space-Telescope#default"><img  alt="" class="alignright size-full wp-image-2716 at-xid-6a010534988cd3970b0120a5b36998970c " height="200" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36998970c-pi" title="Image from the HST" width="200" /></a>
+<a href="http://www.britannica.com/EBchecked/topic/274508/Hubble-Space-Telescope#default"><img  alt="" class="alignright size-full wp-image-2716 at-xid-6a010534988cd3970b0120a5b36998970c " height="200" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36998970c-pi" title="Image from the HST" width="200" /></a>
 
 18 years ago today, in 1990, the [Hubble Space Telescope](http://www.britannica.com/EBchecked/topic/274508/Hubble-Space-Telescope#default) was launched into orbit on the Space Shuttle Discovery.
 

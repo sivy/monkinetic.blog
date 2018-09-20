@@ -3,7 +3,7 @@ Date: 2008-09-11
 Title: Portable Contacts Progress
 layout: post
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img  alt="Portable Contacts : Kevin Marks, Joseph Smarr" class="mt-image-center at-xid-6a010534988cd3970b0120a5b36a48970c " height="206" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36a48970c-pi" style="text-align: center; display: block; margin: 0 auto 20px;" width="500" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img  alt="Portable Contacts : Kevin Marks, Joseph Smarr" class="mt-image-center at-xid-6a010534988cd3970b0120a5b36a48970c " height="206" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36a48970c-pi" style="text-align: center; display: block; margin: 0 auto 20px;" width="500" /></span>
 
 Last night was the [Portable Contacts Hackathon](http://radar.oreilly.com/2008/09/portable-contacts-api-starts-t.html) at Six Apart, and it looks like some excellent progress was made. [Joseph Smarr](http://josephsmarr.com/) and [Kevin Marks](http://kevinmarks.com) had an hCard--to-vcard-to-portable-contacts transformer working (which [I got to see in action](http://flickr.com/photos/56624456@N00/2846876437/)).
 
@@ -13,4 +13,4 @@ In addition, David [reports](http://radar.oreilly.com/2008/09/portable-contacts-
 
 >As Joseph quipped "this is the power of Open, people!".
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img  alt="Portable Contacts: Joseph Smarr, Kevin Marks, Steve (on the laptop)" class="mt-image-center at-xid-6a010534988cd3970b0120a5b36a7e970c " height="206" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36a7e970c-pi" style="text-align: center; display: block; margin: 0 auto 20px;" width="500" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img  alt="Portable Contacts: Joseph Smarr, Kevin Marks, Steve (on the laptop)" class="mt-image-center at-xid-6a010534988cd3970b0120a5b36a7e970c " height="206" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36a7e970c-pi" style="text-align: center; display: block; margin: 0 auto 20px;" width="500" /></span>

@@ -17,7 +17,7 @@ So how can weblogs improve a vendor&#39;s product support and promotional infras
 
 <a name="weblogCommunity"></a><h3>Weblog Community <a href="#weblogCommunity">#</a></h3>
 
-<img align="right" src="http://media.redmonk.net/images/site/youAreHere.png" />On a weblog, the reader gets a lot of &#39;context&#39;: topic or category lists, related posts, search functionality, and links to other weblogs that are related by product or genre. Every post on a weblog is URI-accessible, so it can be linked internally, from other weblogs, and yes, on the mailing lists. Links are the weblogger&#39;s language and currency.
+<img align="right" src="https://media.redmonk.net/images/site/youAreHere.png" />On a weblog, the reader gets a lot of &#39;context&#39;: topic or category lists, related posts, search functionality, and links to other weblogs that are related by product or genre. Every post on a weblog is URI-accessible, so it can be linked internally, from other weblogs, and yes, on the mailing lists. Links are the weblogger&#39;s language and currency.
 
 As a weblog becomes known, and other weblogs start linking to it, it becomes integrated into the weblogging geography (the &quot;blogosphere&quot;). By then it becomes easier for a product or service&#39;s users to find the vendor&#39;s weblog, and more likely that interested readers will stumble onto it. This can also be a reason a vendor might link to their competitors&#39; weblogs/websites - doing so creates a referral trail that can lead potential customers back to their site (especially using some of the weblogging tools mentioned later.)
 

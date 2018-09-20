@@ -3,7 +3,7 @@ Date: 2004-06-12
 Title: Unbreakable
 layout: post
 
-<a href="http://imdb.com/title/tt0217869/"><img align="right" alt="David Dunn, Elijah Price, *Unbreakable*" border="0" src="http://rm.bookdev.com/mt/mt-static/uploads/david-and-elijah.jpeg" title="David Dunn, Elijah Price, *Unbreakable*" /></a>While assembling a ceiling fan tonight, I popped in our copy of *<a href="http://imdb.com/title/tt0217869/">Unbreakable</a>*, M. Night Shyamalan&#39;s 2000 non-hit movie. Jodi and I saw it in the theaters, and unlike 90% of the audience, loved it. It&#39;s slow and intense, artful and sometimes heavy-handed. One might call it &quot;brooding&quot;.
+<a href="http://imdb.com/title/tt0217869/"><img align="right" alt="David Dunn, Elijah Price, *Unbreakable*" border="0" src="https://rm.bookdev.com/mt/mt-static/uploads/david-and-elijah.jpeg" title="David Dunn, Elijah Price, *Unbreakable*" /></a>While assembling a ceiling fan tonight, I popped in our copy of *<a href="http://imdb.com/title/tt0217869/">Unbreakable</a>*, M. Night Shyamalan&#39;s 2000 non-hit movie. Jodi and I saw it in the theaters, and unlike 90% of the audience, loved it. It&#39;s slow and intense, artful and sometimes heavy-handed. One might call it &quot;brooding&quot;.
 
 Of course, the ceiling fan got assembled much more slowly than it might have if I&#39;d let the film stay in the background as intended. It was so easy, however, to get engrossed in the cautious yet inexorable move that David Dunn makes from stadium security guard to newly minted Hero.
 

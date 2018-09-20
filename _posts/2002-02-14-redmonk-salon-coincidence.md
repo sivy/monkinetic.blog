@@ -6,5 +6,5 @@ layout: post
 Hmmmm?<p>
 
 <center>
-<img border="1" src="http://media.redmonk.net/images/redmonkSalon.jpg" />
+<img border="1" src="https://media.redmonk.net/images/redmonkSalon.jpg" />
 </center></p>

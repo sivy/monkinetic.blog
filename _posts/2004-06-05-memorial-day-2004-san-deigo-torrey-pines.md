@@ -4,7 +4,7 @@ Title: "Memorial Day 2004, San Deigo: Torrey Pines"
 layout: post
 
 <blockquote class="callout"><a href="http://redmonk.net/mt/mt-static/uploads/16.jpg" title="Torrey Pines Gliderport">Torrey Pines Gliderport!</a><br /><br />
-<a href="http://redmonk.net/mt/mt-static/uploads/13.jpg" title="Paraglider"><img alt="Paraglider" class="at-xid-6a010534988cd3970b0120a55ce281970b" height="160" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a55ce281970b-pi" width="120" /></a><br /><br />
+<a href="http://redmonk.net/mt/mt-static/uploads/13.jpg" title="Paraglider"><img alt="Paraglider" class="at-xid-6a010534988cd3970b0120a55ce281970b" height="160" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a55ce281970b-pi" width="120" /></a><br /><br />
 Paraglider guy!
 <ul>
 <li><a href="http://redmonk.net/mt/mt-static/uploads/14.jpg">Paraglider guy 2</a></li>
@@ -22,7 +22,7 @@ We watched as one guy explained a bit about paragliding to a mother and child wh
 We snapped the pics, boggled at the gliders sliding silently by, then decided to move on to the State Reserve up the street.
 
 <blockquote class="callout">
-<a href="http://redmonk.net/mt/mt-static/uploads/20.jpg" title="Steve and Jodi at Torrey Pines State Reserve"><img alt="Steve and Jodi at Torrey Pines State Reserve" height="90" src="http://redmonk.net/mt/mt-static/uploads/thumb-20.jpg" width="120" /></a><br /><br />
+<a href="http://redmonk.net/mt/mt-static/uploads/20.jpg" title="Steve and Jodi at Torrey Pines State Reserve"><img alt="Steve and Jodi at Torrey Pines State Reserve" height="90" src="https://redmonk.net/mt/mt-static/uploads/thumb-20.jpg" width="120" /></a><br /><br />
 Jodi and I at Torrey Pines Reserve. I forgot to take a picture of a Torrey Pine though.
 </blockquote>
 

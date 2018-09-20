@@ -3,7 +3,7 @@ Date: 2007-06-26
 Title: cheese zombie!
 layout: post
 
-<a href="http://www.flickr.com/photos/redmonk/622091439/" title="photo sharing"><img alt="" class="at-xid-6a010534988cd3970b0120a5b3692f970c" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b3692f970c-pi" style="border: solid 2px #000000;" /></a>
+<a href="http://www.flickr.com/photos/redmonk/622091439/" title="photo sharing"><img alt="" class="at-xid-6a010534988cd3970b0120a5b3692f970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b3692f970c-pi" style="border: solid 2px #000000;" /></a>
 <br />
 <span style="font-size: 0.9em; margin-top: 0px;"><a href="http://www.flickr.com/photos/redmonk/622091439/">cheesezombie2</a>
 <br />

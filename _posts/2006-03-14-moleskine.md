@@ -3,7 +3,7 @@ Date: 2006-03-14
 Title: Moleskine
 layout: post
 
-<img alt="Large Plain Journal" class="at-xid-6a010534988cd3970b0120a5b361d4970c" id="image2276" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b361d4970c-pi" style="float: right; margin-left: 10px; margin-bottom: 10px;" />
+<img alt="Large Plain Journal" class="at-xid-6a010534988cd3970b0120a5b361d4970c" id="image2276" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b361d4970c-pi" style="float: right; margin-left: 10px; margin-bottom: 10px;" />
 
 I just received my first Moleskine notebook. After opening it, and experiencing the quality of the cover, the leaves themselves, and the binding... I may never buy another brand of journal/notebook. My weapon of choice? The Large Plain Journal: 5x8, 120 pages, no lines. As I told |Jim|:
 

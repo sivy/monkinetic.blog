@@ -18,7 +18,7 @@ It's true, that url shorteners have been used to hide links to sites containing 
 
 By implementing a system that uses a combination of personal [perma-short-links]((http://www.monkinetic.com/2010/05/tantek-celik-diso-20-brass-tacks.html) and [rel=shortlink](http://microformats.org/wiki/rel-shortlink), Service Providers have no (malware-related) reason to route *every* link on the service through their own shortener. The components are already in place to allow publishers to provide their own shortlinks for content and link it to the content, and for Service Providers to validate those links. Consider this flow:
 
-<a href="http://www.flickr.com/photos/redmonk/4702982743/" title="Shortlink Validation by steve-ivy, on Flickr"><img src="http://farm5.static.flickr.com/4005/4702982743_84dba892ac_b.jpg" width="366" height="591" alt="Shortlink Validation" /></a>
+<a href="http://www.flickr.com/photos/redmonk/4702982743/" title="Shortlink Validation by steve-ivy, on Flickr"><img src="https://farm5.static.flickr.com/4005/4702982743_84dba892ac_b.jpg" width="366" height="591" alt="Shortlink Validation" /></a>
 
 1. Publisher creates a new page/article, including a <link> element with the [rel=shortlink](http://microformats.org/wiki/rel-shortlink) microformat with the page's [perma-short-link](http://www.monkinetic.com/2010/05/tantek-celik-diso-20-brass-tacks.html)
 2. Publisher posts a message on Twitter, Buzz, etc. linking to the article with the perma-short-link.

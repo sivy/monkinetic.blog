@@ -27,19 +27,19 @@ Sid will be available for download soon.
 I&#39;m glad you asked! These are old screenshots of Sid, I&#39;ll have new ones up soon, but for now this will give you an idea of what it&#39;s capable of.
 
 Here&#39;s Sid&#39;s main window, on the &#39;Post&#39; tab:
-<img align="center" border="1" src="http://media.redmonk.net/images/sid/postTab.jpg" />
+<img align="center" border="1" src="https://media.redmonk.net/images/sid/postTab.jpg" />
 
 Sid provides a &#39;Text&#39; menu with which you can add simple formatting and links to your post:<br />
-<img align="center" border="1" src="http://media.redmonk.net/images/sid/addLink.jpg" />
+<img align="center" border="1" src="https://media.redmonk.net/images/sid/addLink.jpg" />
 
 Sid will let you see a preview, after a fashion, on the &#39;Preview&#39; tab:
-<img align="center" border="1" src="http://media.redmonk.net/images/sid/previewTab.jpg" />
+<img align="center" border="1" src="https://media.redmonk.net/images/sid/previewTab.jpg" />
 
 In order to post to your conversation, you&#39;ll need to enter a few important settings:
-<img align="center" border="1" src="http://media.redmonk.net/images/sid/settingsTab.jpg" />
+<img align="center" border="1" src="https://media.redmonk.net/images/sid/settingsTab.jpg" />
 
 Sid maintains a history of your past posts, and lets you select one and edit it by clicking the &#39;Edit Post&#39; button:
-<img align="center" border="1" src="http://media.redmonk.net/images/sid/historyDrawer.jpg" />
+<img align="center" border="1" src="https://media.redmonk.net/images/sid/historyDrawer.jpg" />
 
 Bug reports, gratuitous praise, or various forms of wealth can be sent to steve@redmonk.net, AIM:monkinetic.
 

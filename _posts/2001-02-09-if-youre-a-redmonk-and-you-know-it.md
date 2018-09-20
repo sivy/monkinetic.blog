@@ -5,4 +5,4 @@ layout: post
 
 This is the license plate for you!
 
-<img src="http://media.redmonk.net/images/redmonkPlate.gif" />
+<img src="https://media.redmonk.net/images/redmonkPlate.gif" />

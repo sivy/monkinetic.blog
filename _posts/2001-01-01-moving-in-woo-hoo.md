@@ -7,6 +7,6 @@ Well, after nearly a year of work, on and off, and spending the entire christmas
 
 Before and After:
 
-<center><a href="http://media.redmonk.net/images/house/masterBedroom.jpg"><img border="0" src="http://media.redmonk.net/images/house/masterBedroomSmall.jpg" /></a>&#0160;&#0160;&#0160;<a href="http://media.redmonk.net/images/house/newMasterBedroom.jpg"><img border="0" src="http://media.redmonk.net/images/house/newMasterBedroomSmall.jpg" /></a></center>
+<center><a href="http://media.redmonk.net/images/house/masterBedroom.jpg"><img border="0" src="https://media.redmonk.net/images/house/masterBedroomSmall.jpg" /></a>&#0160;&#0160;&#0160;<a href="http://media.redmonk.net/images/house/newMasterBedroom.jpg"><img border="0" src="https://media.redmonk.net/images/house/newMasterBedroomSmall.jpg" /></a></center>
 
 It&#39;s like a huge burden lifted! There are a few tiny details to complete, but we&#39;ve moved in.

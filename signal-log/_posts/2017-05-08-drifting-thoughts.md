@@ -10,7 +10,7 @@ Check grid... **Stratios at 0km**
 *SHIT*
 
 <p style="text-align: center">
- <img src="http://i.imgur.com/sk1LVTL.jpg" style="margin: 0 auto;">
+ <img src="https://i.imgur.com/sk1LVTL.jpg" style="margin: 0 auto;">
 </p>
 
 The proximity alarm was **demanding** attention ("blaring in my ears" might have been the expression but seriously, Cluster Standard is inadequate to describe pod-mediated and implant-enhanced "senses") and I was frantically scanning the overview for a celestial to warp to. *Planet... IV, 15au GO GO GO GO*

@@ -3,7 +3,7 @@ Date: 2008-09-20
 Title: An Update on the Virtual Office
 layout: post
 
-<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img  alt="6A Staff Mtg" class="mt-image-center at-xid-6a010534988cd3970b0120a55ce897970b " height="200" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a55ce897970b-pi" style="text-align: center; display: block; margin: 0 auto 20px;" width="500" /></span>
+<span class="mt-enclosure mt-enclosure-image" style="display: inline;"><img  alt="6A Staff Mtg" class="mt-image-center at-xid-6a010534988cd3970b0120a55ce897970b " height="200" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a55ce897970b-pi" style="text-align: center; display: block; margin: 0 auto 20px;" width="500" /></span>
 
 I spent 45 minutes or so today in IRC this morning, in a staff meeting. It was pretty effective, actually, just missing some faces to make the experience a little more personal. Due to technical difficulties the meeting was not conducted over [XMeeting](http://xmeeting.sourceforge.net/pages/index.php) as planned, but if it had been, the experience would have been about as close to the Virtual Office as I've ever gotten.
 

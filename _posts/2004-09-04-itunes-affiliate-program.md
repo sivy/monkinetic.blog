@@ -7,4 +7,4 @@ Ok, so I signed up for the <a href="http://www.apple.com/itunes/affiliates/">iTu
 
 Anyway, we&#39;ll see how it plays out.
 
-<a href="http://click.linksynergy.com/fs-bin/click?id=TcVDIfBAV4s&amp;offerid=78524.10000012&amp;subid=0&amp;type=4"><img alt="iTunes" border="0" src="http://ad.linksynergy.com/fs-bin/show?id=TcVDIfBAV4s&amp;bids=78524.10000012&amp;subid=0&amp;type=4&amp;gridnum=-1" /></a>
+<a href="http://click.linksynergy.com/fs-bin/click?id=TcVDIfBAV4s&amp;offerid=78524.10000012&amp;subid=0&amp;type=4"><img alt="iTunes" border="0" src="https://ad.linksynergy.com/fs-bin/show?id=TcVDIfBAV4s&amp;bids=78524.10000012&amp;subid=0&amp;type=4&amp;gridnum=-1" /></a>

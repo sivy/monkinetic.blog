@@ -7,4 +7,4 @@ Via Scott Kurtz, creator of the [PVP](http://www.pvponline.com/blog/) comic, the
 
 Like, Scott, I grew up on B.C. and it was always one of favorite comics. Rest In Peace, Johnny -- I know you will.
 
-<img alt="bc.jpg" class="at-xid-6a010534988cd3970b0120a5b36add970c" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36add970c-pi" />
+<img alt="bc.jpg" class="at-xid-6a010534988cd3970b0120a5b36add970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36add970c-pi" />

@@ -14,7 +14,7 @@ Since the election I've been trying to figure out what I can do long-term to par
 
 In addition, as a small gesture in encouraging you to get involved in helping thee and other organizations, I'm adding links to this site, right on the home page, that will let you help too.
 
-<img title="resist hate, embrace hope [banner]" src="http://i.imgur.com/OQN9TyC.png" width="100%" />
+<img title="resist hate, embrace hope [banner]" src="https://i.imgur.com/OQN9TyC.png" width="100%" />
 
 Don't give up.
 

@@ -6,7 +6,7 @@ tp_favoritecount: 0
 tp_commentcount: 1
 Slug: rem---around-the-sun
 
-<img align="right" alt="R.E.M. Around The Sun Redux" class="at-xid-6a010534988cd3970b0120a55ce358970b" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a55ce358970b-pi" />
+<img align="right" alt="R.E.M. Around The Sun Redux" class="at-xid-6a010534988cd3970b0120a55ce358970b" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a55ce358970b-pi" />
 <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewAlbum?playlistId=22245530">NEW R.E.M.</a>!
 
 The iTunes Music Store has a 3 minute montage of track snippets from R.E.M.&#39;s upcoming album, Around The Sun. I can&#39;t wait.

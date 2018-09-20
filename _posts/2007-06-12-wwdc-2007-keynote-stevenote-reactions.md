@@ -3,23 +3,23 @@ Date: 2007-06-12
 Title: WWDC 2007 Keynote (Stevenote) reactions
 layout: post
 
-<img alt="leopard_menu" class="at-xid-6a010534988cd3970b0120a5b36975970c" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36975970c-pi" />
+<img alt="leopard_menu" class="at-xid-6a010534988cd3970b0120a5b36975970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36975970c-pi" />
 
 [Transparent menubar](http://www.apple.com/macosx/leopard/features/desktop.html)? Meh.
 
-<img alt="leopard_dock" class="at-xid-6a010534988cd3970b0120a5b36980970c" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36980970c-pi" />
+<img alt="leopard_dock" class="at-xid-6a010534988cd3970b0120a5b36980970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36980970c-pi" />
 
 3D shiny dock? Meh.
 
-<img alt="leopard_stacks" class="at-xid-6a010534988cd3970b0120a5b36988970c" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36988970c-pi" />
+<img alt="leopard_stacks" class="at-xid-6a010534988cd3970b0120a5b36988970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36988970c-pi" />
 
 Stacks? WAY COOL DO WANT.
 
-<img alt="leopard_sidebar" class="at-xid-6a010534988cd3970b0120a5b3698e970c" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b3698e970c-pi" />
+<img alt="leopard_sidebar" class="at-xid-6a010534988cd3970b0120a5b3698e970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b3698e970c-pi" />
 
 &quot;FinderTunes&quot;... The jury&#39;s out.
 
-<img alt="leopard_coverflow" class="at-xid-6a010534988cd3970b0120a5b36996970c" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36996970c-pi" />
+<img alt="leopard_coverflow" class="at-xid-6a010534988cd3970b0120a5b36996970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36996970c-pi" />
 
 &quot;FinderFlow&quot;... Pretty cool.
 

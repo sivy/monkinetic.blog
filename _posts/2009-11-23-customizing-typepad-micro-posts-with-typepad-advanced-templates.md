@@ -46,6 +46,6 @@ In my stylesheet, I then added several rules to target the newly-classed 'micro'
 
 Now, my Micro posts get a little "speech pointer" and border attached, to call them out as quick posts:
 
-<img class="asset  asset-image at-xid-6a010534988cd3970b0120a6c8aca2970b" alt="Monkinetic weblog | monkinetic.com" title="Monkinetic weblog | monkinetic.com" src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a6c8aca2970b-800wi" border="0"  />
+<img class="asset  asset-image at-xid-6a010534988cd3970b0120a6c8aca2970b" alt="Monkinetic weblog | monkinetic.com" title="Monkinetic weblog | monkinetic.com" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a6c8aca2970b-800wi" border="0"  />
 
 With a little code and CSS fiddling, you can style your TypePad Micro posts so that they don't get lost amid the other blog posts.

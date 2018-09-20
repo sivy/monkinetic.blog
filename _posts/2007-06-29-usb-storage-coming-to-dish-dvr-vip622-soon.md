@@ -15,4 +15,4 @@ layout: post
 
 Maybe I&#39;ll have a reason to get one of those multi-drive [Drobo](http://drobo.com/products.aspx) USB/RAID devices... &lt;evil grin>
 
-<img alt="drobo" class="at-xid-6a010534988cd3970b0120a5b366ee970c " src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b366ee970c-pi" />
+<img alt="drobo" class="at-xid-6a010534988cd3970b0120a5b366ee970c " src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b366ee970c-pi" />

@@ -11,17 +11,17 @@ After [exploring some machine tagging](http://redmonk.net/archives/2007/07/30/us
 
 I'll admit, the implementation is still a bit scattered. This blog is powered by [WordPress](http://wordpress.org), so to start with the tags themselves are added to posts via a custom field called 'machinetags' - one entry for each tag:
 
-<img  alt="machinetags-1" class="at-xid-6a010534988cd3970b0120a5b364a4970c " src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b364a4970c-pi" style="border: 1px solid #ccc; padding:1px;" />
+<img  alt="machinetags-1" class="at-xid-6a010534988cd3970b0120a5b364a4970c " src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b364a4970c-pi" style="border: 1px solid #ccc; padding:1px;" />
 
 WordPress's template tags make it easy to get at those values as an array, which I pass to a WordPress plugin I wrote just for this. The plugin builds the initial display for the related items, adding ids and classes as hooks for the next bit.
 
-<img  alt="machinetags-2" class="at-xid-6a010534988cd3970b0120a5b364b3970c " src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b364b3970c-pi" style="border: 1px solid #ccc; padding:1px;" />
+<img  alt="machinetags-2" class="at-xid-6a010534988cd3970b0120a5b364b3970c " src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b364b3970c-pi" style="border: 1px solid #ccc; padding:1px;" />
 
 When the page loads, I wrote some javascript (using [JQuery](http://jquery.com)) that attaches custom event handlers to the click events for the "more posts" and "view" links. The handlers fire off ajax calls, so that I'm not making a lot of ajax calls as the page initially loads (which would increase page load times for something that only some readers are going to be interested in).
 
 As you can see here, clicking the links loads related content inline:
 
-<img  alt="machinetags-3" class="at-xid-6a010534988cd3970b0120a5b364be970c " src="http://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b364be970c-pi" style="border: 1px solid #ccc; padding:1px;" />
+<img  alt="machinetags-3" class="at-xid-6a010534988cd3970b0120a5b364be970c " src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b364be970c-pi" style="border: 1px solid #ccc; padding:1px;" />
 
 ##Strategies
 
