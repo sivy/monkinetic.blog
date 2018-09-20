@@ -14,8 +14,7 @@
 </li>
 {% endif %}
 
-{% if site.theme_data.service_links %}
-	{% for link in site.theme_data.service_links %}
+{% for link in site.theme_data.service_links %}
 	<li>
 		<a href="{{ link.link }}" title="{{ site.theme_data.str_follow_on }} {{ link.name | capitalize }}">
 			{% if link.icon contains "fa-" %}
@@ -25,6 +24,5 @@
 			{% endif %}
 		</a>
 	</li>
-	{% endfor %}
-{% endif %}
+{% endfor %}
 

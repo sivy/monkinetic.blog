@@ -66,7 +66,7 @@ theme_data:
   wordpress:
   youtube:
 
-  service_icons:
+  service_links:
     -
       name: github
       link: "https://github.com/sivy/"
