@@ -18,13 +18,13 @@
 	{% for link in site.theme_data.service_links %}
 	<li>
 		<a href="{{ link.link }}" title="{{ site.theme_data.str_follow_on }} {{ link.name | capitalize }}">
-			{%- if link.icon contains "fa-" %}
+			{% if link.icon contains "fa-" %}
 			<i class="fa fa-fw {{ link.icon}}"></i>
 			{% else %}
 			<img src="{{ link.icon }}" style="width:16px">
-			{% endif -%}
+			{% endif %}
 		</a>
-	</li>	
+	</li>
 	{% endfor %}
 {% end %}
 
