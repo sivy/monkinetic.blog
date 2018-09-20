@@ -75,12 +75,12 @@ theme_data:
     -
       name: toot.cafe
       link: "https://toot.cafe/@sivy"
-      icon: "/img/mastodon.png"
+      icon: "/img/mastodon_logo.svg"
 
     -
       name: mastodon.social
       link: "https://mastodon.social/@sivy"
-      icon: "/img/mastodon.png"
+      icon: "/img/mastodon_logo.svg"
 
     -
       name: twitter
